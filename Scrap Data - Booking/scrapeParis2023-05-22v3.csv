@@ -1,0 +1,1001 @@
+,hotel,price,rating,start_date,city
+0,UCPA SPORT STATION HOSTEL PARIS,690,8.0,2023-05-22,Paris
+1,Novotel Paris Porte Versailles,1541,8.5,2023-05-22,Paris
+2,Hotel Restaurant Au Boeuf Couronné,953,8.5,2023-05-22,Paris
+3,Fauchon l'Hôtel Paris,4951,9.3,2023-05-22,Paris
+4,Hotel Le 10 BIS,1779,8.8,2023-05-22,Paris
+5,Cosy studio 2P - Auteuil RDC,737,nan,2023-05-22,Paris
+6,Family Residence,1176,8.0,2023-05-22,Paris
+7,Novotel Paris 20 Belleville,1382,8.3,2023-05-22,Paris
+8,Novotel Paris Gare De Lyon,1740,8.1,2023-05-22,Paris
+9,Hôtel Korner Etoile,1120,8.3,2023-05-22,Paris
+10,Hotel des Bains,770,7.6,2023-05-22,Paris
+11,Le 123 Sébastopol - Astotel,2266,9.0,2023-05-22,Paris
+12,Hôtel d'Argenson,1097,8.4,2023-05-22,Paris
+13,"Holiday Inn Paris Gare de l'Est, an IHG Hotel",1155,7.7,2023-05-22,Paris
+14,Aparthotel Adagio Paris Nation,1126,8.4,2023-05-22,Paris
+15,Best Western Aramis Saint Germain,1619,8.1,2023-05-22,Paris
+16,Hotel Lorette - Astotel,1565,8.6,2023-05-22,Paris
+17,Hôtel des Comédies,1397,8.2,2023-05-22,Paris
+18,Appart'City Paris La Villette,741,7.1,2023-05-22,Paris
+19,Appartement paris Trocadero - Passy,609,nan,2023-05-22,Paris
+20,Hotel Malte - Astotel,2428,9.1,2023-05-22,Paris
+21,Aparthotel Adagio Access Paris La Villette,867,7.0,2023-05-22,Paris
+22,Hotel Minerve,1823,8.2,2023-05-22,Paris
+23,Splendid Etoile,2199,8.8,2023-05-22,Paris
+24,Novotel Suites Paris Montreuil Vincennes,856,7.7,2023-05-22,Paris
+25,Hotel 34B - Astotel,1692,8.8,2023-05-22,Paris
+26,Hotel Aida Opera,1300,8.2,2023-05-22,Paris
+27,Korner Opera,1469,8.2,2023-05-22,Paris
+28,Louisa Hotel Paris,1154,7.5,2023-05-22,Paris
+29,Hotel de la Bretonnerie,1484,8.2,2023-05-22,Paris
+30,Hotel Terminus Lyon,1514,7.9,2023-05-22,Paris
+31,Mercure Paris Vaugirard Porte De Versailles,1732,8.2,2023-05-22,Paris
+32,Arc de Triomphe-Champs Elysees City Apartment,1266,nan,2023-05-22,Paris
+33,citizenM Paris Gare de Lyon,1689,8.4,2023-05-22,Paris
+34,Hôtel A La Villa des Artistes,1347,8.6,2023-05-22,Paris
+35,Hôtel Augustin - Astotel,1680,8.6,2023-05-22,Paris
+36,Absolute Hotel Paris République,760,7.1,2023-05-22,Paris
+37,Residhome Paris Rosa Parks,724,8.3,2023-05-22,Paris
+38,Hotel Paix Republique,1208,8.2,2023-05-22,Paris
+39,Hotel Mimosa Paris,850,7.5,2023-05-22,Paris
+40,Hotel Astoria - Astotel,1542,8.4,2023-05-22,Paris
+41,"The Hoxton, Paris",2942,8.7,2023-05-22,Paris
+42,Residhome Paris Gare de Lyon - Jacqueline de Romilly,1223,8.2,2023-05-22,Paris
+43,Hotel Armoni Paris,1193,8.2,2023-05-22,Paris
+44,Austin's Saint Lazare Hotel,2541,8.1,2023-05-22,Paris
+45,Arc de Triomphe Etoile,1463,8.2,2023-05-22,Paris
+46,Ibis Paris Tour Eiffel Cambronne 15ème,1178,7.5,2023-05-22,Paris
+47,Hôtel Bedford,1802,8.3,2023-05-22,Paris
+48,Hôtel Albert 1er,1127,7.8,2023-05-22,Paris
+49,Bonsoir Madame,2087,8.9,2023-05-22,Paris
+50,Hotel Aix Europe,813,7.0,2023-05-22,Paris
+51,Edgar Suites Expo Paris Porte de Versailles,989,9.0,2023-05-22,Paris
+52,Hotel du Petit Moulin,3155,9.0,2023-05-22,Paris
+53,Mercure Paris Alesia,1309,8.5,2023-05-22,Paris
+54,Hotel Terminus Montparnasse,1395,7.4,2023-05-22,Paris
+55,Hotel Park Lane Paris,1845,8.1,2023-05-22,Paris
+56,Hotel Joyce - Astotel,1634,8.8,2023-05-22,Paris
+57,Best Western Le Montmartre – Saint Pierre,1128,7.6,2023-05-22,Paris
+58,Grand Pigalle Hotel,1991,8.7,2023-05-22,Paris
+59,Le Malown,1595,7.8,2023-05-22,Paris
+60,Résidence du Pré,963,8.1,2023-05-22,Paris
+61,Bradford Elysées - Astotel,2358,9.0,2023-05-22,Paris
+62,SO Paris Hotel,3453,9.1,2023-05-22,Paris
+63,Hotel de L'Empereur by Malone,2236,8.5,2023-05-22,Paris
+64,Mercure Paris Montparnasse Pasteur,1484,8.0,2023-05-22,Paris
+65,Best Western Premier Opéra Faubourg,1421,7.8,2023-05-22,Paris
+66,Hotel Les Bains Paris,2658,8.9,2023-05-22,Paris
+67,L'Adresse,1573,7.1,2023-05-22,Paris
+68,Best Western Plus La Demeure,1586,8.2,2023-05-22,Paris
+69,Hotel Opéra d'Antin,2090,7.8,2023-05-22,Paris
+70,Jardins Eiffel,1733,8.4,2023-05-22,Paris
+71,Hôtel La Canopée,1973,9.0,2023-05-22,Paris
+72,Hotel de l'Aqueduc,908,7.2,2023-05-22,Paris
+73,Best Western Nouvel Orléans Montparnasse,1122,7.7,2023-05-22,Paris
+74,Hotel Andréa,1507,7.2,2023-05-22,Paris
+75,Bel Oranger Gare de Lyon,1073,7.9,2023-05-22,Paris
+76,Ibis Styles Paris Massena Olympiades,989,8.2,2023-05-22,Paris
+77,Hipotel Paris Voltaire Bastille,907,7.1,2023-05-22,Paris
+78,Hotel Eiffel Blomet,1577,8.7,2023-05-22,Paris
+79,Hôtel Saint-Charles,1196,8.3,2023-05-22,Paris
+80,Hotel Michelet Odeon,1402,7.7,2023-05-22,Paris
+81,Hôtel Dame des Arts,2535,10,2023-05-22,Paris
+82,Hôtel Le M,1679,8.0,2023-05-22,Paris
+83,Hotel Residence Foch,1940,8.3,2023-05-22,Paris
+84,Hôtel Le Lavoisier,1589,7.9,2023-05-22,Paris
+85,Pullman Paris Tour Eiffel,3045,8.2,2023-05-22,Paris
+86,Hôtel Perreyve,1322,7.9,2023-05-22,Paris
+87,Graphik Montparnasse,1181,8.3,2023-05-22,Paris
+88,citizenM Paris Champs-Élysées,2214,8.5,2023-05-22,Paris
+89,Hôtel Harvey,1202,8.6,2023-05-22,Paris
+90,TRIBE Paris Batignolles,1267,8.6,2023-05-22,Paris
+91,Hôtel Aurore Paris Gare de Lyon,1109,7.9,2023-05-22,Paris
+92,Pavillon Faubourg Saint-Germain &amp; Spa,3825,8.9,2023-05-22,Paris
+93,Hôtel Maxim Quartier Latin,1567,8.2,2023-05-22,Paris
+94,Timhotel Le Louvre,1247,7.5,2023-05-22,Paris
+95,Hotel Palm - Astotel,1634,8.9,2023-05-22,Paris
+96,Hotel Eiffel Seine,1641,8.1,2023-05-22,Paris
+97,Le 123 Elysees - Astotel,2335,8.7,2023-05-22,Paris
+98,Hotel Inn Design Paris Place d’Italie (ex Timhotel),1071,8.0,2023-05-22,Paris
+99,Adagio Paris 19ème Cité de la Musique,969,7.7,2023-05-22,Paris
+100,Nolinski Paris,4625,9.2,2023-05-22,Paris
+101,Hôtel du Vieux Marais,1499,8.1,2023-05-22,Paris
+102,Le Robinet d'Or,1375,8.8,2023-05-22,Paris
+103,First Hotel Paris Tour Eiffel,1713,8.1,2023-05-22,Paris
+104,Hôtel Rosalie,1639,8.6,2023-05-22,Paris
+105,Marceau Champs-Elysées,1514,8.1,2023-05-22,Paris
+106,Le Grand Hôtel de Normandie,1924,7.6,2023-05-22,Paris
+107,Hôtel Brésil Opéra,1458,8.3,2023-05-22,Paris
+108,Le Pavillon de la Reine &amp; Spa - Small Luxury Hotels of the World,4845,8.9,2023-05-22,Paris
+109,Garden-Elysée,1819,8.5,2023-05-22,Paris
+110,Hotel Saint Honore,1948,7.3,2023-05-22,Paris
+111,Hotel Ares Eiffel,2030,8.3,2023-05-22,Paris
+112,Hôtel Maxim Folies,1407,8.6,2023-05-22,Paris
+113,Le 12 Hôtel,1961,9.0,2023-05-22,Paris
+114,Hôtel Elixir,1956,7.7,2023-05-22,Paris
+115,ibis Paris Gare De L'Est TGV,1385,7.4,2023-05-22,Paris
+116,Le Pavillon des Lettres - Small Luxury Hotels of the World,2933,8.8,2023-05-22,Paris
+117,Au Pacific Hotel,932,7.9,2023-05-22,Paris
+118,Hôtel de Joséphine BONAPARTE,2759,9.2,2023-05-22,Paris
+119,Prince de Conde,1450,7.9,2023-05-22,Paris
+120,Edouard 7 Paris Opéra,3077,8.6,2023-05-22,Paris
+121,"Hotel Litteraire Le Swann, BW Premier Collection",1725,8.4,2023-05-22,Paris
+122,Hotel Joke - Astotel,1588,8.9,2023-05-22,Paris
+123,Hotel Beausejour,1222,7.7,2023-05-22,Paris
+124,Hotel Villa Romantic &amp; Spa,1651,9.0,2023-05-22,Paris
+125,Super Studio 2P - BastilleSt Antoine 16,935,nan,2023-05-22,Paris
+126,Jardin de Villiers,1056,8.1,2023-05-22,Paris
+127,Grand Hotel Dore,1430,8.2,2023-05-22,Paris
+128,Cler Hotel,2663,8.8,2023-05-22,Paris
+129,Hotel Muguet,2423,9.0,2023-05-22,Paris
+130,La Maison Champs Elysées,2925,7.6,2023-05-22,Paris
+131,Hotel Viator - Gare de Lyon,1283,7.9,2023-05-22,Paris
+132,Odeon Hotel by Malone,2887,8.5,2023-05-22,Paris
+133,Grand Hotel Francais,1430,8.5,2023-05-22,Paris
+134,Art Hotel Eiffel,1584,8.2,2023-05-22,Paris
+135,Hotel Monterosa - Astotel,1542,8.6,2023-05-22,Paris
+136,Hôtel Paris La Fayette,1060,7.9,2023-05-22,Paris
+137,Dream Hôtel Opéra &amp; Spa,1769,8.2,2023-05-22,Paris
+138,Hotel Vignon,2003,8.2,2023-05-22,Paris
+139,Hôtel Regent's Garden - Astotel,2175,9.0,2023-05-22,Paris
+140,Hôtel Le Fabe,1419,8.5,2023-05-22,Paris
+141,Victoria Palace Hotel,2379,8.9,2023-05-22,Paris
+142,Hôtel Duo,2813,8.2,2023-05-22,Paris
+143,"Terrass"" Hotel",2759,8.8,2023-05-22,Paris
+144,Grand Hôtel du Bel Air,948,7.3,2023-05-22,Paris
+145,Hotel Le Chat Noir,1419,7.9,2023-05-22,Paris
+146,Hôtel Montparnasse Saint Germain,1757,8.0,2023-05-22,Paris
+147,Maison Albar Hotels Le Pont-Neuf,4005,8.9,2023-05-22,Paris
+148,Grand Hôtel De Turin,1277,7.9,2023-05-22,Paris
+149,Hotel Caumartin Opéra - Astotel,1726,8.0,2023-05-22,Paris
+150,Grand Hôtel De Turin,1277,7.9,2023-05-22,Paris
+151,Hotel Caumartin Opéra - Astotel,1726,8.0,2023-05-22,Paris
+152,Hôtel Raspail Montparnasse,1497,8.2,2023-05-22,Paris
+153,Mercure Paris Place d'Italie,1305,7.9,2023-05-22,Paris
+154,Hotel Bloum,1637,9.1,2023-05-22,Paris
+155,Hotel Beaugrenelle Tour Eiffel,1603,7.6,2023-05-22,Paris
+156,Best Western Premier Kapital Opéra,1758,8.6,2023-05-22,Paris
+157,Hotel Richmond Gare du Nord,1137,7.0,2023-05-22,Paris
+158,"Holiday Inn Express Paris-Canal De La Villette, an IHG Hotel",1177,8.1,2023-05-22,Paris
+159,Hôtel Le Cercle Tour Eiffel,2637,8.6,2023-05-22,Paris
+160,Hotel Monceau Wagram,1377,7.1,2023-05-22,Paris
+161,Le Tsuba Hotel,2254,8.8,2023-05-22,Paris
+162,Hotel George - Astotel,1600,8.7,2023-05-22,Paris
+163,Hotel des Grands Boulevards,2757,8.9,2023-05-22,Paris
+164,Hôtel De Nice,1478,8.2,2023-05-22,Paris
+165,Hôtel So Marais,1590,8.0,2023-05-22,Paris
+166,K+K Hôtel Cayré Saint Germain des Prés,2996,8.1,2023-05-22,Paris
+167,Kyriad Hotel XIII Italie Gobelins,1001,8.1,2023-05-22,Paris
+168,Elysees Niel Hotel,1493,8.0,2023-05-22,Paris
+169,Hôtel Arvor Saint Georges,1872,8.4,2023-05-22,Paris
+170,Montparnasse Daguerre,1163,8.0,2023-05-22,Paris
+171,Hôtel Elysées Paris,1637,7.5,2023-05-22,Paris
+172,Europe Saint Severin-Paris Notre Dame,2842,8.5,2023-05-22,Paris
+173,Nouvel Hôtel Eiffel,1587,7.8,2023-05-22,Paris
+174,Novotel Paris Centre Tour Eiffel,1297,7.3,2023-05-22,Paris
+175,Mercure Paris Centre Tour Eiffel,1574,7.5,2023-05-22,Paris
+176,Hôtel des Arts Montmartre,1863,9.5,2023-05-22,Paris
+177,Midnight Hotel Paris,1297,7.0,2023-05-22,Paris
+178,Comfort Hotel Nation Père Lachaise,790,7.1,2023-05-22,Paris
+179,Mercure Paris Gare de l'Est,1119,7.9,2023-05-22,Paris
+180,Lautrec Opera,1650,7.1,2023-05-22,Paris
+181,Hôtel Aston,1176,7.6,2023-05-22,Paris
+182,La Maison Gobert Paris Hotel Particulier,1788,9.2,2023-05-22,Paris
+183,Timhotel Palais Royal,1211,7.9,2023-05-22,Paris
+184,Best Western Hotel Le Montparnasse,1233,7.2,2023-05-22,Paris
+185,Padam Hôtel,2451,nan,2023-05-22,Paris
+186,Residence Les Boulevards,1617,7.8,2023-05-22,Paris
+187,La Planque Hotel,1798,9.1,2023-05-22,Paris
+188,Hôtel Eiffel Turenne,2278,8.5,2023-05-22,Paris
+189,"Hôtel du Louvre, in The Unbound Collection by Hyatt",4205,8.7,2023-05-22,Paris
+190,Mercure Paris Gare du Nord,1098,7.3,2023-05-22,Paris
+191,Hôtel Parisianer,1633,8.7,2023-05-22,Paris
+192,La Villa Maillot,1819,8.4,2023-05-22,Paris
+193,"The Originals City, Hôtel Lecourbe, Paris Tour Eiffel (Inter-Hotel)",1559,7.8,2023-05-22,Paris
+194,Hotel Lilas Blanc,1532,8.4,2023-05-22,Paris
+195,Saint Georges Lafayette,1202,7.8,2023-05-22,Paris
+196,Hotel Puy De Dôme,690,7.9,2023-05-22,Paris
+197,Pavillon Monceau,1232,7.9,2023-05-22,Paris
+198,Classy Studios Louvre -Vendôme,1421,7.6,2023-05-22,Paris
+199,Atlantic Hotel,1442,8.7,2023-05-22,Paris
+200,Aparthotel Adagio Paris Montmartre,1273,8.5,2023-05-22,Paris
+201,Jardins de Mademoiselle Hôtel &amp; Spa,2211,8.7,2023-05-22,Paris
+202,Hotel Campanile Paris-Bercy Village,859,7.9,2023-05-22,Paris
+203,Hotel Whistler,1829,8.5,2023-05-22,Paris
+204,Hotel London,1692,7.7,2023-05-22,Paris
+205,Appia La Fayette,1197,7.4,2023-05-22,Paris
+206,Hôtel de la Tour Eiffel,1889,7.3,2023-05-22,Paris
+207,Hotel de la Paix Tour Eiffel,2580,8.3,2023-05-22,Paris
+208,D'win,1720,7.8,2023-05-22,Paris
+209,Hotel Alhambra,1028,8.1,2023-05-22,Paris
+210,My Home In Paris,1830,9.1,2023-05-22,Paris
+211,Hotel de L'Esperance,1739,8.5,2023-05-22,Paris
+212,Hôtel Mayet,1372,7.7,2023-05-22,Paris
+213,Le Basile Hôtel,2435,9.0,2023-05-22,Paris
+214,Hotel Monsieur Helder,1842,8.2,2023-05-22,Paris
+215,Best Western Plus 61 Paris Nation Hotel,1107,7.6,2023-05-22,Paris
+216,Hôtel Veryste Paris,1634,8.4,2023-05-22,Paris
+217,"O'Lord, 4 Etoiles, Residence de Luxe Champs-Elysees",2281,9.0,2023-05-22,Paris
+218,Hotel Agora,1071,7.1,2023-05-22,Paris
+219,New Orient Hotel,1751,8.6,2023-05-22,Paris
+220,Hôtel Beige,2199,8.8,2023-05-22,Paris
+221,Hôtel Regina Opéra Grands Boulevards,1347,7.7,2023-05-22,Paris
+222,Hôtel Des Batignolles,1543,8.2,2023-05-22,Paris
+223,Hotel Brady - Gare de l'Est,1227,7.9,2023-05-22,Paris
+224,Best Western Plus Hôtel Mercedes,1349,7.9,2023-05-22,Paris
+225,Citadines Bastille Marais Paris,1541,7.9,2023-05-22,Paris
+226,Louvre Marsollier Opera,2059,7.6,2023-05-22,Paris
+227,Les Tournelles,2287,8.8,2023-05-22,Paris
+228,Hôtel Opera Lafayette,1727,7.3,2023-05-22,Paris
+229,HOTEL ALISON,1699,8.4,2023-05-22,Paris
+230,MEININGER Hotel Paris Porte de Vincennes,1082,7.8,2023-05-22,Paris
+231,Hôtel de l'Avre,1898,8.5,2023-05-22,Paris
+232,B Montmartre,2332,9.0,2023-05-22,Paris
+233,Trianon Gare de Lyon,1155,7.4,2023-05-22,Paris
+234,Fraser Suites Le Claridge Champs-Elysées,3578,7.6,2023-05-22,Paris
+235,Best Western Hôtel Littéraire Arthur Rimbaud,1603,7.9,2023-05-22,Paris
+236,Hotel Saint Cyr Etoile,1334,8.1,2023-05-22,Paris
+237,Hôtel Le Marianne,2295,8.8,2023-05-22,Paris
+238,Hotel Montaigne,3855,7.8,2023-05-22,Paris
+239,Hotel Splendor Elysées,1885,8.2,2023-05-22,Paris
+240,Maison Albar Hotels - Le Vendome,3595,8.7,2023-05-22,Paris
+241,Hôtel Paris Vaugirard,1347,8.3,2023-05-22,Paris
+242,ibis Styles Paris Meteor Avenue d'Italie,1039,8.6,2023-05-22,Paris
+243,Hotel Marena,1202,7.8,2023-05-22,Paris
+244,Hôtel Vic Eiffel,1687,8.8,2023-05-22,Paris
+245,Urban Bivouac Hotel,1421,8.7,2023-05-22,Paris
+246,Hotel des Vosges,551,7.9,2023-05-22,Paris
+247,9Confidentiel,3715,8.6,2023-05-22,Paris
+248,New Hotel Roblin,2286,8.3,2023-05-22,Paris
+249,Hotel Le Richemont,1020,7.9,2023-05-22,Paris
+250,Hôtel Des Deux-Iles - Notre-Dame,3013,8.8,2023-05-22,Paris
+251,Hôtel Nude Paris,1265,8.2,2023-05-22,Paris
+252,Hôtel du Square d'Anvers,1249,7.0,2023-05-22,Paris
+253,AC Hotel Paris Porte Maillot by Marriott,1769,8.2,2023-05-22,Paris
+254,Joie Paris GARE MONTPARNASSE,1177,8.1,2023-05-22,Paris
+255,55 Hôtel Montparnasse,1266,7.8,2023-05-22,Paris
+256,Hôtel Baudelaire Opéra,1692,8.1,2023-05-22,Paris
+257,Maison Athénée,2201,8.3,2023-05-22,Paris
+258,Deskopolitan House,1286,8.8,2023-05-22,Paris
+259,Pavillon de Montmartre,1267,7.1,2023-05-22,Paris
+260,Hôtel Gaston,1058,8.1,2023-05-22,Paris
+261,Hidden Hotel,2050,8.9,2023-05-22,Paris
+262,Aparthotel Adagio Porte de Versailles,1079,7.5,2023-05-22,Paris
+263,Hôtel Napoleon Paris,4635,8.4,2023-05-22,Paris
+264,Best Western Hotel Opéra Drouot,1869,7.9,2023-05-22,Paris
+265,New Hotel Lafayette,1298,7.8,2023-05-22,Paris
+266,Sejours &amp; Affaires Paris-Davout,854,8.1,2023-05-22,Paris
+267,Campanile Paris 19 - La Villette,771,7.9,2023-05-22,Paris
+268,Francois 1er,2258,8.5,2023-05-22,Paris
+269,Courcelles Etoile,1321,8.1,2023-05-22,Paris
+270,Maison Albar Hotels Le Diamond,2905,8.5,2023-05-22,Paris
+271,Hôtel des 3 Poussins,1682,8.7,2023-05-22,Paris
+272,Hotel Splendid,1367,7.7,2023-05-22,Paris
+273,Hotel Maison FL,1472,8.3,2023-05-22,Paris
+274,Avia Hôtel Saphir Montparnasse,2297,7.6,2023-05-22,Paris
+275,Maison Albar Hotels Le Champs-Elysées,2685,8.3,2023-05-22,Paris
+276,Hotel Claridge Paris,2362,8.3,2023-05-22,Paris
+277,25hours Hotel Terminus Nord,1271,8.4,2023-05-22,Paris
+278,Lennon Hotel Paris Gare du Nord,1169,7.4,2023-05-22,Paris
+279,Hotel Mirabeau Eiffel,1266,6.9,2023-05-22,Paris
+280,"InterContinental Paris Le Grand, an IHG Hotel",3519,8.5,2023-05-22,Paris
+281,OKKO Hotels Paris Gare de l'Est,959,8.3,2023-05-22,Paris
+282,Virgina,1254,8.3,2023-05-22,Paris
+283,Hotel La Manufacture,1300,8.3,2023-05-22,Paris
+284,Best Western Montcalm,1632,8.2,2023-05-22,Paris
+285,Austin's Arts Et Metiers Hotel,3346,8.2,2023-05-22,Paris
+286,Walled off Hotel Paris,1014,8.0,2023-05-22,Paris
+287,Renaissance Paris Arc de Triomphe Hotel,3359,8.3,2023-05-22,Paris
+288,Rose Bourbon,1806,8.4,2023-05-22,Paris
+289,Mercure Paris Opera Louvre,1583,8.3,2023-05-22,Paris
+290,Château Voltaire,4035,9.3,2023-05-22,Paris
+291,Hôtel Le Cardinal by Happyculture,1695,8.0,2023-05-22,Paris
+292,Hôtel Gustave,2367,8.8,2023-05-22,Paris
+293,Hôtel Toujours &amp; Spa,1629,8.0,2023-05-22,Paris
+294,La Mondaine,1512,8.5,2023-05-22,Paris
+295,Résidence Voûte,689,7.6,2023-05-22,Paris
+296,Edgar Suites Auteuil - Le Marois,2695,9.0,2023-05-22,Paris
+297,Agate Hôtel,969,8.1,2023-05-22,Paris
+298,Hotel de Flore,1195,8.7,2023-05-22,Paris
+299,Hôtel Le Colisée,1923,7.9,2023-05-22,Paris
+300,Miramar,890,7.9,2023-05-22,Paris
+301,Hôtel Relais Monceau,1086,7.7,2023-05-22,Paris
+302,Hôtel Orchidée,1144,8.3,2023-05-22,Paris
+303,Citadines Trocadéro Paris,1305,8.4,2023-05-22,Paris
+304,Hotel Claude Bernard Saint-Germain,1287,7.5,2023-05-22,Paris
+305,Best Western Premier Faubourg 88,1670,8.0,2023-05-22,Paris
+306,Hotel Plaza Elysées,2175,8.0,2023-05-22,Paris
+307,Hotel Left Bank Saint Germain,1601,8.7,2023-05-22,Paris
+308,Avalon Cosy Hotel Paris Gare du Nord,1895,8.4,2023-05-22,Paris
+309,Hipotel Paris Belgrand Mairie du 20ème,717,6.9,2023-05-22,Paris
+310,Hotel Le Saint Gregoire,1929,8.3,2023-05-22,Paris
+311,Hotel de Paris Montmartre,1103,8.1,2023-05-22,Paris
+312,Hôtel de Sévigné,2585,8.5,2023-05-22,Paris
+313,Hotel Acadia - Astotel,1622,8.5,2023-05-22,Paris
+314,Hotel Auguste,1258,7.0,2023-05-22,Paris
+315,Hôtel Vaneau Saint Germain,1453,7.9,2023-05-22,Paris
+316,Too Hotel Paris - MGallery,1647,8.6,2023-05-22,Paris
+317,Maison Axel Opéra,1493,8.4,2023-05-22,Paris
+318,Charles V,2218,8.6,2023-05-22,Paris
+319,Odalys City Paris XVII,844,7.6,2023-05-22,Paris
+320,Grand Hotel Nouvel Opera,809,6.0,2023-05-22,Paris
+321,Odalys City Paris Montmartre,1066,8.6,2023-05-22,Paris
+322,L'Amiral,1213,8.2,2023-05-22,Paris
+323,Citadines Tour Eiffel Paris,2104,8.0,2023-05-22,Paris
+324,Citadines Montmartre Paris,1198,7.9,2023-05-22,Paris
+325,Hôtel R de Paris - Boutique Hotel,2280,8.7,2023-05-22,Paris
+326,"voco Paris Montparnasse, an IHG Hotel",1585,8.4,2023-05-22,Paris
+327,Hôtel Eiffel XV,977,7.3,2023-05-22,Paris
+328,Excelsior Opera,1296,8.5,2023-05-22,Paris
+329,Le Belleval,1941,8.7,2023-05-22,Paris
+330,Hôtel LUX PICPUS,1176,7.6,2023-05-22,Paris
+331,Monceau Elysées,1647,8.5,2023-05-22,Paris
+332,Simon's Boutique Hôtel,890,8.1,2023-05-22,Paris
+333,Best Western Plus Opéra Batignolles,1469,8.0,2023-05-22,Paris
+334,Timhotel Montmartre,1301,8.3,2023-05-22,Paris
+335,Grand Hotel Saint Michel,2040,8.1,2023-05-22,Paris
+336,Hôtel Kabanel,1628,7.3,2023-05-22,Paris
+337,Hotel Magenta 38 by Happyculture,1694,8.0,2023-05-22,Paris
+338,Queen Mary Opera,1664,8.3,2023-05-22,Paris
+339,Apostrophe Hôtel,1613,7.9,2023-05-22,Paris
+340,Citadines Bastille Gare de Lyon Paris,1765,8.0,2023-05-22,Paris
+341,Citadines République Paris,1279,7.9,2023-05-22,Paris
+342,Eiffel Kennedy,996,8.3,2023-05-22,Paris
+343,Hôtel Istria by Magna Arbor,1144,7.4,2023-05-22,Paris
+344,Hotel Britannique,2900,8.9,2023-05-22,Paris
+345,Citadines Saint-Germain-des-Prés Paris,2292,8.1,2023-05-22,Paris
+346,Hôtel Opéra Liège,1949,8.8,2023-05-22,Paris
+347,Hôtel Regina Louvre,4121,8.8,2023-05-22,Paris
+348,Lyric Hotel Paris Opera,2451,8.9,2023-05-22,Paris
+349,Grand Hôtel Lévêque,1524,8.4,2023-05-22,Paris
+350,Sinner Paris,3485,8.7,2023-05-22,Paris
+351,Hotel Audran,1371,7.9,2023-05-22,Paris
+352,Hotel Villa Saxe Eiffel,2064,8.7,2023-05-22,Paris
+353,Le Damantin Hôtel &amp; Spa,4244,8.7,2023-05-22,Paris
+354,Tiquetonne,889,7.0,2023-05-22,Paris
+355,Hôtel Les Deux Gares,1203,8.4,2023-05-22,Paris
+356,Résidence Louvre - Bellan,2034,8.4,2023-05-22,Paris
+357,Amiral Hôtel,1099,7.3,2023-05-22,Paris
+358,Hotel Eden Montmartre,1054,7.9,2023-05-22,Paris
+359,Hotel Marignan Champs-Elysées,4359,8.5,2023-05-22,Paris
+360,Daunou Opéra,1877,8.8,2023-05-22,Paris
+361,La Perle,1931,8.7,2023-05-22,Paris
+362,Hôtel Saint-Pétersbourg Opéra &amp; Spa,2289,8.4,2023-05-22,Paris
+363,Citadines Place d'Italie Paris,1163,8.0,2023-05-22,Paris
+364,Maison Mère,1796,9.1,2023-05-22,Paris
+365,Hôtel Maxim Opéra,1629,8.3,2023-05-22,Paris
+366,Mercure Paris 17 Batignolles,1076,8.3,2023-05-22,Paris
+367,Hotel Mademoiselle,1511,8.2,2023-05-22,Paris
+368,Le Pigalle Hotel,1593,8.7,2023-05-22,Paris
+369,Turenne Le Marais,1522,8.0,2023-05-22,Paris
+370,Hôtel Galileo Champs Elysées,2842,8.5,2023-05-22,Paris
+371,Hyatt Paris Madeleine,4140,8.4,2023-05-22,Paris
+372,Hotel Louis II,3084,8.9,2023-05-22,Paris
+373,Aparthotel Adagio Access Paris Reuilly,1109,8.1,2023-05-22,Paris
+374,Hotel de l'Europe,602,6.2,2023-05-22,Paris
+375,Au Manoir Saint Germain,1739,8.5,2023-05-22,Paris
+376,Abaca Messidor by Happyculture,1970,8.0,2023-05-22,Paris
+377,Hotel Rendez-Vous Batignolles,1249,8.6,2023-05-22,Paris
+378,Hotel Champerret Elysees,1240,8.4,2023-05-22,Paris
+379,Hôtel Eden Opéra,1573,8.3,2023-05-22,Paris
+380,Hotel Ekta Champs Elysées,2612,8.8,2023-05-22,Paris
+381,Home Latin,1328,7.0,2023-05-22,Paris
+382,Hôtel Henri IV Rive Gauche,1723,8.5,2023-05-22,Paris
+383,ibis Daumesnil Porte Doree,783,8.1,2023-05-22,Paris
+384,Elysées Ceramic,1449,8.3,2023-05-22,Paris
+385,Hotel des Nations Saint Germain,1675,7.9,2023-05-22,Paris
+386,Hôtel Adèle &amp; Jules,1932,9.0,2023-05-22,Paris
+387,New Hotel Le Voltaire,1355,8.0,2023-05-22,Paris
+388,Rochester Champs Elysees,2270,8.5,2023-05-22,Paris
+389,Le Méridien Etoile,1667,6.9,2023-05-22,Paris
+390,Mercure Paris Bercy Bibliothèque,1484,8.1,2023-05-22,Paris
+391,Royal Garden Champs-Élysées,1698,7.7,2023-05-22,Paris
+392,Hotel Monsieur &amp; Spa,2739,8.4,2023-05-22,Paris
+393,Appart’City Confort Paris Grande Bibliothèque,1277,7.1,2023-05-22,Paris
+394,"Crowne Plaza Paris République, an IHG Hotel",1814,7.9,2023-05-22,Paris
+395,Mercure Paris Gare Montparnasse,1394,8.0,2023-05-22,Paris
+396,Hôtel Saint Marcel,1527,8.5,2023-05-22,Paris
+397,Hôtel Vinci Due &amp; Spa,2463,8.9,2023-05-22,Paris
+398,HOY Paris - Yoga Hotel,1764,8.8,2023-05-22,Paris
+399,Alyss Saphir Cambronne Eiffel,1470,7.4,2023-05-22,Paris
+400,Grand Hotel Chicago,1329,8.4,2023-05-22,Paris
+401,Timhotel Tour Eiffel,1193,7.3,2023-05-22,Paris
+402,Hôtel Da Vinci &amp; Spa,2723,8.6,2023-05-22,Paris
+403,Hyatt Regency Paris Etoile,2315,8.3,2023-05-22,Paris
+404,Grand Hôtel Dechampaigne,1416,7.7,2023-05-22,Paris
+405,The Westin Paris - Vendôme,3347,7.2,2023-05-22,Paris
+406,Hôtel Keppler,2195,9.1,2023-05-22,Paris
+407,Hôtel Joséphine by Happyculture,1745,7.8,2023-05-22,Paris
+408,Hotel Cervantes by Happyculture,1782,8.3,2023-05-22,Paris
+409,Hôtel Thérèse,2201,8.5,2023-05-22,Paris
+410,ibis Paris Grands Boulevards Opéra 9e,1356,8.1,2023-05-22,Paris
+411,Hôtel Avama Prony,1321,7.9,2023-05-22,Paris
+412,Courtyard by Marriott Paris Gare de Lyon,2005,8.6,2023-05-22,Paris
+413,Two Beautiful Studios - Bastille- 4 pers,873,7.5,2023-05-22,Paris
+414,Hôtel Oratio,1787,8.8,2023-05-22,Paris
+415,Hôtel de l'Abbaye,2309,9.0,2023-05-22,Paris
+416,Les Patios du Marais 1,1161,7.3,2023-05-22,Paris
+417,Hotel Bastille Speria,1701,8.6,2023-05-22,Paris
+418,Hôtel Paris Louvre Opéra,2087,8.0,2023-05-22,Paris
+419,2-ROOMS SUNNY IN HIP PLACE,969,nan,2023-05-22,Paris
+420,Paradise Crib,972,nan,2023-05-22,Paris
+421,Grand Hôtel Malher,1555,8.3,2023-05-22,Paris
+422,Maison Souquet,4245,9.2,2023-05-22,Paris
+423,Hotel The Playce by Happyculture,1631,7.8,2023-05-22,Paris
+424,Les Matins de Paris &amp; Spa,1749,8.3,2023-05-22,Paris
+425,Grand Hôtel Des Gobelins,1266,8.1,2023-05-22,Paris
+426,Hôtel Hor Europe,1400,8.8,2023-05-22,Paris
+427,Edgar Suites Saint-Lazare - Amsterdam,2221,9.0,2023-05-22,Paris
+428,Murat,1031,7.4,2023-05-22,Paris
+429,Hotel Terre Neuve,926,8.4,2023-05-22,Paris
+430,Hotel Bridget,913,8.1,2023-05-22,Paris
+431,Hotel La Lanterne &amp; Spa,1921,8.7,2023-05-22,Paris
+432,Hôtel Atlantis,1254,7.9,2023-05-22,Paris
+433,Elysées Union,1589,8.2,2023-05-22,Paris
+434,Maison Nabis by HappyCulture,1878,8.0,2023-05-22,Paris
+435,"Holiday Inn Paris Opéra - Grands Boulevards, an IHG Hotel",1514,8.2,2023-05-22,Paris
+436,Hotel Europe BLV,473,4.9,2023-05-22,Paris
+437,Eiffel Villa Garibaldi,1514,7.5,2023-05-22,Paris
+438,Hotel André Latin,1349,8.0,2023-05-22,Paris
+439,Les Halles Appartements,935,4.5,2023-05-22,Paris
+440,YOOMA Urban Lodge,1245,8.1,2023-05-22,Paris
+441,Cozy apartment for 2 located in Paris 19,774,nan,2023-05-22,Paris
+442,Novotel Paris Centre Bercy,1603,8.4,2023-05-22,Paris
+443,Hotel Vacances Bleues Villa Modigliani,1180,7.9,2023-05-22,Paris
+444,Beauquartier Paris - Haut Marais,1855,7.9,2023-05-22,Paris
+445,Hôtel Cordelia Opéra-Madeleine,1495,8.3,2023-05-22,Paris
+446,Cosy studio près de l'Arc de Triomphe - 2P,792,7.5,2023-05-22,Paris
+447,ibis budget Paris Porte De Montmartre,463,6.3,2023-05-22,Paris
+448,Pullman Paris Montparnasse,1480,8.5,2023-05-22,Paris
+449,Hotel Max,1048,8.8,2023-05-22,Paris
+450,Le Grand Quartier,1357,8.8,2023-05-22,Paris
+451,Crystal Hotel,1619,7.9,2023-05-22,Paris
+452,Hôtel La Comtesse,2933,8.9,2023-05-22,Paris
+453,Welcome Hotel,1910,8.2,2023-05-22,Paris
+454,Drawing House,1640,9.0,2023-05-22,Paris
+455,Hotel Mogador,1331,8.4,2023-05-22,Paris
+456,Hotel Haussmann Saint Augustin,1577,8.5,2023-05-22,Paris
+457,B&amp;B HOTEL Paris 17 Batignolles,925,7.9,2023-05-22,Paris
+458,Hôtel du Rond-point des Champs-Élysées - Esprit de France,1851,8.8,2023-05-22,Paris
+459,Chatillon Paris Montparnasse,1474,7.9,2023-05-22,Paris
+460,Timhotel Tour Montparnasse,941,7.4,2023-05-22,Paris
+461,GuestReady - Large Studio in the Heart of Paris for 2 people,934,6.7,2023-05-22,Paris
+462,Le Pradey,2829,8.5,2023-05-22,Paris
+463,Hôtel Raphael,3069,8.4,2023-05-22,Paris
+464,Le Marceau Bastille,1404,8.6,2023-05-22,Paris
+465,Hôtel Brighton - Esprit de France,2982,8.5,2023-05-22,Paris
+466,Timhotel Paris Gare de Lyon,1004,7.3,2023-05-22,Paris
+467,Pullman Paris Centre - Bercy,1839,8.3,2023-05-22,Paris
+468,Hotel Opéra Opal,1514,8.5,2023-05-22,Paris
+469,Mercure Paris Gare De Lyon Opera Bastille,1438,8.2,2023-05-22,Paris
+470,"Tinah Paris, Réaumur - Montorgeuil",1632,8.4,2023-05-22,Paris
+471,Aparthotel Adagio Paris Centre Tour Eiffel,1367,7.2,2023-05-22,Paris
+472,Hotel Paradis,1215,8.2,2023-05-22,Paris
+473,Hôtel Du Midi Paris Montparnasse,1202,8.3,2023-05-22,Paris
+474,Hôtel Derby Eiffel,1309,7.9,2023-05-22,Paris
+475,New Hôtel Gare Du Nord,1185,7.1,2023-05-22,Paris
+476,Timhotel Opera Madeleine,1367,7.5,2023-05-22,Paris
+477,Mercure Paris Gare De Lyon TGV,1429,7.8,2023-05-22,Paris
+478,Hôtel Bourg Tibourg,2788,8.9,2023-05-22,Paris
+479,Hôtel Henriette,1271,8.9,2023-05-22,Paris
+480,Hôtel Plaza Athénée - Dorchester Collection,12060,9.1,2023-05-22,Paris
+481,Hôtel Château Frontenac,2531,8.5,2023-05-22,Paris
+482,Best Stay Jeuneurs,2136,8.6,2023-05-22,Paris
+483,Grand Hôtel Amelot,1583,8.1,2023-05-22,Paris
+484,Aparthotel Adagio Paris Bercy Village,1093,7.8,2023-05-22,Paris
+485,Hotel Modern Est,1382,8.0,2023-05-22,Paris
+486,Hotel Berne Opera,1413,7.9,2023-05-22,Paris
+487,The Chess Hotel,1891,8.2,2023-05-22,Paris
+488,Le Rocroy Hotel Paris Gare du Nord,1817,7.8,2023-05-22,Paris
+489,Hotel Taylor,1428,8.8,2023-05-22,Paris
+490,Rue François Miron,1641,8.8,2023-05-22,Paris
+491,Résidence Centre de Paris Ponceau,1470,7.4,2023-05-22,Paris
+492,Hotel Louvre Bons Enfants,1552,7.6,2023-05-22,Paris
+493,Ibis Paris Gare Montparnasse Catalogne,1224,8.4,2023-05-22,Paris
+494,Novotel Paris Vaugirard Montparnasse,1391,7.9,2023-05-22,Paris
+495,Serotel Lutèce,3360,8.5,2023-05-22,Paris
+496,Paris Marriott Opera Ambassador Hotel,2951,7.5,2023-05-22,Paris
+497,Belfast,2082,7.5,2023-05-22,Paris
+498,Chambellan Morgane,1871,8.0,2023-05-22,Paris
+499,Hotel de France Invalides,1436,7.6,2023-05-22,Paris
+500,Hotel Louvre Saint-Honoré,2576,8.3,2023-05-22,Paris
+501,Hôtel Neptune Place d'Italie,778,7.7,2023-05-22,Paris
+502,Best Western Allegro Nation,1169,7.7,2023-05-22,Paris
+503,Doisy Etoile - Orso Hotels,1625,8.0,2023-05-22,Paris
+504,Hotel Paris Louis Blanc,1198,8.0,2023-05-22,Paris
+505,Ampère,1300,8.7,2023-05-22,Paris
+506,Hôtel Félicien by Elegancia,1276,7.9,2023-05-22,Paris
+507,Hôtel des Pavillons,1000,7.9,2023-05-22,Paris
+508,GuestReady - Cosy getaway in the trendy 19th Arr,1677,nan,2023-05-22,Paris
+509,ibis Paris Avenue d'Italie 13ème,1066,7.7,2023-05-22,Paris
+510,Le A,2078,8.8,2023-05-22,Paris
+511,Citadines Montparnasse Paris,1170,7.9,2023-05-22,Paris
+512,Madrigal,1187,8.4,2023-05-22,Paris
+513,Hôtel Molière,2271,9.0,2023-05-22,Paris
+514,Hotel Panache,1871,8.3,2023-05-22,Paris
+515,ibis Paris Opera La Fayette,1293,7.8,2023-05-22,Paris
+516,Hôtel LOCOMO,1373,8.7,2023-05-22,Paris
+517,Alba Opéra Hôtel,1579,8.2,2023-05-22,Paris
+518,Hôtel l'Echiquier Opéra Paris - MGallery,1883,8.8,2023-05-22,Paris
+519,Hotel Scarlett,1135,8.1,2023-05-22,Paris
+520,Hotel Corona Rodier,1069,7.1,2023-05-22,Paris
+521,Hotel Les Bulles De Paris,1908,7.9,2023-05-22,Paris
+522,Hôtel De Fleurie,1430,7.2,2023-05-22,Paris
+523,Hotel de Saint-Germain,1178,7.1,2023-05-22,Paris
+524,Hôtel Emile Le Marais,1711,8.0,2023-05-22,Paris
+525,Acacias Etoile,1200,8.4,2023-05-22,Paris
+526,Les Patios du Marais 2,1161,7.3,2023-05-22,Paris
+527,La Villa Madame,2069,8.4,2023-05-22,Paris
+528,La Villa des Ternes,1404,8.3,2023-05-22,Paris
+529,"Tinah Paris, Champs Elysées",1887,8.5,2023-05-22,Paris
+530,ibis Paris Canal Saint Martin,1073,7.9,2023-05-22,Paris
+531,Hotel Paris Bercy,576,6.1,2023-05-22,Paris
+532,Est Hotel,992,8.1,2023-05-22,Paris
+533,La Chambre du Marais,2372,9.0,2023-05-22,Paris
+534,ibis Styles Paris République,1276,7.1,2023-05-22,Paris
+535,Chambiges Elysées,2172,8.5,2023-05-22,Paris
+536,Hilton Paris Opera,3147,7.9,2023-05-22,Paris
+537,Magda Champs Elysées,1479,8.4,2023-05-22,Paris
+538,123paris city,1854,8.4,2023-05-22,Paris
+539,La Demeure Montaigne,3645,9.1,2023-05-22,Paris
+540,Hôtel des Saints Pères - Esprit de France,2529,8.5,2023-05-22,Paris
+541,Derby Alma,2235,8.7,2023-05-22,Paris
+542,Hôtel Beauchamps,1757,7.2,2023-05-22,Paris
+543,Source Hôtel,912,8.2,2023-05-22,Paris
+544,"Holiday Inn Paris-Auteuil, an IHG Hotel",1607,8.6,2023-05-22,Paris
+545,Apartments WS Tour Eiffel - Nicolo,1323,7.1,2023-05-22,Paris
+546,Eiffel Petit Louvre,1537,8.1,2023-05-22,Paris
+547,Maison 46,1180,8.1,2023-05-22,Paris
+548,Le Parisis - Paris Tour Eiffel,1908,8.8,2023-05-22,Paris
+549,Hotel Odeon Saint-Germain,1800,7.9,2023-05-22,Paris
+550,Hôtel Charing Cross,1373,8.0,2023-05-22,Paris
+551,Hôtel De Castiglione,1335,7.5,2023-05-22,Paris
+552,Hotel OFF Paris Seine,1597,8.4,2023-05-22,Paris
+553,O.Lysée Hotel,1810,8.9,2023-05-22,Paris
+554,Académie Hôtel Saint Germain,2121,8.8,2023-05-22,Paris
+555,Laz' Hotel Spa Urbain Paris,1795,8.5,2023-05-22,Paris
+556,Brach Paris,4535,9.0,2023-05-22,Paris
+557,Castex Hotel,1328,7.5,2023-05-22,Paris
+558,Hotel Le Friedland,1945,8.6,2023-05-22,Paris
+559,Hôtel Mansart - Esprit de France,2437,8.2,2023-05-22,Paris
+560,Libertel Austerlitz Jardin des Plantes,1274,7.9,2023-05-22,Paris
+561,Hôtel du Sentier,2513,9.0,2023-05-22,Paris
+562,Le Temple De Jeanne,1739,8.8,2023-05-22,Paris
+563,Hôtel Gaillon Opera,1577,7.5,2023-05-22,Paris
+564,Hotel Korner Eiffel,1429,8.3,2023-05-22,Paris
+565,Le Marquis Eiffel,1868,8.7,2023-05-22,Paris
+566,9Hotel Bastille-Lyon,1535,8.0,2023-05-22,Paris
+567,Timhotel Opéra Blanche Fontaine,1403,8.0,2023-05-22,Paris
+568,Montfleuri,1534,8.2,2023-05-22,Paris
+569,Le Citizen Hotel,2283,8.8,2023-05-22,Paris
+570,Hôtel Saint-Marc,2366,9.2,2023-05-22,Paris
+571,Hôtel Hor Les Lumières,1183,8.3,2023-05-22,Paris
+572,The ReMIX Hotel,961,8.1,2023-05-22,Paris
+573,Hotel Ducs de Bourgogne,2801,9.0,2023-05-22,Paris
+574,Hotel Louison,1577,8.5,2023-05-22,Paris
+575,Résidence du Forum des Halles,1401,7.9,2023-05-22,Paris
+576,George Sand,1562,8.6,2023-05-22,Paris
+577,Hotel Marais Grands Boulevards,1775,8.0,2023-05-22,Paris
+578,Carladez Cambronne,1020,7.6,2023-05-22,Paris
+579,Hotel 29 Lepic,1355,7.9,2023-05-22,Paris
+580,Aéro,1066,7.7,2023-05-22,Paris
+581,Classics Hotel Bastille,913,7.7,2023-05-22,Paris
+582,Majestic Hotel Spa - Champs Elysées,3005,8.0,2023-05-22,Paris
+583,Joro Living,1811,nan,2023-05-22,Paris
+584,"Prince de Galles, a Luxury Collection hotel, Paris",8145,8.7,2023-05-22,Paris
+585,Hotel Prelude Opera,1544,8.7,2023-05-22,Paris
+586,Hôtel Marais de Launay,1401,8.5,2023-05-22,Paris
+587,Le Meurice – Dorchester Collection,11130,9.3,2023-05-22,Paris
+588,Le Grey Hotel,1786,8.7,2023-05-22,Paris
+589,Hôtel Dress Code,1839,8.6,2023-05-22,Paris
+590,Hôtel du Roussillon,641,7.6,2023-05-22,Paris
+591,Mercure Paris Gare Montparnasse TGV,1357,7.7,2023-05-22,Paris
+592,Hôtel Cabane - Orso Hotels,1197,8.4,2023-05-22,Paris
+593,Hôtel Paris Voltaire,805,8.3,2023-05-22,Paris
+594,Beausejour Ranelagh,1534,8.5,2023-05-22,Paris
+595,Beaugrenelle St-Charles Tour Eiffel,1062,8.1,2023-05-22,Paris
+596,Hôtel Du Vieux Saule,2874,7.8,2023-05-22,Paris
+597,Hotel des Grandes Ecoles,2102,8.7,2023-05-22,Paris
+598,Hôtel Langlois,1443,8.4,2023-05-22,Paris
+599,Hotel Moulin Plaza,1108,7.9,2023-05-22,Paris
+600,Hôtel de la Bourdonnais,2282,8.6,2023-05-22,Paris
+601,Bulgari Hotel Paris,11845,9.6,2023-05-22,Paris
+602,Hôtel Jardin de Cluny,2206,9.0,2023-05-22,Paris
+603,"Holiday Inn Paris Montmartre, an IHG Hotel",1208,8.4,2023-05-22,Paris
+604,Hôtel de l'Exposition - Tour Eiffel,1382,8.2,2023-05-22,Paris
+605,Hôtel AMI - Orso Hotels,1160,8.5,2023-05-22,Paris
+606,Hôtel Du Prince Eugène,1039,8.4,2023-05-22,Paris
+607,Hôtel Pastel Paris,1527,8.3,2023-05-22,Paris
+608,Hotel Dadou Paris,1506,8.8,2023-05-22,Paris
+609,Hôtel de Notre-Dame,1516,8.2,2023-05-22,Paris
+610,Hôtel Riesner,1302,7.9,2023-05-22,Paris
+611,Hotel B Square,924,7.6,2023-05-22,Paris
+612,Hotel du College de France,2117,8.9,2023-05-22,Paris
+613,Timhotel Paris Gare de l'Est,1098,7.7,2023-05-22,Paris
+614,Hôtel La Tamise - Esprit de France,2548,8.8,2023-05-22,Paris
+615,Hôtel du Quai de Seine,805,7.6,2023-05-22,Paris
+616,Ideal Hotel,578,5.1,2023-05-22,Paris
+617,Hôtel de l'Aveyron,852,6.2,2023-05-22,Paris
+618,Sofitel Paris Baltimore Tour Eiffel,3195,8.2,2023-05-22,Paris
+619,"Holiday Inn Paris - Gare de Lyon Bastille, an IHG Hotel",1739,8.6,2023-05-22,Paris
+620,Royal Saint Michel,1957,8.0,2023-05-22,Paris
+621,Terminus Orléans Paris,897,8.3,2023-05-22,Paris
+622,Cosy duplex - 1BR4P - St Fargeau,1186,8.0,2023-05-22,Paris
+623,Hôtel Mayfair Paris,2805,8.7,2023-05-22,Paris
+624,Paris Eiffel by YAYS,1288,7.6,2023-05-22,Paris
+625,Hôtel De La Porte Dorée,1031,8.4,2023-05-22,Paris
+626,Hotel Petit Lafayette,1422,8.7,2023-05-22,Paris
+627,Hôtel Delavigne,1979,8.9,2023-05-22,Paris
+628,Hotel Concortel,1619,7.7,2023-05-22,Paris
+629,Hotel Touraine Opera,1788,9.0,2023-05-22,Paris
+630,Hôtel Mistral,1396,8.7,2023-05-22,Paris
+631,Le Relais du Marais,1500,7.8,2023-05-22,Paris
+632,Le clos de l'olivier,1745,9.3,2023-05-22,Paris
+633,Hôtel du Triangle d'Or,1517,8.6,2023-05-22,Paris
+634,Le Général Hôtel,1627,9.0,2023-05-22,Paris
+635,Residence Center of Paris-Montorgueil (Aboukir 105),1648,9.0,2023-05-22,Paris
+636,Le 20 Prieuré Hôtel,1095,7.9,2023-05-22,Paris
+637,Hôtel France d'Antin Opéra,1886,8.7,2023-05-22,Paris
+638,Hotel Rochechouart - Orso Hotels,1601,8.6,2023-05-22,Paris
+639,Timhotel Invalides Eiffel,1631,7.7,2023-05-22,Paris
+640,Le Nouvel Hôtel du Théâtre,1703,7.2,2023-05-22,Paris
+641,Atelier Montparnasse Hôtel,1049,7.2,2023-05-22,Paris
+642,"Le Metropolitan Paris Tour Eiffel, a Tribute Portfolio Hotel",3105,7.5,2023-05-22,Paris
+643,Cozy apartment for 2 people - Paris 20,919,nan,2023-05-22,Paris
+644,Exe Panorama,1233,8.2,2023-05-22,Paris
+645,VILLA M,1979,8.8,2023-05-22,Paris
+646,Hôtel de France Gare de Lyon Bastille,1427,8.6,2023-05-22,Paris
+647,Okko Hotels Paris Porte De Versailles,1129,8.4,2023-05-22,Paris
+648,Hôtel Sèvres Saint Germain,1835,8.4,2023-05-22,Paris
+649,Goralska Résidences Hôtel Paris Bastille,3069,9.5,2023-05-22,Paris
+650,CVRDC Cozy studio at République - 2P,752,6.6,2023-05-22,Paris
+651,Apartments WS Opéra - Rossini,1635,7.7,2023-05-22,Paris
+652,La Clef Tour Eiffel Paris by The Crest Collection,2797,7.9,2023-05-22,Paris
+653,ibis Paris 17 Clichy-Batignolles,661,6.4,2023-05-22,Paris
+654,Hôtel Le Ballu,1859,9.2,2023-05-22,Paris
+655,ibis budget Paris Porte de Vincennes,546,6.9,2023-05-22,Paris
+656,Hôtel Edouard 6 Montparnasse Saint-Germain-des-Prés,1292,8.5,2023-05-22,Paris
+657,Hôtel Madame Rêve,4335,8.9,2023-05-22,Paris
+658,Edgar Suites Louvre - Jour,4979,9.4,2023-05-22,Paris
+659,Hôtel Des Mines,1705,8.2,2023-05-22,Paris
+660,Hôtel France Eiffel,1562,6.3,2023-05-22,Paris
+661,Hôtel Eiffel Rive Gauche,1738,7.6,2023-05-22,Paris
+662,Libertel Gare de L'Est Francais,1163,8.0,2023-05-22,Paris
+663,Hôtel des Deux Avenues,1457,7.2,2023-05-22,Paris
+664,Hotel Sleeping Belle,1482,8.7,2023-05-22,Paris
+665,Hotel le Lapin Blanc,1738,8.5,2023-05-22,Paris
+666,Hotel Peyris Opera,1818,8.1,2023-05-22,Paris
+667,Cour des Vosges,8045,9.1,2023-05-22,Paris
+668,Hotel Luxembourg Parc,3158,9.0,2023-05-22,Paris
+669,Hôtel Crayon by Elegancia,1425,7.8,2023-05-22,Paris
+670,Hôtel Central Saint Germain,2360,8.2,2023-05-22,Paris
+671,Beauquartier Paris - Grands Boulevards,1391,8.9,2023-05-22,Paris
+672,Hôtel Barrière Fouquet's Paris,8770,9.0,2023-05-22,Paris
+673,Babel Belleville,1092,9.0,2023-05-22,Paris
+674,J.K. Place Paris,10835,9.4,2023-05-22,Paris
+675,Hôtel La Nouvelle République &amp; Hammam,1300,8.6,2023-05-22,Paris
+676,Les Jardins Du Marais,1973,7.0,2023-05-22,Paris
+677,Hôtel Le Daum,1823,8.6,2023-05-22,Paris
+678,Hôtel Apollo Opéra,1192,6.7,2023-05-22,Paris
+679,Glasgow Monceau by Patrick Hayat,969,8.1,2023-05-22,Paris
+680,Hotel Aida Marais,1309,7.8,2023-05-22,Paris
+681,ibis Paris Gare De L Est 10ème,1201,7.5,2023-05-22,Paris
+682,Hôtel Edgar &amp; Achille,1598,8.2,2023-05-22,Paris
+683,Hôtel de la Place du Louvre - Esprit de France,2178,8.0,2023-05-22,Paris
+684,CADET Residence,1646,9.0,2023-05-22,Paris
+685,ibis Budget Paris La Villette 19ème,732,7.1,2023-05-22,Paris
+686,Hotel de Crillon,13195,9.4,2023-05-22,Paris
+687,Hôtel Eugénie,1608,7.9,2023-05-22,Paris
+688,Berkeley,924,7.2,2023-05-22,Paris
+689,Hôtel Magellan,1476,8.7,2023-05-22,Paris
+690,Hôtel Particulier Montmartre,5692,8.4,2023-05-22,Paris
+691,Hôtel Clarisse,1300,8.0,2023-05-22,Paris
+692,Hotel Celtic,696,6.5,2023-05-22,Paris
+693,Acropole,992,8.4,2023-05-22,Paris
+694,Hotel de L'Union,593,7.7,2023-05-22,Paris
+695,Hôtel Bleu de Grenelle,1917,8.9,2023-05-22,Paris
+696,Hôtel Paris Bastille Boutet - MGallery,1877,8.1,2023-05-22,Paris
+697,Hotel Elysa-Luxembourg,1548,8.5,2023-05-22,Paris
+698,"Kimpton - St Honoré Paris, an IHG Hotel",3600,8.5,2023-05-22,Paris
+699,Hôtel Mathis Elysées,2455,8.6,2023-05-22,Paris
+700,"Hotel Indigo Paris - Opera, an IHG Hotel",2735,8.6,2023-05-22,Paris
+701,Hôtel Du Lion,984,8.4,2023-05-22,Paris
+702,Hotel Windsor Home,1179,7.9,2023-05-22,Paris
+703,Le Relais Madeleine,1845,8.7,2023-05-22,Paris
+704,Les Jardins De La Villa,1592,8.7,2023-05-22,Paris
+705,Hotel Royal Phare,2024,8.3,2023-05-22,Paris
+706,Nord Est Hotel,1233,6.9,2023-05-22,Paris
+707,Stella Etoile,1504,8.2,2023-05-22,Paris
+708,Waldorf Montparnasse,1619,8.0,2023-05-22,Paris
+709,ibis Styles Paris Alesia Montparnasse,1352,7.8,2023-05-22,Paris
+710,French Theory,1514,8.4,2023-05-22,Paris
+711,Golden Tulip Opera de Noailles,1702,8.5,2023-05-22,Paris
+712,Fred'Hotel,1117,8.3,2023-05-22,Paris
+713,Hôtel Le Marcel Paris Gare de l'Est,1063,7.7,2023-05-22,Paris
+714,Arc Elysées,1652,7.7,2023-05-22,Paris
+715,Libertel Gare Du Nord Suede,1086,7.9,2023-05-22,Paris
+716,Hotel De Suede Saint Germain,1934,8.1,2023-05-22,Paris
+717,Aparthotel Adagio Access Paris Philippe Auguste,798,7.7,2023-05-22,Paris
+718,Hôtel Monna Lisa Champs Elysées,1825,8.1,2023-05-22,Paris
+719,Hôtel Léonard de Vinci II,649,6.9,2023-05-22,Paris
+720,Hôtel International Paris,1220,8.2,2023-05-22,Paris
+721,Hotel Camille Paris Tapestry Collection by Hilton,2350,8.0,2023-05-22,Paris
+722,Maison Barbès,1465,8.3,2023-05-22,Paris
+723,Oh la la ! Hotel Bar Paris Bastille,1410,8.9,2023-05-22,Paris
+724,Auteuil Tour Eiffel,1617,8.2,2023-05-22,Paris
+725,Mercure Paris Opera Grands Boulevards,1537,7.9,2023-05-22,Paris
+726,Drawing Hotel,2440,8.7,2023-05-22,Paris
+727,Le Belmont Paris,2333,8.4,2023-05-22,Paris
+728,Hotel Eiffel Segur,1562,8.0,2023-05-22,Paris
+729,Idol Hotel,1622,8.7,2023-05-22,Paris
+730,Mayenne,1377,8.7,2023-05-22,Paris
+731,Hotel Trinité Haussmann,1577,8.4,2023-05-22,Paris
+732,Paris Marriott Champs Elysees Hotel,3345,7.3,2023-05-22,Paris
+733,Hôtel Clauzel Paris,829,7.6,2023-05-22,Paris
+734,Amelot 1- Appartement cosy et lumineux- 2P - Paris 11,1443,7.3,2023-05-22,Paris
+735,K+K Hôtel Cayré Saint Germain des Prés,2996,8.1,2023-05-22,Paris
+736,Hôtel du Parc Montparnasse,1248,8.0,2023-05-22,Paris
+737,Hotel Fontaines du Luxembourg,1984,8.5,2023-05-22,Paris
+738,Queens Boutique Hotel,1756,8.6,2023-05-22,Paris
+739,Hôtel Le 46,1278,8.3,2023-05-22,Paris
+740,Hotel Trianon Rive Gauche,2326,7.8,2023-05-22,Paris
+741,Le Littré,2164,8.7,2023-05-22,Paris
+742,Hôtel Les Dames du Panthéon,2057,8.7,2023-05-22,Paris
+743,Sofitel Le Scribe Paris Opera,3735,8.3,2023-05-22,Paris
+744,GuestReady - Modern 1-Bedroom flat near Place De La Bastille,1064,7.5,2023-05-22,Paris
+745,Hôtel Jacques De Molay,1756,8.2,2023-05-22,Paris
+746,Libertel Montmartre Opéra,1137,8.2,2023-05-22,Paris
+747,Mercure Paris Tour Eiffel Pont Mirabeau,1508,7.7,2023-05-22,Paris
+748,"Holiday Inn Paris Elysées, an IHG Hotel",2189,8.4,2023-05-22,Paris
+749,Les Jardins du Faubourg Hotel &amp; Spa by Shiseido,5517,8.8,2023-05-22,Paris
+750,"InterContinental Paris Champs Elysées Etoile, an IHG Hotel",3260,7.8,2023-05-22,Paris
+751,Mary's Hotel République,1004,7.8,2023-05-22,Paris
+752,Le Petit Beaumarchais Hotel &amp; Spa Ex Hotel Original,1990,8.7,2023-05-22,Paris
+753,Elysées Hôtel,1647,7.0,2023-05-22,Paris
+754,Hôtel Alane,1020,7.8,2023-05-22,Paris
+755,Five Boutique Hotel Paris Quartier Latin,1165,7.7,2023-05-22,Paris
+756,Sonder Atala Champs-Élysées,1892,8.2,2023-05-22,Paris
+757,Alizé Grenelle Tour Eiffel,1062,7.9,2023-05-22,Paris
+758,"Appartement Gérard, tout équipé Paris 13éme",902,9.2,2023-05-22,Paris
+759,Le Hameau de Passy,1526,7.8,2023-05-22,Paris
+760,Le Tourville Eiffel,2302,8.6,2023-05-22,Paris
+761,La Villa Haussmann,1991,8.9,2023-05-22,Paris
+762,Generator Paris,1278,7.4,2023-05-22,Paris
+763,Maison Armance - Esprit de France,2988,8.9,2023-05-22,Paris
+764,ibis Paris Italie Tolbiac,1019,7.9,2023-05-22,Paris
+765,Hôtel Lumières Montmartre Paris,810,7.4,2023-05-22,Paris
+766,ATN Hôtel,1272,7.9,2023-05-22,Paris
+767,"Studio Saint-Sulpice, Saint-Germain-des-Prés, Odéon by Weekome",1655,10,2023-05-22,Paris
+768,Green hotels Confort Paris 13,944,7.6,2023-05-22,Paris
+769,Citadines Opéra Paris,2255,8.2,2023-05-22,Paris
+770,Hôtel L'Interlude,872,8.1,2023-05-22,Paris
+771,Hôtel Crayon Rouge by Elegancia,1850,8.3,2023-05-22,Paris
+772,Hôtel Saint-André des Arts,2089,8.8,2023-05-22,Paris
+773,Hotel Paris Villette,821,7.4,2023-05-22,Paris
+774,Hôtel Beaurepaire,1202,7.5,2023-05-22,Paris
+775,Hôtel d'Orsay - Esprit de France,2308,8.8,2023-05-22,Paris
+776,Hotel Archetype Etoile,1625,8.7,2023-05-22,Paris
+777,"Maison Astor Paris, Curio Collection by Hilton",2940,8.1,2023-05-22,Paris
+778,Royal Saint Germain,1436,7.9,2023-05-22,Paris
+779,Hotel Paris Italie,1479,7.9,2023-05-22,Paris
+780,Hotel Bachaumont,3113,8.4,2023-05-22,Paris
+781,Hôtel National Des Arts et Métiers,3369,8.8,2023-05-22,Paris
+782,Hôtel du Ministère,2087,8.7,2023-05-22,Paris
+783,Hôtel Palais De Chaillot,1378,8.6,2023-05-22,Paris
+784,Hôtel Pavillon Bastille,1570,8.2,2023-05-22,Paris
+785,Hôtel Royal Opéra,1822,7.4,2023-05-22,Paris
+786,Sofitel Paris Arc De Triomphe,3465,8.6,2023-05-22,Paris
+787,Hotel Parister,2008,8.3,2023-05-22,Paris
+788,Hotel de Neuville Arc de Triomphe,1730,8.1,2023-05-22,Paris
+789,Nice apartment for 2 people - Paris 17,1051,nan,2023-05-22,Paris
+790,Hotel Aulivia Opéra,1253,7.9,2023-05-22,Paris
+791,Hotel &amp; Spa La Belle Juliette,2216,8.4,2023-05-22,Paris
+792,Philéas Lazare &amp; Spa,1727,9.0,2023-05-22,Paris
+793,Hôtel du Théâtre by Patrick Hayat,1235,8.0,2023-05-22,Paris
+794,Hotel Antin Trinité,1191,7.0,2023-05-22,Paris
+795,Mercure Paris Arc de Triomphe Wagram,1856,7.9,2023-05-22,Paris
+796,Le Roch Hotel &amp; Spa,4284,8.8,2023-05-22,Paris
+797,Hôtel Léopold - Orso Hotels,1350,8.4,2023-05-22,Paris
+798,Paris j'Adore Hotel &amp; Spa,2491,9.1,2023-05-22,Paris
+799,Studio Pigalle,1009,7.4,2023-05-22,Paris
+800,Hôtel de Genève,1084,7.5,2023-05-22,Paris
+801,Europe Hotel Paris Eiffel,1394,8.0,2023-05-22,Paris
+802,Etoile Park Hotel,1459,7.5,2023-05-22,Paris
+803,Hotel Elysée Etoile,1400,7.9,2023-05-22,Paris
+804,Hôtel Jeanne d'Arc Le Marais,2154,7.9,2023-05-22,Paris
+805,Hotel Migny Opéra Montmartre,1556,8.1,2023-05-22,Paris
+806,Grand Hotel du Loiret,1237,8.1,2023-05-22,Paris
+807,La Romantique,810,8.3,2023-05-22,Paris
+808,Exe Paris centre,1122,8.1,2023-05-22,Paris
+809,Hotel Lutetia,10124,9.0,2023-05-22,Paris
+810,Hôtel du Plat d'Etain,1730,8.6,2023-05-22,Paris
+811,Hotel Havane Opera,1163,6.4,2023-05-22,Paris
+812,Golden Tulip Washington Opera,1832,8.3,2023-05-22,Paris
+813,Hôtel Montecristo,2017,8.8,2023-05-22,Paris
+814,LivinParis - Luxury 2 Bedrooms Opera I,2937,8.4,2023-05-22,Paris
+815,Hôtel Etoile Trocadéro,2006,8.2,2023-05-22,Paris
+816,Hotel de Nell,2565,8.5,2023-05-22,Paris
+817,Hôtel des Champs-Elysées,2164,8.5,2023-05-22,Paris
+818,Moulin Vert,1167,6.7,2023-05-22,Paris
+819,Atelier d'artiste 4 personnes Quartier St Placide by Weekome,1592,7.0,2023-05-22,Paris
+820,Libertel Canal Saint Martin,957,7.8,2023-05-22,Paris
+821,Quinzerie hôtel,1685,9.2,2023-05-22,Paris
+822,Arioso,2269,8.6,2023-05-22,Paris
+823,Hôtel B55,1249,8.6,2023-05-22,Paris
+824,Hotel West-End,2389,8.9,2023-05-22,Paris
+825,1619 - Quartier Latin - Charming flat,2019,7.0,2023-05-22,Paris
+826,Hotel Des Deux Continents,1714,8.0,2023-05-22,Paris
+827,Hôtel Chaplain Paris Rive Gauche,1705,8.0,2023-05-22,Paris
+828,Hôtel de Varenne,2319,8.4,2023-05-22,Paris
+829,Modern Hotel,968,6.6,2023-05-22,Paris
+830,Mercure Paris Bastille Saint Antoine,1249,7.7,2023-05-22,Paris
+831,HOTEL AU COEUR DES ARTS ET METIERS,2293,8.0,2023-05-22,Paris
+832,Le Patio Bastille,1157,7.0,2023-05-22,Paris
+833,Boutique Belleville,942,8.7,2023-05-22,Paris
+834,Porte de Versailles Hotel,1196,7.9,2023-05-22,Paris
+835,Hôtel Saint Germain,2126,8.5,2023-05-22,Paris
+836,Hotel Des Arenes,1237,8.0,2023-05-22,Paris
+837,Melia Paris Champs Elysées,1911,7.3,2023-05-22,Paris
+838,Hotel De Seine,2258,8.6,2023-05-22,Paris
+839,Régence Etoile,1857,8.5,2023-05-22,Paris
+840,Résidence Temple District Le Marais,1842,7.8,2023-05-22,Paris
+841,Beatrice et Emmanuel Meublé Eiffel,1281,8.7,2023-05-22,Paris
+842,Hôtel Eiffel Kensington,1040,6.5,2023-05-22,Paris
+843,Hotel Bowmann,3334,8.8,2023-05-22,Paris
+844,Best Western Premier Trocadero La Tour,2330,8.0,2023-05-22,Paris
+845,Hotel Antin St Georges,755,6.5,2023-05-22,Paris
+846,Le Relais Montmartre,1683,9.0,2023-05-22,Paris
+847,Hôtel Piapia,1056,8.6,2023-05-22,Paris
+848,Hôtel Wallace - Orso Hotels,1522,8.7,2023-05-22,Paris
+849,Apollon Montparnasse,1144,7.9,2023-05-22,Paris
+850,Vice Versa,2014,7.8,2023-05-22,Paris
+851,La Clef Champs-Élysées Paris by The Crest Collection,3546,8.5,2023-05-22,Paris
+852,Hôtel Alfred Sommier,3421,8.5,2023-05-22,Paris
+853,Hotel Opéra Richepanse,3035,8.9,2023-05-22,Paris
+854,Loft Passage Piver N33,1069,nan,2023-05-22,Paris
+855,Cocooning Apt St Germain - 4 pers,2074,8.3,2023-05-22,Paris
+856,Mom'Art Hotel,1662,8.9,2023-05-22,Paris
+857,Hotel Korner Montparnasse,1309,8.1,2023-05-22,Paris
+858,"The Originals Boutique, Hôtel Maison Montmartre, Paris",1120,7.9,2023-05-22,Paris
+859,Westside Arc de Triomphe Hotel,1333,8.1,2023-05-22,Paris
+860,Hôtel Pont Royal,3684,8.1,2023-05-22,Paris
+861,ibis Paris Gare du Nord Château Landon 10ème,1073,7.5,2023-05-22,Paris
+862,Hotel The Peninsula Paris,12660,9.2,2023-05-22,Paris
+863,Hôtel Elysia,3751,9.0,2023-05-22,Paris
+864,Hôtel Elysées Régencia,2674,8.4,2023-05-22,Paris
+865,Belambra City - Magendie,1489,7.7,2023-05-22,Paris
+866,S02434 - Montorgueil Studio,1269,8.1,2023-05-22,Paris
+867,ibis Paris Montmartre 18ème,917,7.3,2023-05-22,Paris
+868,Le Mathurin Hotel &amp; Spa,1881,8.3,2023-05-22,Paris
+869,Hôtel Baldi by Magna Arbor,1257,7.4,2023-05-22,Paris
+870,Novotel Paris 14 Porte d'Orléans,1276,8.1,2023-05-22,Paris
+871,Yuna Les Halles,2137,8.8,2023-05-22,Paris
+872,Kyriad Paris 10 - Canal Saint Martin - République,1043,7.2,2023-05-22,Paris
+873,Hotel Du Cadran,2097,8.5,2023-05-22,Paris
+874,Pink Hotel,1010,8.0,2023-05-22,Paris
+875,Appartement Douillet proche Arc Triomphe - 2P,969,7.0,2023-05-22,Paris
+876,Le Clos Medicis,1937,7.8,2023-05-22,Paris
+877,Hôtel de Bellevue Paris Gare du Nord,1215,8.3,2023-05-22,Paris
+878,HOTEL DE PARIS MONTPARNASSE,1180,7.8,2023-05-22,Paris
+879,Le Petit Cosy Hôtel,1011,8.4,2023-05-22,Paris
+880,LE MATISSIA,2218,9.2,2023-05-22,Paris
+881,HOTEL AU COEUR DE REPUBLIQUE,1778,8.1,2023-05-22,Paris
+882,Renaissance Paris Republique Hotel &amp; Spa,2604,8.6,2023-05-22,Paris
+883,Courcelles Médéric,1277,7.8,2023-05-22,Paris
+884,M Social Hotel Paris Opera,2465,8.3,2023-05-22,Paris
+885,Pick A Flat's Apartments in Batignolles - Rue Biot,1250,7.2,2023-05-22,Paris
+886,Tonic Hôtel du Louvre,1083,6.9,2023-05-22,Paris
+887,ibis Styles Paris Nation Cours de Vincennes,985,7.8,2023-05-22,Paris
+888,Folkestone Opéra,1627,8.5,2023-05-22,Paris
+889,Hôtel Le Relais Saint Charles,1613,8.5,2023-05-22,Paris
+890,Hotel Beauvoir,1305,7.1,2023-05-22,Paris
+891,Residhome Paris Opéra,1521,7.6,2023-05-22,Paris
+892,Hôtel Le Milie Rose,1993,9.1,2023-05-22,Paris
+893,Hôtel Le Relais des Halles,2485,9.1,2023-05-22,Paris
+894,Windsor Opera,1456,8.6,2023-05-22,Paris
+895,Hôtel Du Bois Champs-Elysées,1708,8.1,2023-05-22,Paris
+896,Roulette,2154,nan,2023-05-22,Paris
+897,Courcelles - Monceau City Apartment,1288,nan,2023-05-22,Paris
+898,Charming studio for 2 near République,941,5.8,2023-05-22,Paris
+899,Yuna Blanche,1884,8.8,2023-05-22,Paris
+900,Hotel Ariane Montparnasse by Patrick Hayat,1052,7.3,2023-05-22,Paris
+901,Le Vert Galant - Auberge Etchegorry,1299,8.6,2023-05-22,Paris
+902,Hotel Jenner,1026,7.7,2023-05-22,Paris
+903,Hotel Massena,1601,7.8,2023-05-22,Paris
+904,Hôtel Soft,1200,7.7,2023-05-22,Paris
+905,Le Ferdinand - Le Marais Serviced Apartments,1606,8.3,2023-05-22,Paris
+906,ibis Paris La Villette Cité des Sciences 19ème,762,7.4,2023-05-22,Paris
+907,Hôtel du Parc Montsouris,951,7.7,2023-05-22,Paris
+908,La Maison Favart,2591,9.0,2023-05-22,Paris
+909,Staycity Aparthotels Gare de l’Est,1539,8.1,2023-05-22,Paris
+910,Hotel Opéra Marigny,1965,8.2,2023-05-22,Paris
+911,Amélie Hotel,1273,7.9,2023-05-22,Paris
+912,Apartment WS Opéra - Galeries Lafayette,1358,7.2,2023-05-22,Paris
+913,Hôtel Jules &amp; Jim,1973,9.0,2023-05-22,Paris
+914,Apartment WS Hôtel de Ville - Musée Pompidou,1409,7.3,2023-05-22,Paris
+915,COQ Hotel Paris,1513,8.9,2023-05-22,Paris
+916,841 - Jardin du Luxembourg - Amazing apartment,2298,7.3,2023-05-22,Paris
+917,Hotel Tolbiac,840,5.5,2023-05-22,Paris
+918,Serotel Suites Opera,2239,8.6,2023-05-22,Paris
+919,Four Seasons Hotel George V Paris,12660,9.3,2023-05-22,Paris
+920,Hotel Pax Opera,1714,7.5,2023-05-22,Paris
+921,Canopy By Hilton Paris Trocadero,3510,8.5,2023-05-22,Paris
+922,GuestReady - Exuberant Studio in Les Marais,1266,6.5,2023-05-22,Paris
+923,Hôtel Bonne Nouvelle,1542,8.1,2023-05-22,Paris
+924,Hotel Cambon,2574,8.4,2023-05-22,Paris
+925,Hôtel Coypel by Magna Arbor,1013,7.6,2023-05-22,Paris
+926,Villathena,1406,8.1,2023-05-22,Paris
+927,Hôtel Lucien &amp; Marinette,1714,8.3,2023-05-22,Paris
+928,9Hotel Opera,1895,7.8,2023-05-22,Paris
+929,Renaissance Paris Vendome Hotel,3820,7.6,2023-05-22,Paris
+930,La Finca Hôtel &amp; Spa,1651,8.7,2023-05-22,Paris
+931,Apartments WS Saint-Lazare - Opera,1256,7.4,2023-05-22,Paris
+932,Invalides - Champs de Mars City Apartment,1837,10,2023-05-22,Paris
+933,Nice industrial studio in the Marais in Paris - Welkeys,1091,5.4,2023-05-22,Paris
+934,Apartments WS Haussmann - La Fayette,2284,7.5,2023-05-22,Paris
+935,Relais Saint Jacques,1811,8.4,2023-05-22,Paris
+936,Hôtel Saint Martin Bastille,1448,8.3,2023-05-22,Paris
+937,Home Suite Home Grands Boulevards 41 4D,2115,8.0,2023-05-22,Paris
+938,Hôtel Bassano,2113,8.1,2023-05-22,Paris
+939,Montorgueil Suite,3480,8.5,2023-05-22,Paris
+940,Maison Bréguet,2589,8.5,2023-05-22,Paris
+941,Hotel Geoffroy Marie Opéra,774,7.0,2023-05-22,Paris
+942,Hotel Square,1588,8.0,2023-05-22,Paris
+943,Mercure Paris Montmartre Sacré Coeur,1348,7.9,2023-05-22,Paris
+944,Secret de Paris - Hotel &amp; Spa,1746,8.8,2023-05-22,Paris
+945,Hôtel Brittany,1422,7.9,2023-05-22,Paris
+946,Seven Hotel,1740,8.9,2023-05-22,Paris
+947,Boutique Hôtel Konfidentiel,2594,8.3,2023-05-22,Paris
+948,Hotel De L'Horloge,870,7.8,2023-05-22,Paris
+949,VILLA EIFFEL MADEMOISELLE,1625,8.4,2023-05-22,Paris
+950,Studio confortable au coeur de Paris,1365,9.0,2023-05-22,Paris
+951,Hotel Yllen Eiffel,1562,8.7,2023-05-22,Paris
+952,Hôtel des Buttes Chaumont,892,7.1,2023-05-22,Paris
+953,Mercure Paris Porte De Versailles Expo,1299,8.3,2023-05-22,Paris
+954,Ile St Louis City Apartment,1366,nan,2023-05-22,Paris
+955,ibis Styles Paris Gare de l'Est Château Landon,1018,6.8,2023-05-22,Paris
+956,Residhotel Imperial Rennequin,1373,8.6,2023-05-22,Paris
+957,B6 Loft Duplex 175Blo-Paris Convention,1834,9.1,2023-05-22,Paris
+958,Hotel Riviera Elysees,1541,6.8,2023-05-22,Paris
+959,Hotel Atelier Vavin,1680,6.7,2023-05-22,Paris
+960,Nadaud Hotel,943,8.4,2023-05-22,Paris
+961,Hotel Design Sorbonne,1607,8.1,2023-05-22,Paris
+962,Novotel Suites Paris Expo Porte de Versailles,1282,8.6,2023-05-22,Paris
+963,"Tinah Paris, Aboukir",1633,8.3,2023-05-22,Paris
+964,Hôtel Monsieur Aristide,2147,9.1,2023-05-22,Paris
+965,Hotel Habituel,1346,7.4,2023-05-22,Paris
+966,Hôtel Botaniste,2087,8.5,2023-05-22,Paris
+967,Cosy apartment Galeries Lafayette,1053,nan,2023-05-22,Paris
+968,La Belle Ville,1147,8.8,2023-05-22,Paris
+969,26 Faubourg - Ex-Hotel de Reims,879,7.8,2023-05-22,Paris
+970,Chateaudun Opéra,1526,7.7,2023-05-22,Paris
+971,Convention Montparnasse,1216,7.9,2023-05-22,Paris
+972,Comfortable townhouse in the heart of Paris,1095,6.1,2023-05-22,Paris
+973,Nicely decorated modern studio near the Eiffel Tower - Paris - Welkeys,1507,nan,2023-05-22,Paris
+974,Fabulous 1 Bedroom Apartment in Paris,2498,nan,2023-05-22,Paris
+975,Hôtel Paris Nord,544,6.1,2023-05-22,Paris
+976,Hotel Delambre,1391,8.2,2023-05-22,Paris
+977,Hôtel Amoi Paris,2565,8.9,2023-05-22,Paris
+978,Hotel &amp; Spa de Latour Maubourg,2270,8.7,2023-05-22,Paris
+979,Hôtel le 209 Paris Bercy,1115,8.4,2023-05-22,Paris
+980,"Niepce Paris, Curio Collection By Hilton",2318,8.9,2023-05-22,Paris
+981,Hotel Atmospheres,2273,8.6,2023-05-22,Paris
+982,Apartments WS Louvre - Richelieu,2018,7.7,2023-05-22,Paris
+983,Hotel &amp; Spa Saint-Jacques,1941,8.3,2023-05-22,Paris
+984,Le Mireille,1163,8.4,2023-05-22,Paris
+985,La Réserve Paris Hotel &amp; Spa,11760,9.6,2023-05-22,Paris
+986,Juliana Hotel Paris,3901,8.5,2023-05-22,Paris
+987,Nice and calm studio nearby Alesia at the heart of Paris - Welkeys,1038,5.1,2023-05-22,Paris
+988,Hotel Hauteville Opera,992,6.8,2023-05-22,Paris
+989,Hotel de Montesquieu,3580,9.1,2023-05-22,Paris
+990,Hotel L’Antoine,1440,8.4,2023-05-22,Paris
+991,Apartments WS Champs-Elysées - Colomb,1931,8.2,2023-05-22,Paris
+992,Apartment WS St Germain - Quartier Latin,1383,7.6,2023-05-22,Paris
+993,Mama Shelter Paris West,1297,8.5,2023-05-22,Paris
+994,Hôtel des 3 Collèges,1522,7.9,2023-05-22,Paris
+995,Eiffel Tower view Residence,2328,8.5,2023-05-22,Paris
+996,GuestReady - Charming Apartment Close to Bercy,1052,8.0,2023-05-22,Paris
+997,L'Empire Paris,2720,8.2,2023-05-22,Paris
+998,Saphir Grenelle,1812,7.1,2023-05-22,Paris
+999,Romance Malesherbes by Patrick Hayat,1117,7.7,2023-05-22,Paris

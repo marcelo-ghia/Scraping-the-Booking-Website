@@ -1,0 +1,1002 @@
+,hotel,price,rating,start_date,city
+0,Vincci Bit,1976,8.4,2023-05-22,Barcelona
+1,Sonder DO Plaça Reial,3518,8.4,2023-05-22,Barcelona
+2,Hotel Paxton Barcelona,2034,8.7,2023-05-22,Barcelona
+3,TWO Hotel Barcelona by Axel 4* Sup- Adults Only,1622,8.5,2023-05-22,Barcelona
+4,Ohla Eixample,2743,8.9,2023-05-22,Barcelona
+5,El Avenida Palace,1613,8.5,2023-05-22,Barcelona
+6,Nobu Hotel Barcelona,2372,8.4,2023-05-22,Barcelona
+7,Catalonia Portal de l'Angel,1616,8.7,2023-05-22,Barcelona
+8,Catalonia Passeig de Gràcia 4* Sup,1706,9.0,2023-05-22,Barcelona
+9,Catalonia Magdalenes,1746,9.1,2023-05-22,Barcelona
+10,Catalonia Plaza Catalunya,1766,8.5,2023-05-22,Barcelona
+11,Catalonia Sagrada Familia,1166,8.2,2023-05-22,Barcelona
+12,Praktik Vinoteca,1480,8.6,2023-05-22,Barcelona
+13,Duquesa de Cardona 4* Sup,2126,8.9,2023-05-22,Barcelona
+14,Hotel Sant Agustí,1614,7.9,2023-05-22,Barcelona
+15,Praktik Garden,1470,8.2,2023-05-22,Barcelona
+16,Hotel Turin Barcelona,1481,8.2,2023-05-22,Barcelona
+17,Onix Fira,1331,7.7,2023-05-22,Barcelona
+18,Gallery Hotel,1799,8.9,2023-05-22,Barcelona
+19,Onix Liceo,1435,8.3,2023-05-22,Barcelona
+20,Hotel Astoria,1321,8.5,2023-05-22,Barcelona
+21,Catalonia Ramblas 4* Sup,2086,8.3,2023-05-22,Barcelona
+22,Praktik Bakery,1480,8.6,2023-05-22,Barcelona
+23,Axel Hotel Barcelona &amp; Urban Spa- Adults Only,1826,8.4,2023-05-22,Barcelona
+24,"Hotel Granados 83, a Member of Design Hotels",1630,8.6,2023-05-22,Barcelona
+25,Casa Elliot by Bondia Hotel Group,1762,8.8,2023-05-22,Barcelona
+26,Catalonia Barcelona Plaza,2646,8.3,2023-05-22,Barcelona
+27,Catalonia Eixample 1864,1446,8.3,2023-05-22,Barcelona
+28,Praktik Rambla,1670,8.5,2023-05-22,Barcelona
+29,Sallés Hotel Pere IV,1506,8.1,2023-05-22,Barcelona
+30,Catalonia Diagonal Centro,1386,8.4,2023-05-22,Barcelona
+31,AC Hotel Barcelona Fórum by Marriott,1730,7.9,2023-05-22,Barcelona
+32,Hostal Operaramblas,1460,8.6,2023-05-22,Barcelona
+33,Catalonia Atenas,1246,8.1,2023-05-22,Barcelona
+34,Cram Hotel,1979,8.2,2023-05-22,Barcelona
+35,Hotel Balmes,1599,8.4,2023-05-22,Barcelona
+36,Catalonia Gracia,1366,8.4,2023-05-22,Barcelona
+37,Catalonia Albeniz,1136,8.6,2023-05-22,Barcelona
+38,Petit Palace Boqueria Garden,2219,8.2,2023-05-22,Barcelona
+39,Onix Rambla,1486,8.4,2023-05-22,Barcelona
+40,Ayre Hotel Gran Vía,1852,8.7,2023-05-22,Barcelona
+41,Golden Hotel Barcelona,1260,8.4,2023-05-22,Barcelona
+42,Suites Avenue,2123,9.0,2023-05-22,Barcelona
+43,Catalonia Born,1426,8.6,2023-05-22,Barcelona
+44,Andante Hotel,1619,8.6,2023-05-22,Barcelona
+45,Isabella's House,1429,8.7,2023-05-22,Barcelona
+46,Hesperia Barcelona Barri Gòtic,1392,8.0,2023-05-22,Barcelona
+47,ICON Bcn,2265,8.9,2023-05-22,Barcelona
+48,Hesperia Barcelona Presidente,1396,8.4,2023-05-22,Barcelona
+49,Catalonia Roma,1436,8.1,2023-05-22,Barcelona
+50,Hotel &amp; Spa Villa Olimpica Suites,1229,8.0,2023-05-22,Barcelona
+51,Catalonia Barcelona 505,1166,7.9,2023-05-22,Barcelona
+52,Yurbban Passage Hotel &amp; Spa,1928,9.1,2023-05-22,Barcelona
+53,Yomo Hostal BCN Port,1340,7.8,2023-05-22,Barcelona
+54,Ilunion Barcelona,1558,8.3,2023-05-22,Barcelona
+55,Ilunion Auditori,1656,8.1,2023-05-22,Barcelona
+56,Ohla Barcelona,3411,8.9,2023-05-22,Barcelona
+57,Condes de Barcelona,1845,8.8,2023-05-22,Barcelona
+58,"Claris Hotel &amp; Spa GL, a Small Luxury Hotel of the World",2045,8.4,2023-05-22,Barcelona
+59,Travelodge Barcelona Poblenou,942,7.3,2023-05-22,Barcelona
+60,Monument Hotel,3499,9.2,2023-05-22,Barcelona
+61,Acacia Suite,1980,8.1,2023-05-22,Barcelona
+62,Barcelona Apartment Val,2372,8.1,2023-05-22,Barcelona
+63,Chic &amp; Basic Velvet,1494,8.1,2023-05-22,Barcelona
+64,Acta Voraport,1278,8.7,2023-05-22,Barcelona
+65,Ocean Drive Barcelona,2209,8.8,2023-05-22,Barcelona
+66,BCN Urbaness Hotels Del Comte,1378,8.0,2023-05-22,Barcelona
+67,Room Mate Pau,2440,9.2,2023-05-22,Barcelona
+68,AC Hotel Victoria Suites by Marriott,1498,8.4,2023-05-22,Barcelona
+69,The Mirror Barcelona,1735,8.3,2023-05-22,Barcelona
+70,Hotel Viladomat by Silken,1335,7.6,2023-05-22,Barcelona
+71,Hostal Levante Barcelona,971,7.9,2023-05-22,Barcelona
+72,Ilunion Bel-Art,1475,8.0,2023-05-22,Barcelona
+73,"Hotel Bagués, a Small Luxury Hotel of the World",2903,8.7,2023-05-22,Barcelona
+74,Sofitel Barcelona Skipper,2458,8.9,2023-05-22,Barcelona
+75,Hotel Via Augusta,1485,8.5,2023-05-22,Barcelona
+76,AC Hotel Irla by Marriott,1830,7.9,2023-05-22,Barcelona
+77,The Moods Oasis,1439,8.7,2023-05-22,Barcelona
+78,ME Barcelona,3314,9.2,2023-05-22,Barcelona
+79,Aparthotel Arai 4* Superior,2273,8.9,2023-05-22,Barcelona
+80,Ibis Barcelona Plaza Glòries 22@,1319,8.3,2023-05-22,Barcelona
+81,Hotel Derby,1436,8.4,2023-05-22,Barcelona
+82,Hotel Alimara,1039,8.3,2023-05-22,Barcelona
+83,H10 Marina Barcelona,1480,8.3,2023-05-22,Barcelona
+84,W Barcelona,3803,8.4,2023-05-22,Barcelona
+85,Fisa Rentals Ramblas Apartments,1928,8.4,2023-05-22,Barcelona
+86,Sant Antoni Market,1907,8.5,2023-05-22,Barcelona
+87,Hotel Well and Come,1866,8.8,2023-05-22,Barcelona
+88,Ramblas Apartments,2174,8.7,2023-05-22,Barcelona
+89,Hotel Villa Emilia,1661,8.9,2023-05-22,Barcelona
+90,Hotel Best Auto Hogar,1042,7.7,2023-05-22,Barcelona
+91,Vincci Gala,3082,8.7,2023-05-22,Barcelona
+92,Barcelona Apartment Aramunt,2131,7.6,2023-05-22,Barcelona
+93,Silken Ramblas,1684,8.1,2023-05-22,Barcelona
+94,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",2128,8.9,2023-05-22,Barcelona
+95,Inside Barcelona Apartments Esparteria,1496,8.6,2023-05-22,Barcelona
+96,Barcelona Apartment Republica,2028,7.7,2023-05-22,Barcelona
+97,NH Collection Barcelona Podium,1873,8.6,2023-05-22,Barcelona
+98,The Moods Catedral Hostal Boutique,1463,8.6,2023-05-22,Barcelona
+99,Musik Boutique Hotel,1613,9.1,2023-05-22,Barcelona
+100,Barcelona Apartment Milà,2185,8.0,2023-05-22,Barcelona
+101,Àmfores Boutique Guest House,1466,8.1,2023-05-22,Barcelona
+102,Ilunion Almirante,1786,7.3,2023-05-22,Barcelona
+103,The Corner Hotel,1610,9.2,2023-05-22,Barcelona
+104,Seventy Barcelona,1930,9.3,2023-05-22,Barcelona
+105,AC Hotel Sants by Marriott,1529,8.2,2023-05-22,Barcelona
+106,Unite Hostel Barcelona,1431,8.3,2023-05-22,Barcelona
+107,Ilunion Les Corts Spa,1462,7.8,2023-05-22,Barcelona
+108,Barceló Sants,2075,8.7,2023-05-22,Barcelona
+109,Olivia Plaza Hotel,2890,9.3,2023-05-22,Barcelona
+110,Acta Antibes,1233,8.6,2023-05-22,Barcelona
+111,Hotel Miramar Barcelona GL,2270,7.9,2023-05-22,Barcelona
+112,Oriente Atiram,1529,7.8,2023-05-22,Barcelona
+113,Hotel Oasis,1840,8.6,2023-05-22,Barcelona
+114,Attica 21 Barcelona Mar,1341,8.3,2023-05-22,Barcelona
+115,"Cotton House Hotel, Autograph Collection",4813,8.5,2023-05-22,Barcelona
+116,Yurbban Ramblas Boutique Hotel,1813,9.3,2023-05-22,Barcelona
+117,The Social Hub Barcelona Poblenou,1282,8.9,2023-05-22,Barcelona
+118,Hotel 1898,2552,9.0,2023-05-22,Barcelona
+119,Hotel Brummell,2143,9.1,2023-05-22,Barcelona
+120,Acta Atrium Palace,1683,8.2,2023-05-22,Barcelona
+121,Four Points by Sheraton Barcelona Diagonal,1385,8.8,2023-05-22,Barcelona
+122,Hotel Jazz,1663,9.0,2023-05-22,Barcelona
+123,Forget Me Not Barcelona,2244,9.0,2023-05-22,Barcelona
+124,Hotel Sagrada Familia,1106,8.3,2023-05-22,Barcelona
+125,"Grand Hotel Central, Small Luxury Hotels",2612,8.8,2023-05-22,Barcelona
+126,Acta BCN 40,1347,8.3,2023-05-22,Barcelona
+127,Occidental Atenea Mar - Adults Only,2352,8.2,2023-05-22,Barcelona
+128,Citadines Ramblas Barcelona,1959,8.6,2023-05-22,Barcelona
+129,"Hotel Gran Derby Suites, a Small Luxury Hotel of the World",1506,8.7,2023-05-22,Barcelona
+130,H10 Cubik 4* Sup,2101,8.9,2023-05-22,Barcelona
+131,Alma Barcelona GL,3389,9.2,2023-05-22,Barcelona
+132,Mesón Castilla Atiram Hotels,1304,8.0,2023-05-22,Barcelona
+133,Iberostar Selection Paseo de Gracia 4 Sup,2549,8.9,2023-05-22,Barcelona
+134,Hilton Barcelona,1650,7.9,2023-05-22,Barcelona
+135,Aparthotel Allada 3*,2019,7.7,2023-05-22,Barcelona
+136,NH Collection Barcelona Gran Hotel Calderon,2333,8.2,2023-05-22,Barcelona
+137,NH Barcelona Diagonal Center,1378,7.9,2023-05-22,Barcelona
+138,Sercotel Caspe,1636,8.4,2023-05-22,Barcelona
+139,Hostal Benidorm,1072,8.3,2023-05-22,Barcelona
+140,Silken Sant Gervasi,1031,8.4,2023-05-22,Barcelona
+141,The Barcelona EDITION,3202,8.9,2023-05-22,Barcelona
+142,Hotel Royal Passeig de Gracia,1820,8.4,2023-05-22,Barcelona
+143,"Hotel Barcelona Apolo, Affiliated by Meliá",1706,8.3,2023-05-22,Barcelona
+144,Best Western Premier Hotel Dante,1459,8.7,2023-05-22,Barcelona
+145,"InterContinental Barcelona, an IHG Hotel",2268,8.9,2023-05-22,Barcelona
+146,Ola Living Portaferrissa,2269,8.2,2023-05-22,Barcelona
+147,Vincci Mae,2976,8.5,2023-05-22,Barcelona
+148,Hotel Condado,1191,8.3,2023-05-22,Barcelona
+149,Grums Hotel &amp; Spa,1506,8.3,2023-05-22,Barcelona
+150,B Hotel,1647,8.7,2023-05-22,Barcelona
+151,Hotel Serhs del Port,1341,7.9,2023-05-22,Barcelona
+152,Olivia Balmes Hotel,2782,9.1,2023-05-22,Barcelona
+153,Hotel Granvia,1444,8.9,2023-05-22,Barcelona
+154,ibis Styles Barcelona Centre,1370,8.6,2023-05-22,Barcelona
+155,Leonardo Hotel Barcelona Gran Via,1290,8.6,2023-05-22,Barcelona
+156,Hotel Serhs Carlit,1179,7.9,2023-05-22,Barcelona
+157,Ona Hotels Mosaic,1728,8.8,2023-05-22,Barcelona
+158,Europark,1461,8.7,2023-05-22,Barcelona
+159,Royal Ramblas,2190,8.0,2023-05-22,Barcelona
+160,Barcelona Apartment Gran de Gràcia,2147,7.8,2023-05-22,Barcelona
+161,Hotel Soho,1561,8.8,2023-05-22,Barcelona
+162,Apartment Diagonal Mar,1757,8.4,2023-05-22,Barcelona
+163,Vincci Maritimo,2158,8.3,2023-05-22,Barcelona
+164,Capri by Fraser Barcelona,1236,8.5,2023-05-22,Barcelona
+165,Hotel Market,1915,7.7,2023-05-22,Barcelona
+166,Chi,1577,8.9,2023-05-22,Barcelona
+167,Hostal Europa,599,7.3,2023-05-22,Barcelona
+168,Acta Splendid,1737,8.6,2023-05-22,Barcelona
+169,"Hotel SOFIA Barcelona, in The Unbound Collection by Hyatt",2117,8.6,2023-05-22,Barcelona
+170,Hotel Rec Barcelona - Adults Only,1444,8.8,2023-05-22,Barcelona
+171,Hotel Lleó,1433,8.2,2023-05-22,Barcelona
+172,Hotel Concordia Barcelona,1713,8.1,2023-05-22,Barcelona
+173,Exe Plaza Catalunya,2562,8.4,2023-05-22,Barcelona
+174,Arc La Rambla,1710,8.3,2023-05-22,Barcelona
+175,Pierre &amp; Vacances Barcelona Sants,1312,8.3,2023-05-22,Barcelona
+176,Hotel 54 Barceloneta,1796,8.1,2023-05-22,Barcelona
+177,Hotel Acta Azul Barcelona,1467,8.0,2023-05-22,Barcelona
+178,Aparthotel Senator Barcelona,1306,7.4,2023-05-22,Barcelona
+179,Sixtytwo Hotel,3529,9.2,2023-05-22,Barcelona
+180,Mihlton Barcelona Boutique B&amp;B,1448,8.7,2023-05-22,Barcelona
+181,chic&amp;basic Habana Hoose,1733,8.5,2023-05-22,Barcelona
+182,Leonardo Royal Hotel Barcelona Fira,1514,8.7,2023-05-22,Barcelona
+183,Hotel Barcelona Center,1735,8.6,2023-05-22,Barcelona
+184,Grupotel Gravina,1212,8.2,2023-05-22,Barcelona
+185,Grupotel Gran Via 678,1485,8.1,2023-05-22,Barcelona
+186,Circa 1905,2192,9.1,2023-05-22,Barcelona
+187,Hotel Arts Barcelona,3935,8.4,2023-05-22,Barcelona
+188,Praktik Èssens,1824,9.2,2023-05-22,Barcelona
+189,K+K Hotel Picasso El Born,1665,8.5,2023-05-22,Barcelona
+190,Park Hotel,1469,8.3,2023-05-22,Barcelona
+191,Chic &amp; Basic Born Boutique Hotel,1621,7.9,2023-05-22,Barcelona
+192,Vincci Bit,1976,8.4,2023-05-22,Barcelona
+193,Som Nit Port Vell,1646,8.6,2023-05-22,Barcelona
+194,Hotel Ronda Lesseps,1198,8.2,2023-05-22,Barcelona
+195,Hesperia Barcelona Del Mar,1274,8.0,2023-05-22,Barcelona
+196,"Alexandra Barcelona Hotel, Curio Collection by Hilton",1956,8.2,2023-05-22,Barcelona
+197,Best Western Plus Hotel Alfa Aeropuerto,1185,8.4,2023-05-22,Barcelona
+198,Hotel SB Icaria Barcelona,1329,7.9,2023-05-22,Barcelona
+199,Chic &amp; Basic Tallers Hostal,1194,7.2,2023-05-22,Barcelona
+200,Pestana Arena Barcelona,1721,8.4,2023-05-22,Barcelona
+201,Sixties Ramblas,1535,8.4,2023-05-22,Barcelona
+202,Mothern by Pillow,1629,8.1,2023-05-22,Barcelona
+203,Hotel Barcelona Universal,1336,8.4,2023-05-22,Barcelona
+204,Chic &amp; Basic Lemon Boutique Hotel,1401,8.4,2023-05-22,Barcelona
+205,Room Mate Gerard,1911,8.9,2023-05-22,Barcelona
+206,ibis Styles Barcelona City Bogatell,1137,8.5,2023-05-22,Barcelona
+207,"Kimpton Vividora Hotel, an IHG Hotel",2521,8.9,2023-05-22,Barcelona
+208,Sunotel Aston,1197,6.8,2023-05-22,Barcelona
+209,Exe Cristal Palace,1916,7.6,2023-05-22,Barcelona
+210,Occidental Diagonal 414,1667,8.8,2023-05-22,Barcelona
+211,Zenit Borrell,1208,7.9,2023-05-22,Barcelona
+212,Hotel America Barcelona,1639,8.5,2023-05-22,Barcelona
+213,Hotel Serhs Rivoli Rambla,1798,7.9,2023-05-22,Barcelona
+214,Catalonia Catedral,1786,9.0,2023-05-22,Barcelona
+215,Caledonian,1652,8.6,2023-05-22,Barcelona
+216,Le Meridien Barcelona,2686,8.0,2023-05-22,Barcelona
+217,Sunotel Junior,1089,6.9,2023-05-22,Barcelona
+218,Inside Barcelona Apartments Sants,1994,8.7,2023-05-22,Barcelona
+219,"Mandarin Oriental, Barcelona",5421,9.0,2023-05-22,Barcelona
+220,NH Barcelona Entenza,1201,8.3,2023-05-22,Barcelona
+221,Paral·lel,1194,8.3,2023-05-22,Barcelona
+222,Catalonia Avinyo,1356,8.5,2023-05-22,Barcelona
+223,Som Nit Born,1328,8.1,2023-05-22,Barcelona
+224,BCN Urbaness Hotels Bonavista,1380,8.1,2023-05-22,Barcelona
+225,The 8 Boutique B&amp;B,1522,8.5,2023-05-22,Barcelona
+226,Sir Victor Hotel,2577,8.4,2023-05-22,Barcelona
+227,Melia Barcelona Sky 4* Sup,1985,8.1,2023-05-22,Barcelona
+228,Sonder Casa Luz,1806,8.5,2023-05-22,Barcelona
+229,Duquesa Suites Barcelona,2031,8.7,2023-05-22,Barcelona
+230,NH Barcelona Eixample,1423,8.1,2023-05-22,Barcelona
+231,Apartments Sata Olimpic Village Area,1658,8.4,2023-05-22,Barcelona
+232,Sensation Sagrada Familia,2086,9.1,2023-05-22,Barcelona
+233,NH Sants Barcelona,1772,8.5,2023-05-22,Barcelona
+234,Som Nit Triomf,1368,7.9,2023-05-22,Barcelona
+235,Aparthotel Bertrán,1080,8.4,2023-05-22,Barcelona
+236,BacHome Terrace B&amp;B,1796,8.4,2023-05-22,Barcelona
+237,Ako Suites Hotel,1746,8.3,2023-05-22,Barcelona
+238,Sansi Pedralbes,1816,9.5,2023-05-22,Barcelona
+239,Boutique Hostemplo Sagrada Familia,1863,8.7,2023-05-22,Barcelona
+240,Room Mate Anna,2075,8.7,2023-05-22,Barcelona
+241,Hostal Live Barcelona,1250,8.5,2023-05-22,Barcelona
+242,Hotel Santa Marta,1289,8.5,2023-05-22,Barcelona
+243,Leonardo Boutique Hotel Barcelona Sagrada Familia,1149,8.7,2023-05-22,Barcelona
+244,Catalonia Park Güell,1026,7.7,2023-05-22,Barcelona
+245,BcnStop Sagrada Familia,1463,8.0,2023-05-22,Barcelona
+246,Brummell Apartments Gracia,1976,8.7,2023-05-22,Barcelona
+247,AinB Gothic-Jaume I Apartments,1488,6.5,2023-05-22,Barcelona
+248,Upper Diagonal,1542,8.8,2023-05-22,Barcelona
+249,You Stylish City Centre Apartments,3535,8.1,2023-05-22,Barcelona
+250,Hotel Transit,1599,7.7,2023-05-22,Barcelona
+251,Barcelona4Seasons II,1504,8.2,2023-05-22,Barcelona
+252,AC Hotel Diagonal L'Illa by Marriott,1706,8.6,2023-05-22,Barcelona
+253,Eurostars Grand Marina Hotel GL,5090,8.1,2023-05-22,Barcelona
+254,Aspasios Poble Nou Apartments,2127,7.9,2023-05-22,Barcelona
+255,Room Mate Carla,1550,8.7,2023-05-22,Barcelona
+256,Brummell Apartments Eixample Izquierda/Valeris,2166,8.6,2023-05-22,Barcelona
+257,Catalonia Mikado,1086,8.1,2023-05-22,Barcelona
+258,Renaissance Barcelona Hotel,2315,8.1,2023-05-22,Barcelona
+259,htop BCN City #htopEnjoy,871,6.6,2023-05-22,Barcelona
+260,Catalonia Gran Via BCN,1506,8.7,2023-05-22,Barcelona
+261,Flor Parks,2123,8.5,2023-05-22,Barcelona
+262,Feelathome Plaza Apartments,2067,8.2,2023-05-22,Barcelona
+263,Room Mate Emma,1621,8.9,2023-05-22,Barcelona
+264,NH Barcelona Stadium,1448,8.1,2023-05-22,Barcelona
+265,Bonanova Park,1052,7.4,2023-05-22,Barcelona
+266,Catalunya,1719,8.0,2023-05-22,Barcelona
+267,Exe Ramblas Boquería,2936,8.3,2023-05-22,Barcelona
+268,Dalia Ramblas,1601,8.3,2023-05-22,Barcelona
+269,Hotel Ramblas Internacional,1660,7.4,2023-05-22,Barcelona
+270,Boutique Hotel H10 Montcada,1712,8.8,2023-05-22,Barcelona
+271,Sonder La Casa Del Sol,1885,7.7,2023-05-22,Barcelona
+272,NH Barcelona Les Corts,1372,8.4,2023-05-22,Barcelona
+273,H10 Port Vell 4* Sup,1862,8.8,2023-05-22,Barcelona
+274,Eurostars Monumental,2137,8.4,2023-05-22,Barcelona
+275,Rent Top Apartments Rambla Catalunya,1843,8.1,2023-05-22,Barcelona
+276,Exe Mitre,1775,8.1,2023-05-22,Barcelona
+277,Hotel SB Glow **** Sup,2042,8.0,2023-05-22,Barcelona
+278,The Conica Deluxe Bed&amp;Breakfast,2262,9.1,2023-05-22,Barcelona
+279,Petit Palace Museum,1828,8.5,2023-05-22,Barcelona
+280,Catalonia Castellnou,1076,8.3,2023-05-22,Barcelona
+281,Chic &amp; Basic Zoo,1239,7.3,2023-05-22,Barcelona
+282,Flat Plaza España Guadiana 1/Apartment,1574,8.6,2023-05-22,Barcelona
+283,Hotel Casa Sagnier,2454,9.2,2023-05-22,Barcelona
+284,B-Garden BCN,1571,8.8,2023-05-22,Barcelona
+285,SM Hotel Sant Antoni,1158,8.6,2023-05-22,Barcelona
+286,May Ramblas Hotel,1605,8.0,2023-05-22,Barcelona
+287,Aspasios Rambla Catalunya Suites,2161,8.6,2023-05-22,Barcelona
+288,Hotel Àmbit Barcelona,1556,8.7,2023-05-22,Barcelona
+289,Ikonik Ramblas,2239,8.4,2023-05-22,Barcelona
+290,Cool &amp; colorful centric apartment,2323,7.8,2023-05-22,Barcelona
+291,Inside Barcelona Apartments Mercat,1805,9.0,2023-05-22,Barcelona
+292,AG Apartments,1944,8.2,2023-05-22,Barcelona
+293,Wilson Boutique Hotel,2136,8.5,2023-05-22,Barcelona
+294,Generator Barcelona,1509,7.8,2023-05-22,Barcelona
+295,Ola Living Born,1928,7.8,2023-05-22,Barcelona
+296,Hotel Casa Bonay,1966,9.0,2023-05-22,Barcelona
+297,Casual Colours Barcelona,1356,8.0,2023-05-22,Barcelona
+298,Hotel Rialto,1185,8.4,2023-05-22,Barcelona
+299,Eric Vökel Boutique Apartments - Gran Vía Suites,2558,8.9,2023-05-22,Barcelona
+300,Casa Lolita,993,7.6,2023-05-22,Barcelona
+301,Sonder Paseo de Gracia,2094,8.7,2023-05-22,Barcelona
+302,C211 Barcelona Apartments,1690,8.6,2023-05-22,Barcelona
+303,Catalonia Rigoletto,1266,8.5,2023-05-22,Barcelona
+304,H10 Casa Mimosa 4* Sup,4005,9.2,2023-05-22,Barcelona
+305,BBarcelona Central Boutique Apartments,1549,8.0,2023-05-22,Barcelona
+306,Ciutat Vella,1498,8.2,2023-05-22,Barcelona
+307,ROMANTIC apart,1043,8.2,2023-05-22,Barcelona
+308,Hotel SB Diagonal Zero Barcelona 4* Sup,1219,7.6,2023-05-22,Barcelona
+309,Hotel Sansi Barcelona,1423,7.9,2023-05-22,Barcelona
+310,Novotel Barcelona City,1282,8.1,2023-05-22,Barcelona
+311,Mercer Hotel Barcelona,3349,9.2,2023-05-22,Barcelona
+312,Hotel Reding Croma,1467,8.3,2023-05-22,Barcelona
+313,Sonder DO Plaça Reial,3818,8.4,2023-05-22,Barcelona
+314,Hotel HLG CityPark Pelayo,1266,7.2,2023-05-22,Barcelona
+315,Apartaments-Hotel Hispanos 7 Suiza,2722,8.8,2023-05-22,Barcelona
+316,Casa Felipa Plaza España,2427,8.8,2023-05-22,Barcelona
+317,Fisa Rentals Gran Via Apartments,2148,8.6,2023-05-22,Barcelona
+318,Mercer House Bòria BCN,2125,8.0,2023-05-22,Barcelona
+319,Barcelona4Seasons - Sagrada Familia,2049,7.5,2023-05-22,Barcelona
+320,Hotel Condal,2256,7.6,2023-05-22,Barcelona
+321,Ramblas by Pillow,1665,8.4,2023-05-22,Barcelona
+322,Hostal Girona,1858,8.8,2023-05-22,Barcelona
+323,Casa Mathilda,1806,9.1,2023-05-22,Barcelona
+324,Hostal Balkonis,1138,7.7,2023-05-22,Barcelona
+325,Free Hostels Barcelona,1601,8.5,2023-05-22,Barcelona
+326,Antiga Casa Buenavista,2196,9.4,2023-05-22,Barcelona
+327,Sunotel Central,1461,7.7,2023-05-22,Barcelona
+328,08028 Apartments,1827,8.8,2023-05-22,Barcelona
+329,Melia Barcelona Sarriá,1868,8.2,2023-05-22,Barcelona
+330,Exe Laietana Palace,2171,7.8,2023-05-22,Barcelona
+331,Catalonia Park Putxet,1096,7.7,2023-05-22,Barcelona
+332,Bcn Urbaness Hotels Gran Rosellon,1512,8.0,2023-05-22,Barcelona
+333,Ikonik Anglí,1890,7.9,2023-05-22,Barcelona
+334,H10 Casanova,1379,8.6,2023-05-22,Barcelona
+335,"The Hoxton, Poblenou",3739,8.7,2023-05-22,Barcelona
+336,Gracia8,2100,9.0,2023-05-22,Barcelona
+337,Catalonia La Maquinista,1076,8.5,2023-05-22,Barcelona
+338,The Level at Melia Barcelona Sky,2752,8.4,2023-05-22,Barcelona
+339,Apartments Sata Sagrada Familia Area,1478,8.3,2023-05-22,Barcelona
+340,Moderno,1888,7.3,2023-05-22,Barcelona
+341,Casa Lirio,1510,8.1,2023-05-22,Barcelona
+342,Sonder Vasanta,1936,8.1,2023-05-22,Barcelona
+343,La Guarida Suites,2493,8.0,2023-05-22,Barcelona
+344,Hotel Margot House Barcelona,2691,9.0,2023-05-22,Barcelona
+345,Hotel del Mar,1176,8.4,2023-05-22,Barcelona
+346,Apart-Suites Hostemplo,2201,8.6,2023-05-22,Barcelona
+347,EA Sagrada Familia IV Great Apartment 6 pax next Sagrada Familia WAS 3,2218,nan,2023-05-22,Barcelona
+348,B&amp;B Boutique Ca La Maria,2189,8.9,2023-05-22,Barcelona
+349,Ola Living MACBA,2024,7.7,2023-05-22,Barcelona
+350,Hostal La Terrassa,905,8.2,2023-05-22,Barcelona
+351,Hostel Central and Basic Universitat,824,7.4,2023-05-22,Barcelona
+352,Factory Gardens Barcelona,2065,9.0,2023-05-22,Barcelona
+353,Suites Center Barcelona,2381,8.9,2023-05-22,Barcelona
+354,Hotel Pulitzer Barcelona,2293,8.8,2023-05-22,Barcelona
+355,Ola Living Santa Anna,2306,8.1,2023-05-22,Barcelona
+356,Top Location Apartment,897,7.3,2023-05-22,Barcelona
+357,Pol &amp; Grace Hotel,2089,8.5,2023-05-22,Barcelona
+358,Aspasios Urquinaona Design,2631,8.6,2023-05-22,Barcelona
+359,Lodging Apartments Gaudi Views,2503,9.3,2023-05-22,Barcelona
+360,Ola Living Music,2515,7.9,2023-05-22,Barcelona
+361,Hotel Regina,2234,8.7,2023-05-22,Barcelona
+362,ApartEasy - Central Gracia Apartments,1823,7.6,2023-05-22,Barcelona
+363,AinB Las Ramblas-Guardia Apartments,1871,6.9,2023-05-22,Barcelona
+364,Hostal Sol y K,1798,8.0,2023-05-22,Barcelona
+365,Apartment Caspe,3588,8.0,2023-05-22,Barcelona
+366,The One Barcelona GL,10762,9.1,2023-05-22,Barcelona
+367,Eixample8,2465,10,2023-05-22,Barcelona
+368,Wittmore Hotel - Adults Only,2551,9.0,2023-05-22,Barcelona
+369,Eco Boutique Hostal Grau,1559,9.0,2023-05-22,Barcelona
+370,Casa Gracia,1521,7.7,2023-05-22,Barcelona
+371,Pensión San Ramón,1113,6.3,2023-05-22,Barcelona
+372,H10 Itaca,1965,8.4,2023-05-22,Barcelona
+373,Hotel Suizo,1244,8.2,2023-05-22,Barcelona
+374,Aspasios Garden Apartments,2487,8.8,2023-05-22,Barcelona
+375,Urban District Apartments - Rambla Suites &amp; Pool,1554,6.9,2023-05-22,Barcelona
+376,Hotel Constanza,1358,8.6,2023-05-22,Barcelona
+377,LeMar Boutique Barcelona,1696,8.4,2023-05-22,Barcelona
+378,Fantastic apartment near Plaça Francesc Macia in L'Eixample Esquerra,2124,8.2,2023-05-22,Barcelona
+379,You Stylish Diagonal Apartments,2653,7.5,2023-05-22,Barcelona
+380,Gran Hotel La Florida G.L Monumento,1374,8.7,2023-05-22,Barcelona
+381,Hotel Ciutadella Barcelona,1703,8.2,2023-05-22,Barcelona
+382,Hostemplo Sagrada Familia,1731,8.4,2023-05-22,Barcelona
+383,Hotel Sant Pau,1251,8.2,2023-05-22,Barcelona
+384,Ola Living Hostal Diagonal,1400,7.0,2023-05-22,Barcelona
+385,73COP54 - Spacious apartment with terrace,1454,nan,2023-05-22,Barcelona
+386,Close to Passeig de Gracia,1920,8.1,2023-05-22,Barcelona
+387,Modern and bright apartment in Eixample 2-1,2247,nan,2023-05-22,Barcelona
+388,Design rooms near Rambla,908,nan,2023-05-22,Barcelona
+389,Ola Living Diagonal Apartments,3255,7.8,2023-05-22,Barcelona
+390,Rent Top Apartments Beach-Diagonal Mar,2779,7.2,2023-05-22,Barcelona
+391,The Gran Via Penthouse,1894,8.2,2023-05-22,Barcelona
+392,Occidental Barcelona 1929,2016,9.0,2023-05-22,Barcelona
+393,Habitat Apartments Plaza España Urban,1636,6.9,2023-05-22,Barcelona
+394,Izaila Plaza Catalunya,1474,9.1,2023-05-22,Barcelona
+395,Modern and bright apartment in Eixample 3-1,2103,10,2023-05-22,Barcelona
+396,Wander by Pillow,1589,8.1,2023-05-22,Barcelona
+397,Barcelona Central Apartments,907,6.7,2023-05-22,Barcelona
+398,Habitat Apartments ADN,1870,7.9,2023-05-22,Barcelona
+399,Residència Erasmus Gracia,961,8.0,2023-05-22,Barcelona
+400,Barcelona - Carrer Muntanya,1024,7.0,2023-05-22,Barcelona
+401,Paseo de Gracia Bas Apartments by Aspasios,2523,9.1,2023-05-22,Barcelona
+402,Habitat Apartments Barcelona Balconies,2348,7.8,2023-05-22,Barcelona
+403,Casa Vaganto,1210,8.8,2023-05-22,Barcelona
+404,Durlet Beach Apartments,1703,8.7,2023-05-22,Barcelona
+405,Liceu Apartments by gaiarooms,1856,7.5,2023-05-22,Barcelona
+406,Claris Apartments,2341,8.8,2023-05-22,Barcelona
+407,BCN Rambla Catalunya Apartments,2962,8.8,2023-05-22,Barcelona
+408,Central and Basic Solarium Hostel,990,7.4,2023-05-22,Barcelona
+409,Vivobarcelona Apartments Princep,1856,8.7,2023-05-22,Barcelona
+410,Lodging Apartments Sagrada Familia,1382,7.4,2023-05-22,Barcelona
+411,Habitat Apartments Hot Jazz,1808,8.5,2023-05-22,Barcelona
+412,Lugaris Beach,1353,8.5,2023-05-22,Barcelona
+413,Lets Holidays Terrace Barcelona,1797,9.3,2023-05-22,Barcelona
+414,You Stylish Sagrada Familia Apartments,1948,9.0,2023-05-22,Barcelona
+415,Arya Stadium Hotel,1269,8.7,2023-05-22,Barcelona
+416,Sonder Los Arcos,2293,nan,2023-05-22,Barcelona
+417,Alba Hotel,1610,7.1,2023-05-22,Barcelona
+418,Enjoy Apartments Calabria,2118,9.0,2023-05-22,Barcelona
+419,Residencia Universitaria Campus del Mar,1220,7.5,2023-05-22,Barcelona
+420,Limonaia,1233,8.4,2023-05-22,Barcelona
+421,Modern and bright apartment in Eixample 4-2,2121,nan,2023-05-22,Barcelona
+422,Flat Vila Olimpica Pere IV/Apartment,1549,6.6,2023-05-22,Barcelona
+423,NiM Eixample 5,1853,6.8,2023-05-22,Barcelona
+424,House by Pillow,1698,8.6,2023-05-22,Barcelona
+425,Authentic flat2 in Poble sec - Paralelo,1170,8.6,2023-05-22,Barcelona
+426,Niu Barcelona Hotel,1665,8.3,2023-05-22,Barcelona
+427,Barcelona Apartment Villarroel,2119,8.2,2023-05-22,Barcelona
+428,Hotel Laumon,943,8.2,2023-05-22,Barcelona
+429,Umma Barcelona B&amp;B Boutique,1527,8.4,2023-05-22,Barcelona
+430,Abba Rambla Hotel,1584,8.3,2023-05-22,Barcelona
+431,Apartment Adele,3346,nan,2023-05-22,Barcelona
+432,Cosmopolitan Boutique Rambla,1571,8.3,2023-05-22,Barcelona
+433,Arago312 Apartments,3265,9.0,2023-05-22,Barcelona
+434,Aparthotel Augusta,1668,8.4,2023-05-22,Barcelona
+435,Suite Place Barcelona Diputació,2260,8.1,2023-05-22,Barcelona
+436,Sonder Le Palacete,2308,8.0,2023-05-22,Barcelona
+437,H10 Raco del Pi,2008,8.7,2023-05-22,Barcelona
+438,Hotel Alguer Camp Nou,883,8.0,2023-05-22,Barcelona
+439,Fisa Rentals Les Corts Apartments,1722,8.5,2023-05-22,Barcelona
+440,Habitat Apartments Cool Jazz,1704,7.9,2023-05-22,Barcelona
+441,Bright apartment close to congress center &amp; port,904,6.7,2023-05-22,Barcelona
+442,Modern and bright Duplex apartment in Eixample 4-3,2288,8.7,2023-05-22,Barcelona
+443,Casa Lit Barcelona by Ona Hotels,1547,8.1,2023-05-22,Barcelona
+444,Barceló Raval,2076,8.3,2023-05-22,Barcelona
+445,Barcelona City North Hostal,1552,7.7,2023-05-22,Barcelona
+446,AB Paral·lel Spacious Apartments,2766,7.1,2023-05-22,Barcelona
+447,Home to Home Barcelona,2891,8.4,2023-05-22,Barcelona
+448,Gran Hotel Barcino,1613,8.1,2023-05-22,Barcelona
+449,AinB Sagrada Familia Apartments,2831,7.7,2023-05-22,Barcelona
+450,Mayerling Abamita Apartments,2485,8.5,2023-05-22,Barcelona
+451,Casagrand Luxury Suites,5709,9.3,2023-05-22,Barcelona
+452,H La Paloma Adults Only,1196,7.7,2023-05-22,Barcelona
+453,CIUDAD CONDAL Hostal - Paseo de Gracia,1874,7.2,2023-05-22,Barcelona
+454,RAMBLAS HOTEL powered by Vincci Hoteles,2689,8.3,2023-05-22,Barcelona
+455,"Hotel Indigo Barcelona - Plaza Catalunya, an IHG Hotel",1871,7.9,2023-05-22,Barcelona
+456,Hotel Gótico,1647,8.3,2023-05-22,Barcelona
+457,Maldà Singular Hotel,1757,9.1,2023-05-22,Barcelona
+458,Barcelona Hotel Colonial,1647,8.3,2023-05-22,Barcelona
+459,Enjoybcn Patio de Gracia,1999,8.2,2023-05-22,Barcelona
+460,Urpi Rooms,920,7.5,2023-05-22,Barcelona
+461,My Space Barcelona Pool City Center,2575,5.0,2023-05-22,Barcelona
+462,Hotel Best 4 Barcelona,1107,8.0,2023-05-22,Barcelona
+463,Hostal Hera,1084,8.0,2023-05-22,Barcelona
+464,BacHome Gallery B&amp;B,1636,8.8,2023-05-22,Barcelona
+465,Hotel Everest,946,8.0,2023-05-22,Barcelona
+466,Habitat Apartments Alibei,2180,8.1,2023-05-22,Barcelona
+467,Aparthotel Napols - Abapart,1497,8.2,2023-05-22,Barcelona
+468,Renovated 4BD 2BTH with terrace in Plaza España,3695,nan,2023-05-22,Barcelona
+469,Modern and bright apartment in Eixample 2-2,2237,nan,2023-05-22,Barcelona
+470,Coronado,1186,6.7,2023-05-22,Barcelona
+471,Charming Flats by Aspasios,1647,8.3,2023-05-22,Barcelona
+472,Charming Parallel,1621,8.3,2023-05-22,Barcelona
+473,Apartaments Independencia,1409,7.8,2023-05-22,Barcelona
+474,Ronda Sant Pere - Private City Center 1-Bedroom Suite,1962,8.0,2023-05-22,Barcelona
+475,Hostal Argo,1094,7.5,2023-05-22,Barcelona
+476,Perfectly located 4bed 4bath apartment in Barcelona 2 2,3657,nan,2023-05-22,Barcelona
+477,Alguera Apartments Industria,2835,8.2,2023-05-22,Barcelona
+478,Hotel Midmost by Majestic Hotel Group,1867,8.5,2023-05-22,Barcelona
+479,Casa Cosi Don Bajos,2572,nan,2023-05-22,Barcelona
+480,Apartamentos Laforja,1230,7.5,2023-05-22,Barcelona
+481,ApartEasy - Turo Park with lovely balcony,1633,8.0,2023-05-22,Barcelona
+482,Uma Suites Pau Claris,1962,9.0,2023-05-22,Barcelona
+483,Leonardo Hotel Barcelona Las Ramblas,2441,8.1,2023-05-22,Barcelona
+484,Tres Torres Atiram Hotels,1093,8.2,2023-05-22,Barcelona
+485,Mayerling Schumann Barcelona,2353,7.9,2023-05-22,Barcelona
+486,Apartaments Marina - Abapart,1516,8.6,2023-05-22,Barcelona
+487,SmartRoom Barcelona,1480,8.3,2023-05-22,Barcelona
+488,Apartaments Aragó565,1409,7.9,2023-05-22,Barcelona
+489,Hotel Lyon,1131,7.2,2023-05-22,Barcelona
+490,Fantastic 2 Bedroom 5 minutes by car from Plaza Catalunya,2902,6.3,2023-05-22,Barcelona
+491,Sweet Inn - Verdi,2519,8.0,2023-05-22,Barcelona
+492,Hotel Medinaceli,1622,8.0,2023-05-22,Barcelona
+493,Stay U-nique Apartments Consell,2961,8.0,2023-05-22,Barcelona
+494,Guitart Grand Passage,1890,8.0,2023-05-22,Barcelona
+495,The Loft Hostel,2009,8.0,2023-05-22,Barcelona
+496,Habitat Apartments Alaia,1629,8.0,2023-05-22,Barcelona
+497,U232 Hotel,1594,8.8,2023-05-22,Barcelona
+498,Primero Primera,1861,9.3,2023-05-22,Barcelona
+499,Rent Top Apartments Forum,2839,8.2,2023-05-22,Barcelona
+500,ApartEasy - Montjuïc &amp; Fira,1618,5.9,2023-05-22,Barcelona
+501,Putxet by gaiarooms,1515,5.4,2023-05-22,Barcelona
+502,Lodging Apartments City Center-Eixample,1928,8.4,2023-05-22,Barcelona
+503,Hostal Live Natura Barcelona,1217,8.1,2023-05-22,Barcelona
+504,Majestic Hotel &amp; Spa Barcelona GL,3771,8.5,2023-05-22,Barcelona
+505,Stay Together Barcelona Apartments,3354,9.5,2023-05-22,Barcelona
+506,Zenit Barcelona,1238,8.1,2023-05-22,Barcelona
+507,Habitat Apartments Eixample Balconies.,2306,7.4,2023-05-22,Barcelona
+508,Arenas Atiram Hotels,1167,8.0,2023-05-22,Barcelona
+509,Eixample 7,2261,8.8,2023-05-22,Barcelona
+510,Hotel Monegal,1325,7.4,2023-05-22,Barcelona
+511,Magnificent and Massive 5 Bedroom Family Apartment and Terrace,4634,10,2023-05-22,Barcelona
+512,Hotel Toledano Ramblas,928,6.9,2023-05-22,Barcelona
+513,Casa Cosi Sant Antoni,1564,8.3,2023-05-22,Barcelona
+514,Hg City Suites Barcelona Apartments,1499,8.8,2023-05-22,Barcelona
+515,ClassBedroom Eixample Free Apartments,2136,8.2,2023-05-22,Barcelona
+516,Hostal Mayerling Centro,1824,7.6,2023-05-22,Barcelona
+517,Stay U-nique Apartments Borbó II,3190,7.9,2023-05-22,Barcelona
+518,Hotel Barcelona Condal Mar Affiliated by Meliá,1496,7.9,2023-05-22,Barcelona
+519,Aspasios Market Balconies,2406,9.1,2023-05-22,Barcelona
+520,Urban District Apartments - Barcelona Smart Vintage Lofts and Apartments,1432,6.8,2023-05-22,Barcelona
+521,EasySleep Gaudi Terrace,2213,8.6,2023-05-22,Barcelona
+522,Be Mate Paseo de Gracia,1932,9.0,2023-05-22,Barcelona
+523,Habitat Apartments Paseo de Gracia Suite,1680,8.0,2023-05-22,Barcelona
+524,Elegant 3-bedroom Apartment in the Heart of BCN,3346,nan,2023-05-22,Barcelona
+525,Factory Suites Barcelona,1518,8.4,2023-05-22,Barcelona
+526,Catedral Bas Apartments by Aspasios,2685,9.3,2023-05-22,Barcelona
+527,Acevi Villarroel,1511,7.7,2023-05-22,Barcelona
+528,AinB B&amp;B Eixample-Muntaner,1585,6.2,2023-05-22,Barcelona
+529,My Space Barcelona Executive Apartments Center,2025,5.1,2023-05-22,Barcelona
+530,Modern and bright 3BD apartment by Gran Via - Plaza España,2872,nan,2023-05-22,Barcelona
+531,Easy Sants by Bossh!,1743,6.9,2023-05-22,Barcelona
+532,Twentytú Hostel,3072,7.7,2023-05-22,Barcelona
+533,Friendly Rentals Santa Monica,1979,7.4,2023-05-22,Barcelona
+534,Habitat Apartments Grace,3799,7.4,2023-05-22,Barcelona
+535,Durlet Rambla Mar Apartments,1936,8.7,2023-05-22,Barcelona
+536,"ApartEasy - Private Terrace, 3-Bedroom Apartment",2399,nan,2023-05-22,Barcelona
+537,Mayerling Bisbe Urquinaona,2547,8.1,2023-05-22,Barcelona
+538,BruStar Gotic-Centric,898,7.6,2023-05-22,Barcelona
+539,Suite Place Barcelona Còrsega,2563,7.9,2023-05-22,Barcelona
+540,Tendency Apartments 7,2723,7.9,2023-05-22,Barcelona
+541,Stay U-nique Apartments Napols I,3421,8.8,2023-05-22,Barcelona
+542,EasySleep Eixample,2093,8.4,2023-05-22,Barcelona
+543,Midtown Luxury Apartments by Sweet Inn,2408,7.8,2023-05-22,Barcelona
+544,Uma Suites Barceloneta Beach,2658,7.2,2023-05-22,Barcelona
+545,Modern and bright apartment in Eixample 5-2,2237,10,2023-05-22,Barcelona
+546,Modern and bright House in the city centre,3029,nan,2023-05-22,Barcelona
+547,Historic apartment with terrace by the city centre,2274,nan,2023-05-22,Barcelona
+548,Elegant 4 bedrooms 3 bathrooms Catalan home,3621,nan,2023-05-22,Barcelona
+549,Stay U-nique Apartments Floridablanca II,3737,9.2,2023-05-22,Barcelona
+550,Sweet Inn - Villarroel,2702,8.1,2023-05-22,Barcelona
+551,Eric Vökel Boutique Apartments - BCN Suites,2414,8.9,2023-05-22,Barcelona
+552,Sagrada Familia- Fantastic Bold Catalan 3 Bedroom Balcony,2345,10,2023-05-22,Barcelona
+553,Stay U-nique Apartments Passeig de Gracia II,3109,8.4,2023-05-22,Barcelona
+554,Vilana Hotel Boutique,1379,8.3,2023-05-22,Barcelona
+555,Ella Hostel Ramblas,1595,8.2,2023-05-22,Barcelona
+556,limehome Barcelona Carrer de Besalú 82,2646,9.1,2023-05-22,Barcelona
+557,Friendly Rentals Dali,1706,7.4,2023-05-22,Barcelona
+558,Sweet Inn - Gracia Central,2925,nan,2023-05-22,Barcelona
+559,Pension Ciudadela,1557,9.2,2023-05-22,Barcelona
+560,numa l Roca Rooms &amp; Apartments,1641,8.4,2023-05-22,Barcelona
+561,ClassBedroom Gothic Ramblas Apartments,1424,8.0,2023-05-22,Barcelona
+562,Casa Gracia Apartments,2293,9.0,2023-05-22,Barcelona
+563,Casa Cosi - Putxet 4,3124,nan,2023-05-22,Barcelona
+564,Hostal Parisien,928,6.5,2023-05-22,Barcelona
+565,AB Centric Universitat,2730,8.5,2023-05-22,Barcelona
+566,Exquisite and Modern Paradise w Private Terrace and City Center,3419,10,2023-05-22,Barcelona
+567,Bbarcelona Apartments Central Eixample Flats,1869,7.5,2023-05-22,Barcelona
+568,Hotel Denit Barcelona,1795,8.4,2023-05-22,Barcelona
+569,Arc House Barcelona,731,6.4,2023-05-22,Barcelona
+570,3-bedroom penthouse with terrace in Eixample,3349,nan,2023-05-22,Barcelona
+571,Habitat Apartments Carders,2841,8.3,2023-05-22,Barcelona
+572,HG City Suites Barcelona,1366,8.8,2023-05-22,Barcelona
+573,KANEi,602,5.6,2023-05-22,Barcelona
+574,Hostal Martinval,1100,8.0,2023-05-22,Barcelona
+575,Twenty by Pillow,1560,nan,2023-05-22,Barcelona
+576,Casa Cosi - Sant Gervasi 1,2506,9.2,2023-05-22,Barcelona
+577,Hostal Colkida,1227,7.6,2023-05-22,Barcelona
+578,Stay U-nique Apartments Sant Antoni II,4599,9.4,2023-05-22,Barcelona
+579,Habitat Apartments Plaza España,1846,6.9,2023-05-22,Barcelona
+580,Barcelona City Centre Hostal,2053,8.0,2023-05-22,Barcelona
+581,Meeting Point Hostels,1177,8.8,2023-05-22,Barcelona
+582,51PAR187 Nice apartment in Parallel,1582,9.0,2023-05-22,Barcelona
+583,Hostal Felipe 2,921,7.3,2023-05-22,Barcelona
+584,Modern and bright apartment in Eixample 1-2,2477,nan,2023-05-22,Barcelona
+585,Buba House,744,7.9,2023-05-22,Barcelona
+586,Cosmo Suite Penthouse,8153,7.3,2023-05-22,Barcelona
+587,numa I Brio,1605,8.5,2023-05-22,Barcelona
+588,Bright and modern 2bedroom in Las Ramblas 3 1A,2267,7.0,2023-05-22,Barcelona
+589,Hostal Barcelona Centro,1510,8.3,2023-05-22,Barcelona
+590,Hostal Goya,1938,8.7,2023-05-22,Barcelona
+591,Sweet Inn - Paseo de Gracia - City Centre,3078,8.8,2023-05-22,Barcelona
+592,Hotel Travessera,1142,7.8,2023-05-22,Barcelona
+593,You Stylish Beach Apartments,2852,7.3,2023-05-22,Barcelona
+594,Ofelias Hotel 4* Sup,1736,8.6,2023-05-22,Barcelona
+595,Chic Apartments Barcelona,2393,9.0,2023-05-22,Barcelona
+596,Stay U-nique Apartments Industria,2869,7.7,2023-05-22,Barcelona
+597,Plaça Catalunya Luxurious 2bedroom with balcony,2504,nan,2023-05-22,Barcelona
+598,Hotel Casa Fuster G.L Monumento,3669,8.8,2023-05-22,Barcelona
+599,Zero Barcelona,2441,8.8,2023-05-22,Barcelona
+600,Hotel El Call,2202,7.6,2023-05-22,Barcelona
+601,Stay U-nique Apartments Palma,2395,7.7,2023-05-22,Barcelona
+602,Casa Consell Apartments,6633,9.0,2023-05-22,Barcelona
+603,Stay U-nique Apartments Sants,2847,8.9,2023-05-22,Barcelona
+604,Apartment Barcelona Rentals - Gracia Pool Apartments Center,2169,6.7,2023-05-22,Barcelona
+605,Lodging Apartments Gracia,1828,8.1,2023-05-22,Barcelona
+606,Casa Neri Apartments,3036,9.3,2023-05-22,Barcelona
+607,Sagrada Familia 3 bedrooms apartment with huge private Terrace,2897,nan,2023-05-22,Barcelona
+608,Bright and modern Duplex with terrace in Eixample district P2,2435,10,2023-05-22,Barcelona
+609,Casa Cosi - Casanova 6,3581,nan,2023-05-22,Barcelona
+610,Apartamentos Turísticos Tenor by Bossh Hotels,2856,8.9,2023-05-22,Barcelona
+611,AB Eixample Viladomat Apartments,3096,6.8,2023-05-22,Barcelona
+612,AB Sagrada Família Comfort,1989,6.8,2023-05-22,Barcelona
+613,Barcelona Sants Station Apartments,4763,6.9,2023-05-22,Barcelona
+614,Canela Homes BARCELONA UNIVERSITAT,3117,8.4,2023-05-22,Barcelona
+615,numa I Caja Apartments,2327,8.4,2023-05-22,Barcelona
+616,Bbarcelona Apartments Plaza España Flats,1596,6.5,2023-05-22,Barcelona
+617,Sweet Inn - Jardinets,1932,8.3,2023-05-22,Barcelona
+618,Stay U-nique Apartments Manso,3318,8.6,2023-05-22,Barcelona
+619,Stay U-nique Apartments Gaudi,3665,7.0,2023-05-22,Barcelona
+620,Sunotel Club Central,1314,7.9,2023-05-22,Barcelona
+621,Stay U-nique Apartments Sagues,2376,nan,2023-05-22,Barcelona
+622,FridaysFlats Destination Downtown - Ultra Central,1904,8.3,2023-05-22,Barcelona
+623,Stay U-nique Apartments Rambla Catalunya,2815,7.7,2023-05-22,Barcelona
+624,TOC Hostel Barcelona,2704,8.6,2023-05-22,Barcelona
+625,Fira Guest House,726,6.3,2023-05-22,Barcelona
+626,Sweet Inn - Sagrada Familia View,2201,8.4,2023-05-22,Barcelona
+627,Hotel Nuevo Triunfo,1727,7.8,2023-05-22,Barcelona
+628,Stay U-nique Apartments Est,2410,6.6,2023-05-22,Barcelona
+629,ApartEasy - Port Barcelona,2334,7.5,2023-05-22,Barcelona
+630,diagonal mar,1003,5.6,2023-05-22,Barcelona
+631,Hostal MiMi Las Ramblas,1176,7.4,2023-05-22,Barcelona
+632,Plaza Espanya Apartment,1799,8.4,2023-05-22,Barcelona
+633,AinB Eixample-Miro Apartments,3806,6.8,2023-05-22,Barcelona
+634,Sweet Inn - Raco,2167,8.8,2023-05-22,Barcelona
+635,Stay U-nique Apartments Rocafort,3363,7.9,2023-05-22,Barcelona
+636,BCN Condal Hostal,684,7.0,2023-05-22,Barcelona
+637,Apartment Barcelona Rentals - Sarria Apartments Near Center,2183,5.8,2023-05-22,Barcelona
+638,Apartment Barcelona Rentals - Pool Terrace in City Center,3035,4.9,2023-05-22,Barcelona
+639,Tendency Apartments 6,4086,7.8,2023-05-22,Barcelona
+640,Casa Cosi Letamendi,2348,9.1,2023-05-22,Barcelona
+641,Aspasios Sagrada Familia Apartments,2397,8.9,2023-05-22,Barcelona
+642,Stay U-nique Apartments Parlament,2988,8.0,2023-05-22,Barcelona
+643,Stay U-nique Apartments Corsega,3210,7.7,2023-05-22,Barcelona
+644,Eric Vökel Boutique Apartments - Sagrada Familia Suites,3206,8.8,2023-05-22,Barcelona
+645,Hostal Oliveta,1186,7.9,2023-05-22,Barcelona
+646,Stay U-nique Apartments Plaça de Tetuan,3935,8.9,2023-05-22,Barcelona
+647,Stay U-nique Apartments Pellaires,2627,7.3,2023-05-22,Barcelona
+648,Habitat Apartments Batlló,2024,8.6,2023-05-22,Barcelona
+649,Hostal Rio De Castro,1417,7.8,2023-05-22,Barcelona
+650,Aspasios Plaza Real Apartments,1938,7.9,2023-05-22,Barcelona
+651,Sweet Inn - Atic Gracia,2114,7.6,2023-05-22,Barcelona
+652,ApartEasy - Casanova Elegance,3447,8.0,2023-05-22,Barcelona
+653,Stay U-nique Apartments Cent,3187,8.6,2023-05-22,Barcelona
+654,My Space Barcelona - Newly renovated apartment in Gràcia for families and executives,2517,7.5,2023-05-22,Barcelona
+655,Stay U-nique Apartments Sepulveda,3865,7.7,2023-05-22,Barcelona
+656,1213 - Ciutadella Nice Apartment,1904,7.3,2023-05-22,Barcelona
+657,Stay U-nique Apartments Lepant,2698,7.8,2023-05-22,Barcelona
+658,Aparthotel Rambla108,2061,8.2,2023-05-22,Barcelona
+659,Habitat Apartments Bailén,3518,7.8,2023-05-22,Barcelona
+660,Modern and bright apartment in Eixample 3-2,2057,8.5,2023-05-22,Barcelona
+661,Magnificent apartment close to the beach,4233,7.4,2023-05-22,Barcelona
+662,Almanac Barcelona,5537,8.8,2023-05-22,Barcelona
+663,Stay U-nique Family Apartment near to Park Guell,3186,nan,2023-05-22,Barcelona
+664,Lodging Apartments Liceu 11,1819,9.5,2023-05-22,Barcelona
+665,UD Apartments - Luxury Beach Apartment with Terrace,2261,9.6,2023-05-22,Barcelona
+666,Bonanova Suite,1367,8.5,2023-05-22,Barcelona
+667,ApartEasy - Atic Sagrada Familia,2475,8.2,2023-05-22,Barcelona
+668,numa I Lustre Apartments,1866,7.9,2023-05-22,Barcelona
+669,Stay U-nique Apartments Joanic,2740,6.6,2023-05-22,Barcelona
+670,numa I Seda Apartments,1595,8.3,2023-05-22,Barcelona
+671,Stay U-nique Apartments Gaudi II,3013,8.4,2023-05-22,Barcelona
+672,Kronos on the Beach Attic Suite,3810,9.0,2023-05-22,Barcelona
+673,Bbarcelona Apartments Gracia Flats,1741,6.4,2023-05-22,Barcelona
+674,Barcelona City Apartment,1430,7.0,2023-05-22,Barcelona
+675,Lodging Sagrada Familia &amp; Sant Pau,1843,7.5,2023-05-22,Barcelona
+676,Stay U-nique Apartments Mallorca,4308,8.2,2023-05-22,Barcelona
+677,Studio Hostel,1370,8.2,2023-05-22,Barcelona
+678,Primavera Hostel,1096,8.9,2023-05-22,Barcelona
+679,Mambo Tango,1427,7.3,2023-05-22,Barcelona
+680,Modern and Chic Apartments in Gracia near Parc Guell,1877,8.0,2023-05-22,Barcelona
+681,AB Olympic Village Beach,3121,6.9,2023-05-22,Barcelona
+682,Olala Port Forum Apartments,2289,8.2,2023-05-22,Barcelona
+683,"Via Sants Hotel Barcelona, Tapestry Collection By Hilton",1789,nan,2023-05-22,Barcelona
+684,Unique Rentals-Seafront Luxe Suites,2529,8.6,2023-05-22,Barcelona
+685,Bright and modern 4BD with terrace near Arc de Triomf,3531,nan,2023-05-22,Barcelona
+686,"FridaysFlats, Retro Chic - Experience the charm of Poble Sec",2118,7.1,2023-05-22,Barcelona
+687,Stay U-nique Apartments Tapioles,2299,7.6,2023-05-22,Barcelona
+688,Barcelona City Hotel,2048,7.5,2023-05-22,Barcelona
+689,Stay U-nique Apartments Aribau II,3512,8.3,2023-05-22,Barcelona
+690,Friendly Rentals Gran Via,2671,8.2,2023-05-22,Barcelona
+691,Stay U-nique Apartments Radas,2749,5.0,2023-05-22,Barcelona
+692,Sweet Inn - Sepulveda,2080,7.6,2023-05-22,Barcelona
+693,Tendency Apartments Forum,2718,9.0,2023-05-22,Barcelona
+694,Stay U-nique Apartments Rossello,3799,7.6,2023-05-22,Barcelona
+695,Apartment Eixample Comfort,1327,9.7,2023-05-22,Barcelona
+696,Habitat Apartments Pedrera,2290,8.0,2023-05-22,Barcelona
+697,numa I Boqueria Apartments,3231,8.4,2023-05-22,Barcelona
+698,AB Bailen Apartments,2676,6.6,2023-05-22,Barcelona
+699,Rocafort in Eixample,2320,6.5,2023-05-22,Barcelona
+700,AB Marina Apartments,2167,6.9,2023-05-22,Barcelona
+701,Stylish 2 Bdr apartment in Trendy Gracia,2133,8.6,2023-05-22,Barcelona
+702,Lodging Apartments Villa de Gracia 2 bedroom cozy apartment,1780,7.7,2023-05-22,Barcelona
+703,Aparteasy - Deluxe Family Apartments with Pool,2795,7.9,2023-05-22,Barcelona
+704,Click&amp;Flat Seneca Suites,2666,8.5,2023-05-22,Barcelona
+705,Friendly Rentals Manuela,1976,7.9,2023-05-22,Barcelona
+706,Habitat Apartments Blanca,1544,7.4,2023-05-22,Barcelona
+707,Stay U-nique Apartments Sardenya II,3689,6.6,2023-05-22,Barcelona
+708,Lodging Apartments Guell &amp; Gracia,1669,7.6,2023-05-22,Barcelona
+709,Mid-term rentals in Barcelona with Swimming Pool,2107,2.9,2023-05-22,Barcelona
+710,AB Passeig de Gràcia Apartments,2444,6.9,2023-05-22,Barcelona
+711,Barcelona City Rooms,2545,7.3,2023-05-22,Barcelona
+712,ApartEasy - Family 4-Bedroom Apartment,2986,7.8,2023-05-22,Barcelona
+713,Bismarck,2132,3.0,2023-05-22,Barcelona
+714,Gracia12,1903,8.1,2023-05-22,Barcelona
+715,Casa Cosi - Sant Gervasi 4,2562,7.0,2023-05-22,Barcelona
+716,Sweet Inn - Charming in Sant Gervasi,2067,8.0,2023-05-22,Barcelona
+717,ApartEasy - Plaza España Deluxe,2935,7.9,2023-05-22,Barcelona
+718,ApartEasy - Gracia Apartments,1955,7.1,2023-05-22,Barcelona
+719,Apartments Hotel Sant Pau,1553,8.8,2023-05-22,Barcelona
+720,Canela Homes BARCELONA MACBA,2145,7.9,2023-05-22,Barcelona
+721,Click&amp;Flat Luxury Tetuan,5147,8.4,2023-05-22,Barcelona
+722,Apartamento Modernista para Grupos,9953,8.2,2023-05-22,Barcelona
+723,MODERNIST APARTMENT FOR LARGE GROUPS IN EIXAMPLE,9953,8.7,2023-05-22,Barcelona
+724,AB Casa Saltor,3834,8.9,2023-05-22,Barcelona
+725,Stay U-nique Apartments Murillo,2696,nan,2023-05-22,Barcelona
+726,Hostal Lausanne,5004,8.5,2023-05-22,Barcelona
+727,Stay U-nique Apartments Salva II,3405,9.2,2023-05-22,Barcelona
+728,ApartEasy - Eixample Center,1777,7.0,2023-05-22,Barcelona
+729,Ola Living Gaudi,1693,6.9,2023-05-22,Barcelona
+730,Mar Apartments,3215,7.5,2023-05-22,Barcelona
+731,Barcelona City Seven,1552,7.0,2023-05-22,Barcelona
+732,Stay U-nique Apartments Urgell,3060,7.3,2023-05-22,Barcelona
+733,Barcelona City Street,1552,7.1,2023-05-22,Barcelona
+734,Stay U-nique Apartments Sicília,4102,6.2,2023-05-22,Barcelona
+735,Ideal Youth Hostel,857,4.8,2023-05-22,Barcelona
+736,Central and Spacious Family Apartment,3578,8.7,2023-05-22,Barcelona
+737,Stay U-nique Apartments Rogent,3113,8.0,2023-05-22,Barcelona
+738,Apartment Barcelona Rentals - Penthouse with Terrace,2169,6.2,2023-05-22,Barcelona
+739,numa l Lumino Apartments,2070,7.5,2023-05-22,Barcelona
+740,Stay U-nique Apartments Floridablanca,3120,7.9,2023-05-22,Barcelona
+741,Ola Living Aribau Apartments,3084,8.1,2023-05-22,Barcelona
+742,limehome Barcelona Carrer de Fontcoberta - Self check-in only,3043,8.3,2023-05-22,Barcelona
+743,Stay U-nique Apartments Bonsoms,2635,7.8,2023-05-22,Barcelona
+744,Casa Cosi - El Farró 3,2442,9.7,2023-05-22,Barcelona
+745,Tendency Sagrada Familia Deluxe,3881,8.5,2023-05-22,Barcelona
+746,AB Montjuic,2657,7.4,2023-05-22,Barcelona
+747,Hostal Capitol Ramblas,897,6.8,2023-05-22,Barcelona
+748,Olala Diagonal Apartment,3033,8.8,2023-05-22,Barcelona
+749,Stay U-nique Apartments Gran Via II,3485,8.6,2023-05-22,Barcelona
+750,Family apartment close to Parc Güell,2015,7.3,2023-05-22,Barcelona
+751,Safestay Passeig de Gràcia,1536,7.1,2023-05-22,Barcelona
+752,Stay U-nique Apartments Travessera II,2945,9.7,2023-05-22,Barcelona
+753,Tendency Rambla Catalunya,3725,8.5,2023-05-22,Barcelona
+754,Olala Les Corts Exclusive Apartments,3001,8.4,2023-05-22,Barcelona
+755,Stay U-nique Apartments Fontrodona,2823,7.7,2023-05-22,Barcelona
+756,Casa Cosi - Eixample 4,4509,nan,2023-05-22,Barcelona
+757,Casa Cosi - Industría,2243,9.0,2023-05-22,Barcelona
+758,Stay U-nique Apartments Vila de Gracia,2724,6.8,2023-05-22,Barcelona
+759,BBarcelona Guinardó Flat,1596,7.9,2023-05-22,Barcelona
+760,Urban Apartments,2206,8.4,2023-05-22,Barcelona
+761,Stay U-nique Apartments Borbó,3214,6.7,2023-05-22,Barcelona
+762,Olala Aqua Apartment,3624,8.8,2023-05-22,Barcelona
+763,ApartEasy - Atic Sants,2038,4.5,2023-05-22,Barcelona
+764,Sweet Inn - Callao,2382,7.8,2023-05-22,Barcelona
+765,Sweet Inn - Atic Eloi,2925,7.8,2023-05-22,Barcelona
+766,Stay U-nique Apartments Pasteur,2095,9.0,2023-05-22,Barcelona
+767,Sweet Inn - Diagonal - Francesc Macia,3295,7.9,2023-05-22,Barcelona
+768,Stay U-nique Apartments Begur,2420,7.4,2023-05-22,Barcelona
+769,AB Park Güell-Gaudi,2144,6.9,2023-05-22,Barcelona
+770,HOMEnFUN Park Güell,2284,5.5,2023-05-22,Barcelona
+771,AinB Picasso-Corders Apartments,1856,7.0,2023-05-22,Barcelona
+772,AB Sagrada Familia Premium,2385,7.5,2023-05-22,Barcelona
+773,Stay U-nique Apartments Sant Antoni,4245,7.8,2023-05-22,Barcelona
+774,HOMEnFUN Barcelona Eixample II,4532,8.8,2023-05-22,Barcelona
+775,Sweet Inn - Aragon,4367,7.9,2023-05-22,Barcelona
+776,Stay U-nique Apartments Fabra i Puig,2558,8.2,2023-05-22,Barcelona
+777,Tendency Apartments 5,2942,7.6,2023-05-22,Barcelona
+778,AB Eixample Calabria,2455,7.9,2023-05-22,Barcelona
+779,Stay U-nique Apartments Girona,4840,8.7,2023-05-22,Barcelona
+780,Kronos on the beach Suite 4,3746,8.9,2023-05-22,Barcelona
+781,HOMEnFUN Barcelona Les Corts,2268,3.6,2023-05-22,Barcelona
+782,Sant Antoni 1 - Downtown Barcelona &amp; Modern,1837,5.0,2023-05-22,Barcelona
+783,AinB Born-Dames Apartments,2040,6.5,2023-05-22,Barcelona
+784,NEW Renovated COZY APPARTMENT CENTRIC,1504,9.5,2023-05-22,Barcelona
+785,Ola Living Merce,3809,8.0,2023-05-22,Barcelona
+786,Canela Homes BARCELONA MARINA,2539,8.2,2023-05-22,Barcelona
+787,Sweet Inn - Calabria,2747,8.2,2023-05-22,Barcelona
+788,Colorful with Cozy terrace in Gracia,2489,9.4,2023-05-22,Barcelona
+789,HOMEnFUN Barcelona Gracia,2279,6.5,2023-05-22,Barcelona
+790,Tendency Apartments 8,2633,7.2,2023-05-22,Barcelona
+791,Stay U-nique Apartments Salvador Espriu,3913,8.3,2023-05-22,Barcelona
+792,AB Vila i Vila Apartments,1890,6.7,2023-05-22,Barcelona
+793,Vacaciones en maresme casa para 7 personas,1135,9.5,2023-05-22,Barcelona
+794,Fridays Flats Casa AquaMarine,2503,7.8,2023-05-22,Barcelona
+795,Stay U-nique Apartments Mistral,3433,7.3,2023-05-22,Barcelona
+796,Stay U-nique Apartments Massens,4546,7.7,2023-05-22,Barcelona
+797,Sweet Inn Plaza Espana Fira,2138,6.6,2023-05-22,Barcelona
+798,Rent Top Apartments near Plaza de Catalunya,4259,7.9,2023-05-22,Barcelona
+799,AB Sagrada Familia Bofill,2186,7.8,2023-05-22,Barcelona
+800,Habitat Apartments Ferran,6844,8.3,2023-05-22,Barcelona
+801,Elegant Eixample Apartment nicely decorated,3434,9.5,2023-05-22,Barcelona
+802,Stay U-nique Apartments Sant Eudald,3339,7.8,2023-05-22,Barcelona
+803,Tendency Apartments 3,2274,7.0,2023-05-22,Barcelona
+804,Casa Cosi - Eixample 3,4550,nan,2023-05-22,Barcelona
+805,Habitat apartments Barcelona Center,2943,5.8,2023-05-22,Barcelona
+806,Sweet Inn - Loft Villa Olimpica Beach,1944,8.2,2023-05-22,Barcelona
+807,Rent Top Apartments Avenida Diagonal,3265,8.6,2023-05-22,Barcelona
+808,Tendency Apartments 12 Penthouse,6658,7.5,2023-05-22,Barcelona
+809,1216 - Forum Gardens Apartment,1904,7.6,2023-05-22,Barcelona
+810,Walk to Las Ramblas from Sun-Filled&amp;Cozy Apartment,2601,8.5,2023-05-22,Barcelona
+811,Click&amp;Flat Arago,3932,8.4,2023-05-22,Barcelona
+812,Casa Rural Cal Joli,1985,9.1,2023-05-22,Barcelona
+813,Eixample13,2455,7.9,2023-05-22,Barcelona
+814,Tendency Apartments Forum 4,2561,7.1,2023-05-22,Barcelona
+815,AB Eixample Apartments,1932,6.2,2023-05-22,Barcelona
+816,Stay U-nique Apartments Bruc,4587,nan,2023-05-22,Barcelona
+817,Sweet Inn - Rosemarine,2441,7.0,2023-05-22,Barcelona
+818,AB City Center Barcelona,2441,5.0,2023-05-22,Barcelona
+819,Casa Cosi Patio 1,2342,nan,2023-05-22,Barcelona
+820,Bright and Spacious 3 Bedroom Close to the Beach,3970,5.5,2023-05-22,Barcelona
+821,SANTS STATION PENTHOUSE,2140,4.8,2023-05-22,Barcelona
+822,Sweet Inn - Urgell,3392,7.3,2023-05-22,Barcelona
+823,Luxury Paseo de Gracia Casa Batlló,3989,10,2023-05-22,Barcelona
+824,Tendency Apartments Plaza España 3,2590,7.9,2023-05-22,Barcelona
+825,Eixample 24,2279,nan,2023-05-22,Barcelona
+826,Ferran Pedralbes Penthouse,4739,9.0,2023-05-22,Barcelona
+827,AB Arago Eixample,3050,8.6,2023-05-22,Barcelona
+828,AB Poble Nou Venero,2480,7.0,2023-05-22,Barcelona
+829,OLD TOWN! Beach!,966,4.3,2023-05-22,Barcelona
+830,Sweet Inn - Dali Apartment Gracia,2119,6.3,2023-05-22,Barcelona
+831,Be Barcelona Plaza Catalunya,7187,5.3,2023-05-22,Barcelona
+832,Sweet Inn - Sants,2528,7.0,2023-05-22,Barcelona
+833,Lodging Apartments Barceloneta Beach Studio,1511,7.5,2023-05-22,Barcelona
+834,Habitat Apartments Art,2697,5.8,2023-05-22,Barcelona
+835,Apartment Barcelona Rentals - Private Pool and Garden Center,3181,5.7,2023-05-22,Barcelona
+836,HOMEnFUN Barcelona Sagrada Familia Glories,2288,5.7,2023-05-22,Barcelona
+837,Bed&amp;BCN Gracia III,1215,7.4,2023-05-22,Barcelona
+838,Stay U-nique Apartments La Bordeta,2886,8.6,2023-05-22,Barcelona
+839,4 bedroom apartment with a balcony in Las Ramblas 2 2,3839,1.0,2023-05-22,Barcelona
+840,Eixample 6,2768,9.0,2023-05-22,Barcelona
+841,Eixample12,2312,8.5,2023-05-22,Barcelona
+842,Sant Antoni 2 - Downtown Barcelona &amp; Modern,1886,6.5,2023-05-22,Barcelona
+843,Sweet Inn - Gaudi Avenue,4696,8.0,2023-05-22,Barcelona
+844,Sweet Inn - Villa Olimpica Mediterranean,5596,7.7,2023-05-22,Barcelona
+845,Perfectly located 4bed 4bath apartment in Barcelona 1 1,3587,4.0,2023-05-22,Barcelona
+846,Tendency Rambla del Poblenou,3128,7.6,2023-05-22,Barcelona
+847,Tendency Sagrada Familia Luxury,6580,nan,2023-05-22,Barcelona
+848,Stay U-nique Apartments Calvet,3357,8.1,2023-05-22,Barcelona
+849,7 bedrooms villa with private pool enclosed garden and wifi at Castellet i la Gornal 9 km away from the beach,5650,nan,2023-05-22,Barcelona
+850,Stay U-nique Apartments Sagrada Familia III,2746,7.9,2023-05-22,Barcelona
+851,Stay U-nique Apartments Taulat,4570,nan,2023-05-22,Barcelona
+852,Exclusive Luxe Design - Large Tranquil Penthouse,4809,7.0,2023-05-22,Barcelona
+853,Olala Casanova Apartments,2802,7.7,2023-05-22,Barcelona
+854,Hostel One Sants,1192,8.8,2023-05-22,Barcelona
+855,Arc de Triomf Luxury Modern 2-Bedroom 2-Bathroom,2727,3.0,2023-05-22,Barcelona
+856,Tendency Apartments - Sagrada Familia,2809,7.6,2023-05-22,Barcelona
+857,Gracia15,1980,10,2023-05-22,Barcelona
+858,AB Gracia Sant Salvador,1852,7.3,2023-05-22,Barcelona
+859,"Cozy, Romantic Luxury in Trendy Gracia",1544,7.4,2023-05-22,Barcelona
+860,Lodging Apartments Barceloneta Beach Studio 32,1455,5.8,2023-05-22,Barcelona
+861,Ronda Sant Pere,3465,nan,2023-05-22,Barcelona
+862,BBARCELONA CLOT APARTMENTS,1669,nan,2023-05-22,Barcelona
+863,Ronda Sant Pere Private City Center 3Bedroom Suite C,2603,9.0,2023-05-22,Barcelona
+864,Amazing 5 bedrooms 5 bathrooms by Plaza Catalunya,7625,10,2023-05-22,Barcelona
+865,HOMEnFUN Barcelona Sarrià,2289,6.4,2023-05-22,Barcelona
+866,Bright and modern Duplex with terrace in Eixample district P1,2380,7.5,2023-05-22,Barcelona
+867,Sweet Inn - Eixample Dreta,3996,7.9,2023-05-22,Barcelona
+868,Lodging Apartments Beach Studio 22,1492,6.0,2023-05-22,Barcelona
+869,Casa Cosi El Farró 4,2786,nan,2023-05-22,Barcelona
+870,Sweet Inn - Palau,1817,7.9,2023-05-22,Barcelona
+871,Hostel One Paralelo,1390,9.3,2023-05-22,Barcelona
+872,Safestay Barcelona Gothic,2736,7.6,2023-05-22,Barcelona
+873,HOMEnFUN Barcelona Eixample,3035,8.4,2023-05-22,Barcelona
+874,Stylish and comfortable apartment,2837,5.5,2023-05-22,Barcelona
+875,Sagrada Familia- Emblematic and Charming Catalan Home,1919,1.0,2023-05-22,Barcelona
+876,Lodging Apartments Barceloneta Beach Studio 42,1455,6.0,2023-05-22,Barcelona
+877,Modernist and Luxurious flat - Casa de Flor,2317,1.0,2023-05-22,Barcelona
+878,Wonderful 2-bd apart with balcony Plaza Cataluña,2270,8.0,2023-05-22,Barcelona
+879,Stay U-nique Apartments Sagrada Familia,3109,8.4,2023-05-22,Barcelona
+880,Stay U-nique Apartments Eixample Center,3838,8.9,2023-05-22,Barcelona
+881,Stay U-nique Apartments Sant Pau,3373,8.9,2023-05-22,Barcelona
+882,SMLuxuryHouse,2537,nan,2023-05-22,Barcelona
+883,estudio monoambiente Parque Güell,688,5.1,2023-05-22,Barcelona
+884,Amazing 5 bedrooms 5 bathrooms next to Universitat and Plaza Catalunya,7667,nan,2023-05-22,Barcelona
+885,HOMEnFUN Barcelona Poble Sec,3409,5.9,2023-05-22,Barcelona
+886,Central and Elegant 4 Bedroom by Placa Catalunya,3403,7.5,2023-05-22,Barcelona
+887,Exclusive Huge 4 Double Bedroom City Center,3931,4.5,2023-05-22,Barcelona
+888,Unbeatable views and great location,1849,7.0,2023-05-22,Barcelona
+889,Rambla de Mar Apartments,2117,nan,2023-05-22,Barcelona
+890,Recently renovated 3 bedrooms in Poble Sec,2620,nan,2023-05-22,Barcelona
+891,Auditori Barcelona,2881,nan,2023-05-22,Barcelona
+892,Stay U-nique Apartments Travessera,4238,8.3,2023-05-22,Barcelona
+893,Ronda Sant Pere Private City Center 3Bedroom Suite B,2603,7.0,2023-05-22,Barcelona
+894,Casa Cosi - Francoli 4,2682,7.0,2023-05-22,Barcelona
+895,Plaça Catalunya Incredible 3bedroom Duplex with Balcony,3454,6.0,2023-05-22,Barcelona
+896,Casa Cosi - Putxet 1,2595,nan,2023-05-22,Barcelona
+897,Breathtaking Penthouse in Eixample,2158,nan,2023-05-22,Barcelona
+898,AB Llança Eixample,2432,8.5,2023-05-22,Barcelona
+899,Fisa Rentals Aribau,2150,9.0,2023-05-22,Barcelona
+900,Modern and bright apartment in Eixample 1-1,2212,nan,2023-05-22,Barcelona
+901,Modern and bright apartment in Eixample 1-1,2212,nan,2023-05-22,Barcelona
+902,Sitges PORT Con piscina a 5 minutos de la playa,1903,nan,2023-05-22,Barcelona
+903,Sweet Inn - Pare Lainez,1914,7.9,2023-05-22,Barcelona
+904,My Space Barcelona Private Pool Garden,3201,6.4,2023-05-22,Barcelona
+905,Hostelscat,2016,6.7,2023-05-22,Barcelona
+906,Live like a local in the best neighborhood in BCN,3280,7.9,2023-05-22,Barcelona
+907,Modern and bright apartment in Eixample 5-1,2375,5.0,2023-05-22,Barcelona
+908,Casa Cosi - Patio 2,2114,nan,2023-05-22,Barcelona
+909,Classy 3bed 3bath apartment in Eixample,3789,6.0,2023-05-22,Barcelona
+910,Stay U-nique Apartments Aribau,3823,6.7,2023-05-22,Barcelona
+911,ApartEasy - Sant Antoni Market,1993,6.9,2023-05-22,Barcelona
+912,Bright and modern 3bedroom in Las Ramblas 3 1B,2576,2.0,2023-05-22,Barcelona
+913,Beautiful apartment in central Barcelona,1713,nan,2023-05-22,Barcelona
+914,Vive como un barcelonés en la mejor ubicación,2331,nan,2023-05-22,Barcelona
+915,City View Penthouse - 2 Bedroom Suite,1850,nan,2023-05-22,Barcelona
+916,Bright and modern 3bedroom in Las Ramblas 2 1B,3075,5.5,2023-05-22,Barcelona
+917,Comfortable 3-bedroom next to Sagrada Familia,2513,7.0,2023-05-22,Barcelona
+918,Margarit House,1295,1.0,2023-05-22,Barcelona
+919,Stay U-nique Apartments Casanova,4739,6.9,2023-05-22,Barcelona
+920,32PAR218 - Big and spacious apartment downtown,1481,8.0,2023-05-22,Barcelona
+921,Central and Captivating 4 Bedroom by Placa Catalunya,4171,nan,2023-05-22,Barcelona
+922,CCIB Forum Deluxe Apartment,1573,8.9,2023-05-22,Barcelona
+923,"Bright 2 bedroom apt in 22@, close to the beach",2894,8.0,2023-05-22,Barcelona
+924,Montaber Apartments - Sagrada Familia,2567,3.5,2023-05-22,Barcelona
+925,Sweet Inn - Ausias Marc,2335,7.0,2023-05-22,Barcelona
+926,Montaber Apartment - Sant Antoni,2632,5.0,2023-05-22,Barcelona
+927,HOMEnFUN Barcelona Paralelo,3946,4.8,2023-05-22,Barcelona
+928,Placa Catalunya Luminous and Exclusive 5Bd Penthouse,6922,8.7,2023-05-22,Barcelona
+929,Enjoy Apartments Gold,2331,7.0,2023-05-22,Barcelona
+930,El Palauet Luxury Suites,9965,8.5,2023-05-22,Barcelona
+931,HOMEnFUN Barcelona Sagrada Familia Views,2324,6.9,2023-05-22,Barcelona
+932,My Space Barcelona Guell Terrace Center,2200,5.4,2023-05-22,Barcelona
+933,MAS FELIZ,1133,nan,2023-05-22,Barcelona
+934,Pedrera - Gràcia,971,1.0,2023-05-22,Barcelona
+935,Modern and renovated apartment by Pl Universitat,2628,1.0,2023-05-22,Barcelona
+936,Lodging Sagrada Familia Rossellon,2041,7.5,2023-05-22,Barcelona
+937,1217 - POOL AND BEACH NICE APARTMENT II,1904,7.2,2023-05-22,Barcelona
+938,Casa Horta View,2262,5.0,2023-05-22,Barcelona
+939,Casa Cosi - Casanova 2,4103,nan,2023-05-22,Barcelona
+940,AB Atic Eixample,2015,5.2,2023-05-22,Barcelona
+941,Stay U-nique Apartments Sagrada Familia II,2923,6.0,2023-05-22,Barcelona
+942,Az Barcelona Center,3139,8.0,2023-05-22,Barcelona
+943,Lodging Apartments Liceu G2,1580,7.6,2023-05-22,Barcelona
+944,Stay U-nique Apartments Calabria,3554,8.1,2023-05-22,Barcelona
+945,1229 - AWESOME CITY CENTER APARTMENT WITH TERRACE,2258,7.3,2023-05-22,Barcelona
+946,Habitat Apartments Born,3420,7.3,2023-05-22,Barcelona
+947,Kronos on the beach Suite 2,3423,8.5,2023-05-22,Barcelona
+948,Love Local Life Near Sagrada Familia,5033,nan,2023-05-22,Barcelona
+949,Casa Cosi - Eixample 2,4637,nan,2023-05-22,Barcelona
+950,Sant Domenec,1852,5.6,2023-05-22,Barcelona
+951,Stay U-nique Apartments Lluca,2714,7.8,2023-05-22,Barcelona
+952,AB Enric Granados Apartment,3137,8.0,2023-05-22,Barcelona
+953,Stylish and centric 2-bedroom apartment in Eixample &amp;Terrace P2,3076,8.0,2023-05-22,Barcelona
+954,Stay U-nique Apartments Roger Llúria II,3747,6.5,2023-05-22,Barcelona
+955,Rambla Poblenou&amp;Mar Bella Beach,2341,nan,2023-05-22,Barcelona
+956,Stay U-nique Apartments Torrent,2398,5.8,2023-05-22,Barcelona
+957,Stay U-nique Apartments Provença,3353,6.7,2023-05-22,Barcelona
+958,Stay U-nique Apartments Napols II,2966,7.7,2023-05-22,Barcelona
+959,AB Paral·lel Apartments,1978,6.2,2023-05-22,Barcelona
+960,1214 - TWO BEDROOMS CIUTADELLA APARTMENT,1904,4.3,2023-05-22,Barcelona
+961,Apartment Bed&amp;BCN Sant Andreu II,904,6.3,2023-05-22,Barcelona
+962,Montaber Apartment - Trafalgar,3457,3.0,2023-05-22,Barcelona
+963,Tendency Apartments Forum 2,2561,7.3,2023-05-22,Barcelona
+964,Sweet Inn - Park Mediterranean,3009,7.4,2023-05-22,Barcelona
+965,ApartEasy - Authentic Family Apartment,2949,6.7,2023-05-22,Barcelona
+966,Stay U-nique Apartments Park Guell Gaudi,2538,7.4,2023-05-22,Barcelona
+967,Sweet Inn - Bogatell Beach,2058,7.5,2023-05-22,Barcelona
+968,The Camp Nou FCB Apartment,2288,7.2,2023-05-22,Barcelona
+969,Stay U-nique Apartments Carretes,2475,5.6,2023-05-22,Barcelona
+970,Stay U-nique Apartments Lope de Vega,2748,6.7,2023-05-22,Barcelona
+971,Sport design 3 bedroom,2493,6.0,2023-05-22,Barcelona
+972,Casa Cosi - Casanova 7,3499,nan,2023-05-22,Barcelona
+973,HOMEnFUN Barcelona Sagrada Familia,2279,5.5,2023-05-22,Barcelona
+974,Luxurious and centric with awesome rooftop terrace,3972,6.2,2023-05-22,Barcelona
+975,Stay U-nique Apartments Sants II,3406,8.2,2023-05-22,Barcelona
+976,Poblesec 2,1754,nan,2023-05-22,Barcelona
+977,Habitat Apartments Parlament Balconies,3495,7.5,2023-05-22,Barcelona
+978,Lodging Apartments Beach Studio 41,1537,6.5,2023-05-22,Barcelona
+979,Stay U-nique Apartments Industria II,4018,9.0,2023-05-22,Barcelona
+980,AB Rossello Center Terrace,1964,7.3,2023-05-22,Barcelona
+981,Stay U-nique Apartments Sèneca II,3007,8.7,2023-05-22,Barcelona
+982,31 Nights Plus Luxury Aircon Beach Apartment Barcelona with Incredible Views,2713,8.7,2023-05-22,Barcelona
+983,My Space Barcelona Gracia Pool Terrace,2200,7.5,2023-05-22,Barcelona
+984,Stay U-nique Apartments Rambla Catalunya II,3074,8.8,2023-05-22,Barcelona
+985,Hostal Boqueria,1536,7.8,2023-05-22,Barcelona
+986,Stay U-nique Apartments Balmes,3729,9.0,2023-05-22,Barcelona
+987,Sweet Inn - Comte Urgell,1846,7.3,2023-05-22,Barcelona
+988,Olala Moianes Apartment,2855,8.0,2023-05-22,Barcelona
+989,Casa Cosi - Francoli 1,2872,8.0,2023-05-22,Barcelona
+990,Stay U-nique Apartments Muntaner,2605,6.7,2023-05-22,Barcelona
+991,Piso para Grandes Grupos,9953,7.0,2023-05-22,Barcelona
+992,Casa Cosi - Sants,2106,nan,2023-05-22,Barcelona
+993,Livingstone,3462,5.0,2023-05-22,Barcelona
+994,Stay U-nique Apartments Obradors,2955,5.8,2023-05-22,Barcelona
+995,Casa Cosi - Gotico,3690,10,2023-05-22,Barcelona
+996,Stay U-nique Apartments Pou,2744,5.5,2023-05-22,Barcelona
+997,"FridaysFlats, Bogatell Beach - Sunny &amp; Serene",1631,6.6,2023-05-22,Barcelona
+998,Stay U-nique Apartments Diagonal,3963,6.7,2023-05-22,Barcelona
+999,Sunny and Modernist apartment for groups in center,9953,3.0,2023-05-22,Barcelona
+1000,Stay U-nique Apartments Arago,4574,6.0,2023-05-22,Barcelona

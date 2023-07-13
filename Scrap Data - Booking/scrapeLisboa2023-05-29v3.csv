@@ -1,0 +1,1001 @@
+,hotel,price,rating,start_date,city
+0,Lisbon Best Choice Prime Apartments Alfama,967,9.3,2023-05-29,Lisboa
+1,Star inn Lisbon Airport,846,8.6,2023-05-29,Lisboa
+2,TURIM Iberia Hotel,828,8.2,2023-05-29,Lisboa
+3,TURIM Alameda Hotel,812,8.1,2023-05-29,Lisboa
+4,Novotel Lisboa,798,7.8,2023-05-29,Lisboa
+5,Hotel Avenida Palace,1918,9.4,2023-05-29,Lisboa
+6,Boutique Chiado Suites,1040,9.2,2023-05-29,Lisboa
+7,Meliá Lisboa Aeroporto,834,8.8,2023-05-29,Lisboa
+8,Moxy Lisboa Oriente,738,8.5,2023-05-29,Lisboa
+9,Boa Nova Guesthouse,454,7.4,2023-05-29,Lisboa
+10,Hostel Petit Lusa,846,9.0,2023-05-29,Lisboa
+11,Memmo Príncipe Real - Design Hotels,2304,9.0,2023-05-29,Lisboa
+12,HF Fenix Garden,873,8.6,2023-05-29,Lisboa
+13,GuestHouse Pena,336,7.4,2023-05-29,Lisboa
+14,Memmo Alfama - Design Hotels,1778,9.0,2023-05-29,Lisboa
+15,Lisbon Art Stay Apartments Baixa,964,8.9,2023-05-29,Lisboa
+16,54 São Paulo - Exclusive Apartment Hotel,1037,9.1,2023-05-29,Lisboa
+17,TURIM Boulevard Hotel,1498,8.6,2023-05-29,Lisboa
+18,54 Santa Catarina Apartments,1127,9.3,2023-05-29,Lisboa
+19,Chiado Prime Suites by Homing,1208,8.6,2023-05-29,Lisboa
+20,HF Fenix Music,1023,8.7,2023-05-29,Lisboa
+21,Montecarmo12,1418,8.1,2023-05-29,Lisboa
+22,São Vicente Alfama Hotel by TRIUS Hotels,1724,9.4,2023-05-29,Lisboa
+23,Bairro Alto Hotel,2874,9.2,2023-05-29,Lisboa
+24,TM Luxury Apartments Lisbon,1134,9.4,2023-05-29,Lisboa
+25,SantoSweethome 1,636,8.4,2023-05-29,Lisboa
+26,Grape Harbor Prata Apartments,1399,9.2,2023-05-29,Lisboa
+27,Charm @ the very heart of Lisboa,686,nan,2023-05-29,Lisboa
+28,Pensao Nova Goa,414,7.2,2023-05-29,Lisboa
+29,HF Fenix Lisboa,1037,8.2,2023-05-29,Lisboa
+30,HF Fenix Urban,901,8.1,2023-05-29,Lisboa
+31,Duplo Charme Boutique Hotel,744,8.3,2023-05-29,Lisboa
+32,Residencial Florescente,1181,8.7,2023-05-29,Lisboa
+33,Castle Terrace Exclusive Apartment - Home By The Castle Apartment,804,9.0,2023-05-29,Lisboa
+34,RENT4REST LISBON DOWNTOWN TINY STUDIO Apartments,794,7.9,2023-05-29,Lisboa
+35,Light of Lisbon Apartments I,760,7.5,2023-05-29,Lisboa
+36,Pousada de Lisboa - Small Luxury Hotels Of The World,2363,9.0,2023-05-29,Lisboa
+37,Cais Urban Lodge,899,8.9,2023-05-29,Lisboa
+38,Sublime Lisboa,3054,9.7,2023-05-29,Lisboa
+39,Lisboa Pessoa Hotel,1902,9.0,2023-05-29,Lisboa
+40,The Hilltop Nest,855,9.3,2023-05-29,Lisboa
+41,Republica83-Campo Pequeno Home,536,8.4,2023-05-29,Lisboa
+42,Wine &amp; Books Lisboa Hotel,1422,9.3,2023-05-29,Lisboa
+43,EPIC SANA Marquês Hotel,2076,9.2,2023-05-29,Lisboa
+44,Calado Apartments,575,8.8,2023-05-29,Lisboa
+45,The Back Street Nest,909,9.3,2023-05-29,Lisboa
+46,Maxime Hotel Lisbon,1065,8.8,2023-05-29,Lisboa
+47,Lumen Hotel &amp; The Lisbon Light Show,907,9.1,2023-05-29,Lisboa
+48,Browns Central Hotel,1299,8.8,2023-05-29,Lisboa
+49,EPIC SANA Lisboa Hotel,1851,9.3,2023-05-29,Lisboa
+50,Down Town Apartment - Expo23,768,8.4,2023-05-29,Lisboa
+51,The Emerald House Lisbon - Curio Collection By Hilton,1394,9.0,2023-05-29,Lisboa
+52,Chiado Arty Flats,1595,9.3,2023-05-29,Lisboa
+53,Hotel Alif Campo Pequeno,750,7.7,2023-05-29,Lisboa
+54,TURIM Saldanha Hotel,848,8.0,2023-05-29,Lisboa
+55,Le Consulat,2119,8.7,2023-05-29,Lisboa
+56,Lisbon Wine House - Rooms &amp; Suites,529,8.3,2023-05-29,Lisboa
+57,Browns Boutique Hotel,1287,8.9,2023-05-29,Lisboa
+58,TURIM Europa Hotel,741,7.8,2023-05-29,Lisboa
+59,Hall Chiado,704,8.7,2023-05-29,Lisboa
+60,MYRIAD by SANA Hotels,2076,9.3,2023-05-29,Lisboa
+61,Lx Boutique Hotel,1284,8.6,2023-05-29,Lisboa
+62,Lisbon Cheese &amp; Wine Suites,1257,8.6,2023-05-29,Lisboa
+63,Lisbon Serviced Apartments - Avenida,993,8.2,2023-05-29,Lisboa
+64,RENT4REST LISBON PARQUE DAS NAÇÕES 17Th FLOOR RIVER VIEW,1642,9.2,2023-05-29,Lisboa
+65,Hotel Mercure Lisboa,798,7.7,2023-05-29,Lisboa
+66,Villa Baixa - Lisbon Luxury Apartments,1815,9.5,2023-05-29,Lisboa
+67,TURIM Terreiro do Paço Hotel,1723,7.7,2023-05-29,Lisboa
+68,Hotel Travel Park Lisboa,640,8.3,2023-05-29,Lisboa
+69,Lisboa Prata Boutique Hotel,1174,8.2,2023-05-29,Lisboa
+70,Pop Saldanha Premium Apartments,984,8.6,2023-05-29,Lisboa
+71,Majesticlara Lisbon Guest House,486,8.2,2023-05-29,Lisboa
+72,America Diamonds Hotel &amp; Sushi Bar,978,8.5,2023-05-29,Lisboa
+73,Ibis Styles Lisboa Centro Liberdade NE,770,8.6,2023-05-29,Lisboa
+74,Portas Do Bairro,964,7.6,2023-05-29,Lisboa
+75,Hotel 3K Barcelona,768,7.7,2023-05-29,Lisboa
+76,Browns Downtown Hotel,1159,8.7,2023-05-29,Lisboa
+77,Alfama Right Point,891,8.4,2023-05-29,Lisboa
+78,Finest Rentals - Expo Riverside,957,8.9,2023-05-29,Lisboa
+79,FLH Expo Apartment with View,746,nan,2023-05-29,Lisboa
+80,Hola Lisbon Suites,816,8.5,2023-05-29,Lisboa
+81,Lisbon Serviced Apartments - Parque,1249,8.3,2023-05-29,Lisboa
+82,Hotel Hotel - Member of Design Hotels,2090,9.3,2023-05-29,Lisboa
+83,Portas do Castelo Apartments,1206,8.5,2023-05-29,Lisboa
+84,Esqina Cosmopolitan Lodge,1130,8.7,2023-05-29,Lisboa
+85,Hotel Alif Avenidas,1230,8.2,2023-05-29,Lisboa
+86,Vila Nova Guesthouse,624,8.3,2023-05-29,Lisboa
+87,Dom Pedro Lisboa,1102,8.5,2023-05-29,Lisboa
+88,Charming Apartment with Balcony &amp; Pool,1139,9.0,2023-05-29,Lisboa
+89,Belem Boutique Apartments by Homing,621,6.7,2023-05-29,Lisboa
+90,Eurostars Lisboa Baixa,1918,9.7,2023-05-29,Lisboa
+91,ON City Flats,984,7.9,2023-05-29,Lisboa
+92,Like Home - Santos,790,8.6,2023-05-29,Lisboa
+93,Portas do Céu,1098,8.4,2023-05-29,Lisboa
+94,Belém- Charming Apartments,804,8.7,2023-05-29,Lisboa
+95,Amazing flat in Madragoa,519,8.1,2023-05-29,Lisboa
+96,Zenit Lisboa,771,8.4,2023-05-29,Lisboa
+97,Sofitel Lisbon Liberdade,1502,8.4,2023-05-29,Lisboa
+98,York House Lisboa Hotel,1164,8.4,2023-05-29,Lisboa
+99,Vila Gale Opera,1252,7.7,2023-05-29,Lisboa
+100,TURIM Marques Hotel,1250,8.1,2023-05-29,Lisboa
+101,Bijou Studio Rosa - Bairro Alto,569,7.6,2023-05-29,Lisboa
+102,Akicity Alameda Charm,990,8.0,2023-05-29,Lisboa
+103,TryLisbon Alcântara,551,7.8,2023-05-29,Lisboa
+104,Hotel Principe Real,959,7.9,2023-05-29,Lisboa
+105,Alegria A Lisbon Boutique Hotel,1302,9.0,2023-05-29,Lisboa
+106,Hotel Portuense Lisboa,842,8.6,2023-05-29,Lisboa
+107,Hotel Real Palacio,1079,8.0,2023-05-29,Lisboa
+108,1898 Home &amp; Suites,528,7.0,2023-05-29,Lisboa
+109,Monopoly house for GROUPS!,1471,9.5,2023-05-29,Lisboa
+110,Hotel Miraparque,918,8.3,2023-05-29,Lisboa
+111,Cenário Catita Hostel,246,7.4,2023-05-29,Lisboa
+112,The Visionaire Apartments,1424,9.0,2023-05-29,Lisboa
+113,Alfama Apartments Services,769,9.4,2023-05-29,Lisboa
+114,Raw Culture Art &amp; Lofts Bairro Alto,2671,9.4,2023-05-29,Lisboa
+115,Hostel Crespo,438,8.0,2023-05-29,Lisboa
+116,BessaHotel Liberdade,1924,9.1,2023-05-29,Lisboa
+117,Ascensor da Bica - Lisbon Serviced Apartments,883,8.1,2023-05-29,Lisboa
+118,Hotel Gat Rossio,857,8.6,2023-05-29,Lisboa
+119,Casa Boma Lisboa - Brighting And Charming Apartment - Lapa VI,830,8.0,2023-05-29,Lisboa
+120,Deco Gem in Santa Catarina,1839,7.5,2023-05-29,Lisboa
+121,Casa dell'Arte Club House,2274,9.2,2023-05-29,Lisboa
+122,Hygge House,825,8.7,2023-05-29,Lisboa
+123,Dinya Lisbon Hotel &amp; Lounge Bar,953,8.6,2023-05-29,Lisboa
+124,Lisbon 5 Hotel,804,8.3,2023-05-29,Lisboa
+125,The Lisbonaire Apartments,1242,9.0,2023-05-29,Lisboa
+126,Inspira Liberdade Boutique Hotel,1127,8.7,2023-05-29,Lisboa
+127,Dreaming Lisbon - Trigueiros,879,8.5,2023-05-29,Lisboa
+128,SANA Malhoa Hotel,1171,8.7,2023-05-29,Lisboa
+129,1869 Príncipe Real House,1519,9.1,2023-05-29,Lisboa
+130,Apartamento Roma,800,9.5,2023-05-29,Lisboa
+131,The Editory Riverside Santa Apolónia Hotel,1464,8.7,2023-05-29,Lisboa
+132,Amazonia Lisboa Hotel,627,7.8,2023-05-29,Lisboa
+133,Hotel Do Chile,769,7.7,2023-05-29,Lisboa
+134,"Stay local in Alfama! Deolinda central Home, amazing view",1062,9.6,2023-05-29,Lisboa
+135,AlmaLusa Baixa/Chiado,2293,9.1,2023-05-29,Lisboa
+136,"Holiday Inn Express Lisboa - Av. Liberdade, an IHG Hotel",939,8.5,2023-05-29,Lisboa
+137,Castilho House,704,8.8,2023-05-29,Lisboa
+138,Mama Shelter Lisboa,790,8.4,2023-05-29,Lisboa
+139,"Holiday Inn Express Lisbon Airport, an IHG Hotel",746,8.0,2023-05-29,Lisboa
+140,Hotel Principe Lisboa,859,8.7,2023-05-29,Lisboa
+141,Lost Lisbon :: Chiado House,1464,9.0,2023-05-29,Lisboa
+142,Chiado 44,937,8.6,2023-05-29,Lisboa
+143,The Vintage Hotel &amp; Spa Lisbon,2214,9.0,2023-05-29,Lisboa
+144,Vincci Baixa,1805,8.6,2023-05-29,Lisboa
+145,Ikonik Lisboa,707,8.6,2023-05-29,Lisboa
+146,Contador Mor Rooms and Apartments,738,8.3,2023-05-29,Lisboa
+147,The Central Lisbonary Apartment,669,7.5,2023-05-29,Lisboa
+148,Sta Catarina Design Apartments by Lisbon One,1254,8.6,2023-05-29,Lisboa
+149,Garam Lisboa,1158,8.9,2023-05-29,Lisboa
+150,Pestana Lisboa Vintage City Center Suites,906,8.1,2023-05-29,Lisboa
+151,LR Guest House,1251,9.5,2023-05-29,Lisboa
+152,Chiado Mercy II,1074,9.0,2023-05-29,Lisboa
+153,Lisbon Serviced Apartments - Santos,935,8.4,2023-05-29,Lisboa
+154,ON/SET Alfama - Lisbon Cinema Apartments,1145,9.9,2023-05-29,Lisboa
+155,PortoBay Marquês,1721,8.9,2023-05-29,Lisboa
+156,Rossio FLH Suites,777,7.8,2023-05-29,Lisboa
+157,262 Baixa Guesthouse,381,7.5,2023-05-29,Lisboa
+158,Graça Garden Home,1284,9.6,2023-05-29,Lisboa
+159,Typical Portuguese Apartment in São Bento,1539,10,2023-05-29,Lisboa
+160,Rising Sun,675,8.8,2023-05-29,Lisboa
+161,SANA Reno Hotel,1133,8.2,2023-05-29,Lisboa
+162,Casa Boma Lisboa - Modern &amp; Luminous Apartment with Balcony - Alcantara I,886,8.3,2023-05-29,Lisboa
+163,Luxury Loft - JJ Apartment`s,779,9.0,2023-05-29,Lisboa
+164,Stay Home Lisbon,694,8.7,2023-05-29,Lisboa
+165,Friendly Border City Design Apartments,707,7.9,2023-05-29,Lisboa
+166,Portas do Teatro Apartments 2,1434,7.9,2023-05-29,Lisboa
+167,Rossio Garden Hotel,1007,8.2,2023-05-29,Lisboa
+168,Urbano FLH Hotels Lisboa,1232,9.0,2023-05-29,Lisboa
+169,Tivoli Oriente Hotel,1180,8.4,2023-05-29,Lisboa
+170,262 Boutique Hotel,703,7.8,2023-05-29,Lisboa
+171,Vincci Liberdade,1940,8.9,2023-05-29,Lisboa
+172,Coleginho Apartment,734,7.1,2023-05-29,Lisboa
+173,Cosy Luxury Apartment - Lisbon Center,619,8.2,2023-05-29,Lisboa
+174,Industrial Lisbon Apartment,918,8.8,2023-05-29,Lisboa
+175,Santa Marta by SpotOn Apartments,984,nan,2023-05-29,Lisboa
+176,Lisbon Serviced Apartments - Madalena,1021,8.5,2023-05-29,Lisboa
+177,"Holiday Inn Express - Lisbon - Plaza Saldanha, an IHG Hotel",802,8.6,2023-05-29,Lisboa
+178,Rose Apartments,527,6.3,2023-05-29,Lisboa
+179,Alegramente,850,8.8,2023-05-29,Lisboa
+180,Residencial Joao XXI,354,6.0,2023-05-29,Lisboa
+181,Loft Lambert,592,9.3,2023-05-29,Lisboa
+182,Lisbon Castle Apartment,888,9.0,2023-05-29,Lisboa
+183,New Charming Flat - Lisbon Center,637,7.2,2023-05-29,Lisboa
+184,Lisbon Serviced Apartments - Castelo S. Jorge,852,7.8,2023-05-29,Lisboa
+185,"Estrela de Arganil - Luis Simões &amp; Conceição, Lda",459,8.2,2023-05-29,Lisboa
+186,LeL Madalena GuestHouse,605,7.7,2023-05-29,Lisboa
+187,Lisbon Serviced Apartments - Chiado Emenda,1127,8.6,2023-05-29,Lisboa
+188,EXE Liberdade,801,8.5,2023-05-29,Lisboa
+189,FLH Santa Catarina Typical Studio,636,7.3,2023-05-29,Lisboa
+190,Casa do Mercado Lisboa,1368,9.0,2023-05-29,Lisboa
+191,Liberdade Apartment,1279,8.2,2023-05-29,Lisboa
+192,C&amp;O Guest House Lisbon,474,8.2,2023-05-29,Lisboa
+193,Casa com Alma Portuguesa @ Alfama Studio,672,8.1,2023-05-29,Lisboa
+194,Apt in Lisbon Oriente 57 - Parque das Nações,1251,8.1,2023-05-29,Lisboa
+195,My Charm Lisbon Suites,511,8.5,2023-05-29,Lisboa
+196,Living Lounge Hostel,465,8.9,2023-05-29,Lisboa
+197,Patria Hotel,744,7.9,2023-05-29,Lisboa
+198,FLH Marquês Pombal Flat with Balcony,1094,nan,2023-05-29,Lisboa
+199,Hotel White Lisboa,1059,8.7,2023-05-29,Lisboa
+200,Iberostar Selection Lisboa,1340,8.5,2023-05-29,Lisboa
+201,Tivoli Avenida Liberdade Lisboa – A Leading Hotel of the World,2159,8.8,2023-05-29,Lisboa
+202,NH Collection Lisboa Liberdade,1623,8.5,2023-05-29,Lisboa
+203,"Lisboa, Charming Patio House, Central Lisbon, WIFI, Air Conditioning, Near Metro, by IG",629,8.7,2023-05-29,Lisboa
+204,Bairro Alto Loft Apartment,762,8.0,2023-05-29,Lisboa
+205,Eurostars Universal Lisboa,869,8.4,2023-05-29,Lisboa
+206,Lisbon Serviced Apartments - Benformoso,877,7.9,2023-05-29,Lisboa
+207,Casa Boma Lisboa - Charming and Typical Apartment - Lapa III,839,7.6,2023-05-29,Lisboa
+208,Vila Garden Guesthouse,749,9.0,2023-05-29,Lisboa
+209,Chalet D´Ávila Guest House,444,9.0,2023-05-29,Lisboa
+210,Crisapartment,924,9.4,2023-05-29,Lisboa
+211,O Elétrico Guesthouse,366,8.3,2023-05-29,Lisboa
+212,Hotel Borges Chiado,589,7.9,2023-05-29,Lisboa
+213,Palácio Camões - Lisbon Serviced Apartments,1178,8.2,2023-05-29,Lisboa
+214,Hills Hotel Lisboa,1266,8.2,2023-05-29,Lisboa
+215,SANA Rex Hotel,973,7.5,2023-05-29,Lisboa
+216,TURIM Lisboa Hotel,800,7.9,2023-05-29,Lisboa
+217,Corinthia Lisbon,2970,8.8,2023-05-29,Lisboa
+218,Apt in Lisbon Oriente 25 - Parque das Nações,1193,8.4,2023-05-29,Lisboa
+219,Charm @ the very heart of Lisboa,620,nan,2023-05-29,Lisboa
+220,The Hygge Lisbon Suites - Estrela,1092,8.0,2023-05-29,Lisboa
+221,Estrela Penthouse - Amazing Views,1434,9.1,2023-05-29,Lisboa
+222,GuestReady - Sweet Alcantara,880,6.3,2023-05-29,Lisboa
+223,Inn-Chiado Restauradores Prime Suites,607,7.9,2023-05-29,Lisboa
+224,Lisbon Apartments in Anjos,669,9.7,2023-05-29,Lisboa
+225,V Dinastia,564,7.2,2023-05-29,Lisboa
+226,The Lisboans Apartments,1824,9.4,2023-05-29,Lisboa
+227,Hotel da Estrela - by Unlock Hotels,1030,8.4,2023-05-29,Lisboa
+228,GuestReady - Bella Vistas,1108,8.7,2023-05-29,Lisboa
+229,Ferraria XVI FLH Hotels Lisboa,1566,9.2,2023-05-29,Lisboa
+230,Flat Chiado 1,548,7.7,2023-05-29,Lisboa
+231,Casa do Conde,649,8.1,2023-05-29,Lisboa
+232,The Postcard Avenue,606,8.3,2023-05-29,Lisboa
+233,Lisbon Garden Boutique Guest House,420,8.6,2023-05-29,Lisboa
+234,Your Home in Bairro Alto,834,7.5,2023-05-29,Lisboa
+235,Trendy Apartment in Bairro Alto,782,9.7,2023-05-29,Lisboa
+236,The Estrela Apartment,759,8.9,2023-05-29,Lisboa
+237,In the heart of Lisbon,824,8.4,2023-05-29,Lisboa
+238,Hotel Florida,965,7.7,2023-05-29,Lisboa
+239,My Bairro Alto Suites,1038,7.7,2023-05-29,Lisboa
+240,Lisbon Serviced Apartments - Baixa,1288,8.6,2023-05-29,Lisboa
+241,Hotel MeraPrime Gold Lisboa,1240,8.6,2023-05-29,Lisboa
+242,Lisbon Wine Hotel,1469,9.2,2023-05-29,Lisboa
+243,Home Out Rooms &amp; Apartments,579,8.7,2023-05-29,Lisboa
+244,Hotel Lis Baixa,1193,8.6,2023-05-29,Lisboa
+245,Lisbon Serviced Apartments - Mouraria,1032,8.4,2023-05-29,Lisboa
+246,Find Me Inn Alcantara,952,8.9,2023-05-29,Lisboa
+247,Casa do Principe,1038,8.3,2023-05-29,Lisboa
+248,Hotel Alicante,594,7.5,2023-05-29,Lisboa
+249,The Leaf Boutique Hotel Lisbon,883,8.9,2023-05-29,Lisboa
+250,Alfama Lisbon Studio,618,8.2,2023-05-29,Lisboa
+251,Lisbon Five Stars Apartments 8 Building,1502,8.2,2023-05-29,Lisboa
+252,Hotel Avenida Park,436,7.1,2023-05-29,Lisboa
+253,Alfama 44,894,8.6,2023-05-29,Lisboa
+254,Casa do Patio by Shiadu,1481,8.9,2023-05-29,Lisboa
+255,Lost Lisbon :: Cais House,1464,8.8,2023-05-29,Lisboa
+256,Portas do Teatro Apartments,1314,7.8,2023-05-29,Lisboa
+257,The 8 - Downtown Suites,944,8.2,2023-05-29,Lisboa
+258,Hotel Ibis Lisboa Parque das Nações,578,8.2,2023-05-29,Lisboa
+259,Residencial Airside Palace,444,7.0,2023-05-29,Lisboa
+260,Flat Graça 48,864,9.0,2023-05-29,Lisboa
+261,Lisbon Best Choice Prime Apartments Alfama,967,9.3,2023-05-29,Lisboa
+262,My Suite Lisbon Guest House – Principe Real,1314,8.5,2023-05-29,Lisboa
+263,Lisbon Nest,798,8.9,2023-05-29,Lisboa
+264,Fernando Lemos Estúdio Lisboa,624,8.0,2023-05-29,Lisboa
+265,Pestana CR7 Lisboa,1444,8.6,2023-05-29,Lisboa
+266,Nova Alegria,501,8.0,2023-05-29,Lisboa
+267,Cosy Attic City center,624,7.7,2023-05-29,Lisboa
+268,Stunning Apartment near Avenue Liberdade,1374,9.5,2023-05-29,Lisboa
+269,Cozy Studio Alvalade,609,8.7,2023-05-29,Lisboa
+270,Palacette da Mouraria,766,8.8,2023-05-29,Lisboa
+271,LUSTER Hotel,1275,9.4,2023-05-29,Lisboa
+272,Férias no Bairro,738,8.7,2023-05-29,Lisboa
+273,Casa Boma Lisboa - Elegant &amp; Spacious Apartment - Campo I,935,8.1,2023-05-29,Lisboa
+274,Boemio FLH Hotels,1474,9.3,2023-05-29,Lisboa
+275,Lisbon Colours Bairro Alto Apartments,1032,8.3,2023-05-29,Lisboa
+276,Geronimo Guest House Belém,1168,9.1,2023-05-29,Lisboa
+277,As Janelas Verdes Inn - Lisbon Heritage Collection - Riverside,2176,8.9,2023-05-29,Lisboa
+278,Exe Saldanha,716,8.9,2023-05-29,Lisboa
+279,Lisbon Serviced Apartments - Bairro Alto,1234,8.5,2023-05-29,Lisboa
+280,Romantic Gem in Graça,1284,9.0,2023-05-29,Lisboa
+281,GuestReady - Luxury Apartment with Private Terrace in the Lapa Quarter,842,7.0,2023-05-29,Lisboa
+282,Martim Moniz Charming by Lisbon Village Apartments,666,7.9,2023-05-29,Lisboa
+283,Famous Crows Lisbon Suites,537,8.5,2023-05-29,Lisboa
+284,Happy Days,687,8.7,2023-05-29,Lisboa
+285,Tempo FLH Hotels Lisboa,1358,9.0,2023-05-29,Lisboa
+286,Picasso Apartment,669,8.4,2023-05-29,Lisboa
+287,Campo de Ourique Premium,999,9.0,2023-05-29,Lisboa
+288,Dare Lisbon House,1414,9.4,2023-05-29,Lisboa
+289,"Holiday Inn Lisbon, an IHG Hotel",829,7.9,2023-05-29,Lisboa
+290,Akicity Real In,684,nan,2023-05-29,Lisboa
+291,Casa do Jasmim by Shiadu,1532,8.9,2023-05-29,Lisboa
+292,B&amp;B Hotel Lisboa Aeroporto,442,8.2,2023-05-29,Lisboa
+293,Hotel Dom Carlos Liberty,1046,8.4,2023-05-29,Lisboa
+294,Varandas de Lisboa - Tejo River Apartments &amp; Rooms,693,8.7,2023-05-29,Lisboa
+295,Beautiful garden-campo pequeno home,774,9.1,2023-05-29,Lisboa
+296,LX Lisboa Cozy studio,582,7.9,2023-05-29,Lisboa
+297,Memoria Lisboa FLH Hotels,1547,9.1,2023-05-29,Lisboa
+298,LX51 Studios &amp; Suites - Lisbon center,812,8.2,2023-05-29,Lisboa
+299,Alfama District by be@home,744,7.5,2023-05-29,Lisboa
+300,Principe Real Lightful and Charming,1074,8.1,2023-05-29,Lisboa
+301,ChezVous Apartments,684,8.2,2023-05-29,Lisboa
+302,Lisbon Serviced Apartments - Campos,670,8.2,2023-05-29,Lisboa
+303,Apartamento Bernardim Ribeiro 4 andar,504,8.3,2023-05-29,Lisboa
+304,Altis Prime Hotel,1443,8.5,2023-05-29,Lisboa
+305,GuestReady - Modern and cosy apartment,830,nan,2023-05-29,Lisboa
+306,Architectural Gem in Bica,1882,8.8,2023-05-29,Lisboa
+307,WC by The Beautique Hotels,1064,8.6,2023-05-29,Lisboa
+308,Traditional Studio in Alfama,734,9.0,2023-05-29,Lisboa
+309,PortoBay Liberdade,1861,9.0,2023-05-29,Lisboa
+310,Dear Lisbon - Gallery House,1095,8.8,2023-05-29,Lisboa
+311,Hotel Santa Justa,1873,9.1,2023-05-29,Lisboa
+312,One Bedroom Apartment with Stunning River Views and Private Rooftop!,737,9.4,2023-05-29,Lisboa
+313,Altis Avenida Hotel,2441,9.0,2023-05-29,Lisboa
+314,Montebelo Lx Dwt Apartments,1480,9.6,2023-05-29,Lisboa
+315,Lisbon10,802,9.2,2023-05-29,Lisboa
+316,República Bed &amp; Breakfast,596,9.1,2023-05-29,Lisboa
+317,Charming Apartment II Historical Center,474,7.9,2023-05-29,Lisboa
+318,Tesouro da Baixa by Shiadu,1826,9.0,2023-05-29,Lisboa
+319,Superb Apartments Overlooking Graça in Lisbon,1665,9.4,2023-05-29,Lisboa
+320,FLH Graça Lovely Apartment III,614,5.3,2023-05-29,Lisboa
+321,4U Lisbon II Guesthouse,474,7.2,2023-05-29,Lisboa
+322,Principe Real Beautiful 3 Bedroom Flat,2183,8.7,2023-05-29,Lisboa
+323,Casa Da Tapada - Alcantara Riverview Apartment,809,9.1,2023-05-29,Lisboa
+324,CastleViewAttic,804,8.1,2023-05-29,Lisboa
+325,Verão Casa,1158,8.1,2023-05-29,Lisboa
+326,Smy Lisboa,996,8.1,2023-05-29,Lisboa
+327,Hotel Lisboa Plaza - Lisbon Heritage Collection - Avenida,1437,8.7,2023-05-29,Lisboa
+328,Green Ávila Saldanha,753,8.6,2023-05-29,Lisboa
+329,Tiny suite with private bathroom - Bairro Alto,357,5.4,2023-05-29,Lisboa
+330,TryLisbon Calvário,1033,8.4,2023-05-29,Lisboa
+331,Spacious And Modern Studio In Belem!,674,7.3,2023-05-29,Lisboa
+332,Studios with Mezzanine Rua da Moeda,933,9.5,2023-05-29,Lisboa
+333,The Bridge,365,7.1,2023-05-29,Lisboa
+334,Selina Secret Garden Lisbon,547,7.9,2023-05-29,Lisboa
+335,Apt in Lisbon Rio - Parque das Nações,961,7.8,2023-05-29,Lisboa
+336,Solar do Castelo - Lisbon Heritage Collection - Alfama,1778,9.2,2023-05-29,Lisboa
+337,Lisbon Rentals Chiado,1666,9.6,2023-05-29,Lisboa
+338,Avani Avenida Liberdade Lisbon Hotel,1216,8.4,2023-05-29,Lisboa
+339,Stairways to Alfama,709,7.7,2023-05-29,Lisboa
+340,Casa Belmonte,585,8.7,2023-05-29,Lisboa
+341,Palacio Ramalhete,2227,8.8,2023-05-29,Lisboa
+342,Comtesse Lisbonne Apartments,830,8.5,2023-05-29,Lisboa
+343,FLH Portuguese Soul Flat with Terrace,939,7.8,2023-05-29,Lisboa
+344,Universo Romantico,456,7.1,2023-05-29,Lisboa
+345,Elegant 2 Bedroom Apartment in Iconic Alfama!,1341,6.8,2023-05-29,Lisboa
+346,"Stay local in Alfama! Alice central home, near river",1149,8.5,2023-05-29,Lisboa
+347,BmyGuest - Castelo Stylish Flat,770,7.4,2023-05-29,Lisboa
+348,Ginjinha House - 4 Rooms - Bairro Alto - with AC!,715,6.6,2023-05-29,Lisboa
+349,Heart of Alfama,654,9.5,2023-05-29,Lisboa
+350,Akicity Lisboa Star II,1374,9.0,2023-05-29,Lisboa
+351,Casa das Janelas com Vista,1104,9.0,2023-05-29,Lisboa
+352,Home Out Central Roma Apartment,662,8.6,2023-05-29,Lisboa
+353,Rent4Rest Dream View Apartment Lisbon,2194,8.8,2023-05-29,Lisboa
+354,Lisboa Central Park Hotel Suites &amp; Studios,834,7.6,2023-05-29,Lisboa
+355,Bliss Lisbon Apartments - Bairro Alto,1884,8.0,2023-05-29,Lisboa
+356,Hotel Dom Sancho I,774,7.8,2023-05-29,Lisboa
+357,Stay Hotel Lisboa Aeroporto,624,8.0,2023-05-29,Lisboa
+358,The Blue House - Bica Yellow Tram,979,9.0,2023-05-29,Lisboa
+359,FLH Typical Alfama Apartment,807,7.5,2023-05-29,Lisboa
+360,The Central House Lisbon Baixa,722,9.0,2023-05-29,Lisboa
+361,Modern Lisbon Apartments by SoulPlaces,1691,9.1,2023-05-29,Lisboa
+362,Blue Liberdade Hotel,1717,9.6,2023-05-29,Lisboa
+363,Hotel Sete Colinas,902,8.6,2023-05-29,Lisboa
+364,Oak Valley Flats Bairro Alto,1368,7.9,2023-05-29,Lisboa
+365,Altis Grand Hotel,1722,8.5,2023-05-29,Lisboa
+366,Anjos 44 Lisbon Apartments,1143,8.1,2023-05-29,Lisboa
+367,Áurea Museum by Eurostars Hotel Company,1634,8.8,2023-05-29,Lisboa
+368,Chiado/Carmo Apartment,834,nan,2023-05-29,Lisboa
+369,SANA Metropolitan Hotel,1110,8.5,2023-05-29,Lisboa
+370,Encarnação Home,534,8.0,2023-05-29,Lisboa
+371,9Hotel Mercy,1518,8.4,2023-05-29,Lisboa
+372,Restauradores by Central Hill Apartments,2316,7.5,2023-05-29,Lisboa
+373,"Modern 2 Bedroom Apartment in Estrela with Outside Terrace! Amazing for Families, Couples, Friends",1491,8.1,2023-05-29,Lisboa
+374,Alfama Chateau - Vue Exceptionelle - Charme - Calme,1844,8.4,2023-05-29,Lisboa
+375,Seven Dreams Suites,839,8.7,2023-05-29,Lisboa
+376,Flores Guest House,798,8.5,2023-05-29,Lisboa
+377,Low Cost Desterro Apartments,504,6.9,2023-05-29,Lisboa
+378,GuestReady -- Cream and Wood Stay in Alcântara,529,6.9,2023-05-29,Lisboa
+379,Lost Lisbon :: Avenida House,1464,8.8,2023-05-29,Lisboa
+380,Belém 147 Apartment,759,8.6,2023-05-29,Lisboa
+381,The Independente Hostel &amp; Suites,939,8.7,2023-05-29,Lisboa
+382,Hotel do Chiado,1633,9.0,2023-05-29,Lisboa
+383,Internacional Design Hotel,1554,8.6,2023-05-29,Lisboa
+384,FLH Casa Carol Mouraria,558,7.3,2023-05-29,Lisboa
+385,Cozy Lisbon Alfama,1020,8.6,2023-05-29,Lisboa
+386,Good Vibes,809,8.3,2023-05-29,Lisboa
+387,Typical Lisbon Apartment 2bdr,638,8.7,2023-05-29,Lisboa
+388,Hotel Luena,696,8.2,2023-05-29,Lisboa
+389,The Blue Sky Nest,1026,9.7,2023-05-29,Lisboa
+390,Real Residência - Apartamentos Turísticos,860,8.1,2023-05-29,Lisboa
+391,Alfama Dream Apartments,609,8.5,2023-05-29,Lisboa
+392,São Bento ao Rato Apartment,635,7.2,2023-05-29,Lisboa
+393,Marques Classy Apartment by be@home,959,8.9,2023-05-29,Lisboa
+394,Sheraton Lisboa Hotel &amp; Spa,1622,8.4,2023-05-29,Lisboa
+395,Kalathos Houses,786,8.2,2023-05-29,Lisboa
+396,Hotel ibis Lisboa Saldanha,528,8.3,2023-05-29,Lisboa
+397,Amazing Flat - Pool and Parking,1032,8.7,2023-05-29,Lisboa
+398,4U Lisbon Airport Suites,744,7.9,2023-05-29,Lisboa
+399,Apartments in downtown,1737,8.8,2023-05-29,Lisboa
+400,GuestReady - Time Out 106,867,6.6,2023-05-29,Lisboa
+401,Figueira by The Beautique Hotels,1689,8.8,2023-05-29,Lisboa
+402,Cozy apartment in Bairro Alto,776,8.3,2023-05-29,Lisboa
+403,Walk'in Sodré,630,nan,2023-05-29,Lisboa
+404,Moxy Lisbon City,1028,8.6,2023-05-29,Lisboa
+405,2 suites stylish flat at bairro alto-principe real,1952,8.3,2023-05-29,Lisboa
+406,Casa Oliver Boutique B&amp;B - Principe Real,955,7.8,2023-05-29,Lisboa
+407,Best Apartments Portugal,948,8.7,2023-05-29,Lisboa
+408,Martinhal Residences,1004,nan,2023-05-29,Lisboa
+409,Charming Studio in Mouraria,580,7.9,2023-05-29,Lisboa
+410,Bairro House Lisbon Charming Suites,926,8.2,2023-05-29,Lisboa
+411,Ramada by Wyndham Lisbon,738,8.0,2023-05-29,Lisboa
+412,Local House Lisbon,499,8.2,2023-05-29,Lisboa
+413,Flat in historic neighbourhood,534,9.0,2023-05-29,Lisboa
+414,Olissippo Castelo,1444,8.5,2023-05-29,Lisboa
+415,Le Premier Lisbon Suites,941,7.6,2023-05-29,Lisboa
+416,Loving Chiado,993,8.6,2023-05-29,Lisboa
+417,FLH Bica Charming Flat,614,7.3,2023-05-29,Lisboa
+418,BiCa HouSeVinTaGe,809,7.5,2023-05-29,Lisboa
+419,Apartments of the Marques,744,7.7,2023-05-29,Lisboa
+420,Succeed Campo Pequeno Apartments,708,8.5,2023-05-29,Lisboa
+421,Feel@home Lisboa,494,8.7,2023-05-29,Lisboa
+422,Alma Moura Residences,816,8.5,2023-05-29,Lisboa
+423,C&amp;O Guest House Alcântara-Lisbon,459,8.4,2023-05-29,Lisboa
+424,Corpo Santo Lisbon Historical Hotel,2582,9.5,2023-05-29,Lisboa
+425,Charming 1 Bedroom Apartment w/ Terrace Near Belém,807,8.3,2023-05-29,Lisboa
+426,Hotel ibis Lisboa Jose Malhoa,590,8.0,2023-05-29,Lisboa
+427,Beco das Flores Typical Apartment,560,6.9,2023-05-29,Lisboa
+428,Porta do Mar Deluxe Central Apartments,1012,8.5,2023-05-29,Lisboa
+429,Marques Best Apartments | Lisbon Best Apartments,1136,9.5,2023-05-29,Lisboa
+430,The ICONS Lisbon Central Hotel,620,7.9,2023-05-29,Lisboa
+431,Casa Boma Lisboa - Unique Apartment With Private Balcony And Panoramic Bridge View - Alcantara IV,894,7.7,2023-05-29,Lisboa
+432,Lisboa: O Saraiva,1092,8.0,2023-05-29,Lisboa
+433,Páteo Saudade Lofts,908,8.2,2023-05-29,Lisboa
+434,Ola Lisbon - Castelo Terrace I,1648,6.8,2023-05-29,Lisboa
+435,DoBairro suites at Bairro Alto,730,8.1,2023-05-29,Lisboa
+436,Almaria - Ex Libris Apartments | Chiado,1566,9.3,2023-05-29,Lisboa
+437,Akicity Amoreiras Jade,720,nan,2023-05-29,Lisboa
+438,The Ivens Autograph Collection,3198,9.3,2023-05-29,Lisboa
+439,Old Fence Studios - By Mayoral,804,7.7,2023-05-29,Lisboa
+440,"Beatiful Alfama, charming apartment",869,8.1,2023-05-29,Lisboa
+441,Akicity Lisboa Charm,954,7.1,2023-05-29,Lisboa
+442,VIP Executive Arts Hotel,966,8.3,2023-05-29,Lisboa
+443,Arroios BnB,1038,9.6,2023-05-29,Lisboa
+444,Olival 178,1934,9.0,2023-05-29,Lisboa
+445,Lisbon Belém Guesthouse,546,8.4,2023-05-29,Lisboa
+446,Augusta Residence Apartments,1281,9.3,2023-05-29,Lisboa
+447,Gaspar House,648,9.8,2023-05-29,Lisboa
+448,Alfama Typical Beco Da Adiça,616,7.6,2023-05-29,Lisboa
+449,Hotel Lisboa,1025,8.4,2023-05-29,Lisboa
+450,Dona Graca Lisbon Apartments,1446,8.9,2023-05-29,Lisboa
+451,My Story Hotel Rossio,1648,9.0,2023-05-29,Lisboa
+452,Alfama - Lisbon Lounge Suites,1012,8.5,2023-05-29,Lisboa
+453,Quinta Colina by Shiadu,1432,8.8,2023-05-29,Lisboa
+454,NAU Palacio do Governador,1466,9.0,2023-05-29,Lisboa
+455,Hotel A.S. Lisboa,487,7.9,2023-05-29,Lisboa
+456,Hyatt Regency Lisbon,1747,8.5,2023-05-29,Lisboa
+457,River Blue Estudio no centro Ar Condicionado,1023,8.0,2023-05-29,Lisboa
+458,Stay Hotel Lisboa Centro Chiado,1104,7.9,2023-05-29,Lisboa
+459,Casa Dos Azulejos - Lapa,994,9.3,2023-05-29,Lisboa
+460,GuestReady - Family Home w Rooftop in Alcântara,855,7.5,2023-05-29,Lisboa
+461,House Mouraria,573,8.5,2023-05-29,Lisboa
+462,Simply Yellow Apartment,745,8.5,2023-05-29,Lisboa
+463,House and Rooms in Lisbon,315,6.9,2023-05-29,Lisboa
+464,Downtown Comfy Suite,904,8.7,2023-05-29,Lisboa
+465,Claude Homes Lisbon Rato,995,9.2,2023-05-29,Lisboa
+466,B in B Lisbon Downtown Suites,1074,8.0,2023-05-29,Lisboa
+467,Almirante Reis New sublime Flat,974,8.3,2023-05-29,Lisboa
+468,Guest House Amoreiras,387,9.0,2023-05-29,Lisboa
+469,TURIM Av. Liberdade Hotel,1464,7.5,2023-05-29,Lisboa
+470,Vila Rosário 3 studios with Patio by Homeful Homes,769,8.5,2023-05-29,Lisboa
+471,Santo Andre Terrace,822,8.3,2023-05-29,Lisboa
+472,Bright 2 bedroom Apt 100m from Av. Liberdade,1158,8.2,2023-05-29,Lisboa
+473,The Lift Boutique Hotel by RIDAN Hotels,1637,8.8,2023-05-29,Lisboa
+474,Olissippo Oriente,1384,8.7,2023-05-29,Lisboa
+475,FLH São Bento Cozy Flats,605,7.6,2023-05-29,Lisboa
+476,Great Stay Fanqueiros 1,749,9.1,2023-05-29,Lisboa
+477,4U Lisbon Suites &amp; Guesthouse VII Airport,474,7.2,2023-05-29,Lisboa
+478,Dear Lisbon - Charming House,1212,8.9,2023-05-29,Lisboa
+479,Akicity Entrecampos Iris,1374,8.0,2023-05-29,Lisboa
+480,Hermitage Castelo - Casa Saint Jorge,1370,9.3,2023-05-29,Lisboa
+481,LxRoller Alcantara Suite Riverside,729,8.0,2023-05-29,Lisboa
+482,Santa Marta Apartment by Trip2Portugal,943,7.4,2023-05-29,Lisboa
+483,MY LX FLAT Castle Alfama Studio,600,6.2,2023-05-29,Lisboa
+484,Bairro Alto Studios &amp; Flats by Lisbon Village Apartments,666,7.8,2023-05-29,Lisboa
+485,Convento Apartment Rossio,661,6.0,2023-05-29,Lisboa
+486,GuestReady - Cidade Suites,455,7.0,2023-05-29,Lisboa
+487,Hotel Dom Carlos Park,1045,7.9,2023-05-29,Lisboa
+488,Hotel Britania Art Deco - Lisbon Heritage Collection - Avenida,2028,9.5,2023-05-29,Lisboa
+489,Eurostars Lisboa Parque,886,8.1,2023-05-29,Lisboa
+490,Triplex with Garage - Praça das Flores,1044,8.5,2023-05-29,Lisboa
+491,GuestReady - Fado- Apt for up to 4 guests in Saldanha,959,7.8,2023-05-29,Lisboa
+492,Rossio Boutique Hotel,1091,8.0,2023-05-29,Lisboa
+493,Guest House Guerra Junqueiro II,384,8.1,2023-05-29,Lisboa
+494,The Blue House - As Portuguesas,859,7.8,2023-05-29,Lisboa
+495,Lutecia Smart Design Hotel,811,8.3,2023-05-29,Lisboa
+496,FLH Alfama Flat with River View,1060,9.0,2023-05-29,Lisboa
+497,Crooked House Alfama,919,9.0,2023-05-29,Lisboa
+498,Nicola Rossio Hotel,1482,9.0,2023-05-29,Lisboa
+499,GuestReady - Chic and cozy apartment in Lisbon,1767,9.4,2023-05-29,Lisboa
+500,Urban &amp; Trendy Duplex close to Lx Factory by Trip2Portugal,758,7.7,2023-05-29,Lisboa
+501,FLH Mercado Ribeira Grey Flat,1036,8.3,2023-05-29,Lisboa
+502,Fenicius Charme Hotel,1157,8.3,2023-05-29,Lisboa
+503,GuestReady - Bica Grande 27 RC,1511,8.4,2023-05-29,Lisboa
+504,Mouraria Deluxe Apartments,578,6.8,2023-05-29,Lisboa
+505,DoubleTree by Hilton Lisbon Fontana Park,1055,7.7,2023-05-29,Lisboa
+506,Lovely Home,862,8.7,2023-05-29,Lisboa
+507,Charming Studio in Adamastor Lisbon! Perfect location - Super central but calm!,863,7.8,2023-05-29,Lisboa
+508,Browns Avenue Hotel,2105,9.0,2023-05-29,Lisboa
+509,Altis Belem Hotel &amp; Spa - Design Hotels,2076,8.8,2023-05-29,Lisboa
+510,Quinta do Boição,717,8.3,2023-05-29,Lisboa
+511,Alface Hall Hostel &amp; Bar,360,6.7,2023-05-29,Lisboa
+512,Apartments Center Castelo,852,7.8,2023-05-29,Lisboa
+513,B&amp;B in Redondo Residence,554,8.0,2023-05-29,Lisboa
+514,Bairro Alto 3 Bedroom Patio Flat!,1967,7.7,2023-05-29,Lisboa
+515,House Rooms in Bairro Alto - Lounge,468,7.3,2023-05-29,Lisboa
+516,DuMont Lisbon Guesthouse,551,8.0,2023-05-29,Lisboa
+517,Masa Hotel Almirante,846,7.9,2023-05-29,Lisboa
+518,Fonte Luminosa - Great Location,741,8.2,2023-05-29,Lisboa
+519,Lisbon Combro 77 Charming Studios by Get Your Stay,687,8.4,2023-05-29,Lisboa
+520,Casa Santa Marinha,1164,8.4,2023-05-29,Lisboa
+521,New Apartment Bairro Alto,734,8.4,2023-05-29,Lisboa
+522,FLH Praça Rossio Contemporary Flat,1113,10,2023-05-29,Lisboa
+523,Tejo Blue &amp; Bright - Checkinhome,945,8.8,2023-05-29,Lisboa
+524,Studio 59,652,8.5,2023-05-29,Lisboa
+525,Madalena by The Beautique Hotels,1509,9.0,2023-05-29,Lisboa
+526,Dowtown Apartment - Expo20,796,8.7,2023-05-29,Lisboa
+527,Akicity Amoreiras In II,990,7.3,2023-05-29,Lisboa
+528,Discovery Apartment Expo,1107,7.7,2023-05-29,Lisboa
+529,Cozy apartment in Bairro Alto I,776,7.7,2023-05-29,Lisboa
+530,Lisboa Sweet Family Homestay,1293,8.3,2023-05-29,Lisboa
+531,Traditional Lisbon Madragoa Studio,564,7.5,2023-05-29,Lisboa
+532,Setubalense,594,8.3,2023-05-29,Lisboa
+533,New Loft - Lisboa Estrela,543,7.1,2023-05-29,Lisboa
+534,Lisbon Best Choice Apartments Alfama,1023,8.7,2023-05-29,Lisboa
+535,Poppy house in Anjos,778,10,2023-05-29,Lisboa
+536,Like-home Casa Campolide,939,8.3,2023-05-29,Lisboa
+537,Entrecampos - Family apartment with Terrace,534,7.5,2023-05-29,Lisboa
+538,Hermitage Castelo - Casa Chafariz,1752,9.4,2023-05-29,Lisboa
+539,Casa do Bairro by Shiadu,1985,9.1,2023-05-29,Lisboa
+540,Tagus Apartments by Lisbon Village Apartments,567,8.4,2023-05-29,Lisboa
+541,Upon Lisbon Prime Residences,1057,8.9,2023-05-29,Lisboa
+542,Casa de Santa Marta,887,9.6,2023-05-29,Lisboa
+543,Midis Alojamento Local,420,7.1,2023-05-29,Lisboa
+544,The Blue House - Bica Ropers,713,nan,2023-05-29,Lisboa
+545,FLH Expo Cozy Apartment,651,nan,2023-05-29,Lisboa
+546,Jardim da Lapa by Shiadu,2015,9.1,2023-05-29,Lisboa
+547,Serene Hideaway in Chiado,2149,9.8,2023-05-29,Lisboa
+548,Giestal Terrace,755,8.4,2023-05-29,Lisboa
+549,Charming Apartment in Alfama,1088,9.0,2023-05-29,Lisboa
+550,Lisbon Dreams Estrela Suites,566,8.5,2023-05-29,Lisboa
+551,Charm Discovery Braul,999,7.1,2023-05-29,Lisboa
+552,Alojamento local Ideal,444,7.6,2023-05-29,Lisboa
+553,Apartments in Central Lisbon,648,8.5,2023-05-29,Lisboa
+554,Alvalade Inn,862,9.2,2023-05-29,Lisboa
+555,Pestana Palace Lisboa Hotel &amp; National Monument - The Leading Hotels of the World,2127,8.9,2023-05-29,Lisboa
+556,GuestReady - Flamingo's House,778,7.5,2023-05-29,Lisboa
+557,Cheese &amp; Wine Lapa,758,7.9,2023-05-29,Lisboa
+558,Príncipe Real Guest House,727,8.7,2023-05-29,Lisboa
+559,Quartos do Marquês,517,8.4,2023-05-29,Lisboa
+560,Orange 3 House - Chiado Studios,1180,8.7,2023-05-29,Lisboa
+561,Alfama Vintage 1 five guests Alfama Vintage 2 five guests Alfama Vintage 3 three Guests,656,7.3,2023-05-29,Lisboa
+562,Akicity Arroios Selected,954,nan,2023-05-29,Lisboa
+563,Flats do Chiado,819,8.5,2023-05-29,Lisboa
+564,Casa de Verão 8 building,1023,nan,2023-05-29,Lisboa
+565,Residentas Arco do Bandeira,2253,9.5,2023-05-29,Lisboa
+566,The Ideal Place close to the Castle,1299,9.0,2023-05-29,Lisboa
+567,Almaria - Da Corte Apartments | Chiado,1906,9.4,2023-05-29,Lisboa
+568,With You Suites,1411,9.0,2023-05-29,Lisboa
+569,Caraujo Apartments,1494,7.4,2023-05-29,Lisboa
+570,easyHotel Lisbon,504,8.1,2023-05-29,Lisboa
+571,Alfama Apartments São Crispim,744,7.6,2023-05-29,Lisboa
+572,GuestReady - Bright Flat near Rio de Mouro Station,812,3.0,2023-05-29,Lisboa
+573,Lisbon Lounge Hostel,749,8.8,2023-05-29,Lisboa
+574,TURIM Restauradores Hotel,1437,7.7,2023-05-29,Lisboa
+575,Charming Flat,839,9.2,2023-05-29,Lisboa
+576,Alvalade Palace,741,8.8,2023-05-29,Lisboa
+577,Residencial Camoes,444,7.1,2023-05-29,Lisboa
+578,"Lisboa, Cidade, Elegant Apartment with Air Cond, Free WIFI and Near Metro, by IG",644,8.0,2023-05-29,Lisboa
+579,Lemon Tree Garden 3bedroom Apartment,2274,10,2023-05-29,Lisboa
+580,Apartment Cosy. 3 Guests,713,6.4,2023-05-29,Lisboa
+581,Mouraria Musica &amp; Romance,1387,8.4,2023-05-29,Lisboa
+582,GuestReady - Prior do Crato GuestHouse,616,7.2,2023-05-29,Lisboa
+583,Room Lusíadas with private bathroom,408,7.3,2023-05-29,Lisboa
+584,Altis Suites Apartamentos Turísticos,1386,8.3,2023-05-29,Lisboa
+585,Casa Boma Lisboa - Modern and Stylish Apartment with Private Terrace - Lapa IV,881,7.3,2023-05-29,Lisboa
+586,Heritage Avenida Liberdade - Lisbon Heritage Collection - Avenida,1937,9.1,2023-05-29,Lisboa
+587,Eurostars Das Letras,1226,8.4,2023-05-29,Lisboa
+588,FLH Olivais Family Flat,1178,8.5,2023-05-29,Lisboa
+589,Cozy 1 Bed Apt amidst Bairro Alto!,782,7.0,2023-05-29,Lisboa
+590,Parque Nacoes Prime Apartments,1264,8.7,2023-05-29,Lisboa
+591,Vai a Tejo,2176,7.8,2023-05-29,Lisboa
+592,Alfama 2BDR Duplex Apartment W/ Balcony by LovelyStay,1856,nan,2023-05-29,Lisboa
+593,"Parque das Nações, near Airport, Metro Station",712,8.2,2023-05-29,Lisboa
+594,MY LX FLAT Graça Lighting Design Apartment,1007,nan,2023-05-29,Lisboa
+595,ON City Suites,708,6.9,2023-05-29,Lisboa
+596,My Story Hotel Augusta,1349,8.8,2023-05-29,Lisboa
+597,Modern and Comfort Apartment 25 by Lisbonne Collection,908,9.2,2023-05-29,Lisboa
+598,Expo Oriente 2 Bedrooms by GT House,1062,8.6,2023-05-29,Lisboa
+599,Cosy Chiado by Homing,640,5.5,2023-05-29,Lisboa
+600,Cosy Chiado by Homing,640,5.5,2023-05-29,Lisboa
+601,GuestReady - Time Out 105,867,5.6,2023-05-29,Lisboa
+602,NH Lisboa Campo Grande,867,8.6,2023-05-29,Lisboa
+603,Madre Deus Guest House,824,9.2,2023-05-29,Lisboa
+604,Garrett 48 Apartments,924,8.6,2023-05-29,Lisboa
+605,FLH Alecrim Downtown Apartment,1147,9.0,2023-05-29,Lisboa
+606,GuestReady - Exquisite Bica Poetas,711,8.0,2023-05-29,Lisboa
+607,FLH Alfama Charming Flat,621,7.0,2023-05-29,Lisboa
+608,Guest Inn 3 Boutique Guest House by Homeful Homes,569,8.5,2023-05-29,Lisboa
+609,Solar Dos Mouros,978,9.0,2023-05-29,Lisboa
+610,My Story Hotel Figueira,1171,9.0,2023-05-29,Lisboa
+611,FLH Bairro Alto Lovely Flat,843,7.0,2023-05-29,Lisboa
+612,Olissippo Lapa Palace – The Leading Hotels of the World,2664,9.3,2023-05-29,Lisboa
+613,Contemporary Apartment in Chiado 1,701,8.0,2023-05-29,Lisboa
+614,Rooftop Terrace-Sao Gens Apartments,816,9.3,2023-05-29,Lisboa
+615,Tandem Palacio Alfama Suites,1342,8.9,2023-05-29,Lisboa
+616,Ibis Styles Lisboa Centro Marquês de Pombal,730,8.2,2023-05-29,Lisboa
+617,Marquês de Pombal Terrace by Lisbon Village Apartments,882,8.5,2023-05-29,Lisboa
+618,GuestReady - Madalena Charming Style Studio,842,7.6,2023-05-29,Lisboa
+619,Nomad's Lisbon Castello Flats,695,6.5,2023-05-29,Lisboa
+620,Famille au Cœur de Lisbonne,725,8.9,2023-05-29,Lisboa
+621,Residentas Aurea,1451,9.4,2023-05-29,Lisboa
+622,FLH Praça Comércio Artistic Flat with Balcony,1401,9.3,2023-05-29,Lisboa
+623,Akicity Lisboa Pearl II,1374,7.4,2023-05-29,Lisboa
+624,Travel Lovers,714,7.9,2023-05-29,Lisboa
+625,Studios in Beco da Formosa in Alfama - Lisbon,750,8.0,2023-05-29,Lisboa
+626,Lisbon Combro 77 Charming One bedroom Apartment by Get Your Stay,562,7.6,2023-05-29,Lisboa
+627,Sitio dos Cavaleiros Apartments,1602,9.1,2023-05-29,Lisboa
+628,Quiet and Bright Apartment 16 by Lisbonne Collection,1003,nan,2023-05-29,Lisboa
+629,GuestReady - Angelina V,1044,8.4,2023-05-29,Lisboa
+630,FLH Alfama Lovely Studio,562,6.1,2023-05-29,Lisboa
+631,Lisbon Sao Bento Hotel,705,8.2,2023-05-29,Lisboa
+632,Silver Apart City Center,834,8.0,2023-05-29,Lisboa
+633,Alfama Chic Penabuquel3,809,7.7,2023-05-29,Lisboa
+634,TURIM Luxe Hotel,850,7.6,2023-05-29,Lisboa
+635,Cosy Alfama Hideout - with rooftop terrace,1359,8.3,2023-05-29,Lisboa
+636,"TP BOMBARDA 5, Lisbon Deluxe Apartment",1922,9.2,2023-05-29,Lisboa
+637,SK Lisboa Villa Guesthouse,700,9.0,2023-05-29,Lisboa
+638,2 Bedroom close to Timeout Market by Innkeeper,1179,9.5,2023-05-29,Lisboa
+639,Lisbon Arsenal Suites,624,7.4,2023-05-29,Lisboa
+640,Stay Hotel Lisboa Centro Saldanha,624,7.7,2023-05-29,Lisboa
+641,RoomDream AL Beato,504,8.4,2023-05-29,Lisboa
+642,Masa Hotel 5 de Outubro,804,8.4,2023-05-29,Lisboa
+643,Santana 2 - Checkinhome,945,8.6,2023-05-29,Lisboa
+644,FLH Santa Catarina Lovely Flat,819,7.8,2023-05-29,Lisboa
+645,Visit Lisbon4fun - Alfama,834,8.1,2023-05-29,Lisboa
+646,Amazing loft in Lisbon,1104,nan,2023-05-29,Lisboa
+647,Home Lisbon Hostel,1059,9.2,2023-05-29,Lisboa
+648,GuestReady - Castle - Apt for 4 guests in Saldanha,1009,7.8,2023-05-29,Lisboa
+649,Amoreiras Studios,456,7.0,2023-05-29,Lisboa
+650,Akicity Campolide Selected,1134,9.5,2023-05-29,Lisboa
+651,Hotel Canada,856,8.4,2023-05-29,Lisboa
+652,Hotel Marques De Pombal,964,8.6,2023-05-29,Lisboa
+653,The Famous Blue House,1079,6.3,2023-05-29,Lisboa
+654,Ola Lisbon - Terrace Principe Real II,1368,8.0,2023-05-29,Lisboa
+655,1908 Lisboa Hotel,2214,9.3,2023-05-29,Lisboa
+656,BeHappy Apartments,1197,8.1,2023-05-29,Lisboa
+657,Residência Almirante,355,7.0,2023-05-29,Lisboa
+658,GuestReady - Cozy and Homelike Apt in the heart of Lisbon,711,6.3,2023-05-29,Lisboa
+659,4U Lisbon IV Guesthouse,474,7.5,2023-05-29,Lisboa
+660,Olá Lisbon- Belem IV with terrace and panoramic view,1838,7.9,2023-05-29,Lisboa
+661,Akicity Amoreiras Palisade,1374,7.7,2023-05-29,Lisboa
+662,Graça Panoramic View,1129,8.2,2023-05-29,Lisboa
+663,Anjos Balconies,1014,8.8,2023-05-29,Lisboa
+664,"Chiado Bairro Alto, Bright and Newly Renovated 3 Bedroom Apartment, Lisbon Historical Center",2150,9.0,2023-05-29,Lisboa
+665,The Red Jedi,744,9.0,2023-05-29,Lisboa
+666,Czar Lisbon Hotel,914,8.3,2023-05-29,Lisboa
+667,Santo Amaro's House,804,7.9,2023-05-29,Lisboa
+668,Romantic Gem with 2 Terraces in Alcântara,1118,8.2,2023-05-29,Lisboa
+669,Flattered to be in Lisboa,1421,9.3,2023-05-29,Lisboa
+670,Atalaia Home,622,6.7,2023-05-29,Lisboa
+671,Hotel DAH - Dom Afonso Henriques,564,7.9,2023-05-29,Lisboa
+672,Ola Lisbon - Rato I,1499,8.7,2023-05-29,Lisboa
+673,New loft with swimming pool at Parque das Nações!,1064,8.7,2023-05-29,Lisboa
+674,GuestReady - Minimalist Studio In Downtown Lisbon,632,7.8,2023-05-29,Lisboa
+675,Casa AMOReiras,490,8.5,2023-05-29,Lisboa
+676,GuestReady - Colourful and Modern LxFactory,1114,8.3,2023-05-29,Lisboa
+677,"Apartment with a Terrace, Air Conditioner and Fast Internet",1136,9.2,2023-05-29,Lisboa
+678,FLH Santa Catarina Cozy Apartment,878,7.7,2023-05-29,Lisboa
+679,Sunny Apartment in the Heart of Príncipe Real,1304,8.2,2023-05-29,Lisboa
+680,Olissippo Saldanha,1104,8.7,2023-05-29,Lisboa
+681,Lisboa 85 Suites &amp; Apartments by RIDAN Hotels,840,8.3,2023-05-29,Lisboa
+682,Residencial do Areeiro,504,6.5,2023-05-29,Lisboa
+683,Lisbonne Appartements,938,8.9,2023-05-29,Lisboa
+684,Bairro Alto Music Guest House,1011,8.4,2023-05-29,Lisboa
+685,Rent4Rest - Lisbon Downtown Designer's Apartment,1955,8.6,2023-05-29,Lisboa
+686,Casual Belle Epoque Lisboa,1398,8.4,2023-05-29,Lisboa
+687,Valverde Hotel - Relais &amp; Chateaux,3324,8.8,2023-05-29,Lisboa
+688,Fontecruz Lisboa,2584,8.9,2023-05-29,Lisboa
+689,Lisbon T2 apartment in typical villa in Sapadores Lisbon,829,7.1,2023-05-29,Lisboa
+690,Cosy Marques de Pombal Apartment,1324,9.1,2023-05-29,Lisboa
+691,FLH Graça Lovely Apartment I,601,6.4,2023-05-29,Lisboa
+692,Castle Inn Lisbon Apartments,1432,9.1,2023-05-29,Lisboa
+693,Hotel Metropole,1049,7.6,2023-05-29,Lisboa
+694,Solar dos Poetas,1316,8.9,2023-05-29,Lisboa
+695,Alma de Santos Apartment,906,8.7,2023-05-29,Lisboa
+696,Akicity Alameda Vegur,1350,8.0,2023-05-29,Lisboa
+697,Residencial do Sul,360,6.9,2023-05-29,Lisboa
+698,Terrace With River View,949,10,2023-05-29,Lisboa
+699,Apartment Baixa/Chiado view Castle,999,8.4,2023-05-29,Lisboa
+700,Duplex do Pipas,714,nan,2023-05-29,Lisboa
+701,Family Macedo,444,8.1,2023-05-29,Lisboa
+702,Santa Catarina Apartments by Les Deux Mariettes,1278,8.6,2023-05-29,Lisboa
+703,LV Premier AM2,1431,9.0,2023-05-29,Lisboa
+704,Nomad's Augusta Collection - Comfort,1134,8.9,2023-05-29,Lisboa
+705,GuestReady - Practical 1 BDR appt near the beach!,567,nan,2023-05-29,Lisboa
+706,"Alfama 88, By Home With a View",666,6.3,2023-05-29,Lisboa
+707,MY LX FLAT Bairro Alto Design Apartments,2009,8.5,2023-05-29,Lisboa
+708,Hotel ibis Lisboa Alfragide,497,7.8,2023-05-29,Lisboa
+709,Room I - Atalaia - Bairro Alto,333,6.6,2023-05-29,Lisboa
+710,Casa da Avenida Lisboa,1654,9.3,2023-05-29,Lisboa
+711,Verride Palácio Santa Catarina,4257,9.3,2023-05-29,Lisboa
+712,GuestReady - Fantastic Apt near Castelo de S Jorge,1043,5.8,2023-05-29,Lisboa
+713,Luzeiros Suites,864,8.2,2023-05-29,Lisboa
+714,WHome | Madalena Downtown Luxury Duplex,1979,9.5,2023-05-29,Lisboa
+715,Lisbon Five Stars Apartments Combro 77,1255,8.1,2023-05-29,Lisboa
+716,Downtown Chiado by Homing,1248,7.2,2023-05-29,Lisboa
+717,GuestReady - Forno do Sol 7 RC E,555,5.0,2023-05-29,Lisboa
+718,"Holiday Inn Lisbon-Continental, an IHG Hotel",1032,8.0,2023-05-29,Lisboa
+719,FLH Príncipe Real with View,975,9.0,2023-05-29,Lisboa
+720,We Love F Tourists,677,8.9,2023-05-29,Lisboa
+721,FLH S Bento Foldable Color Studio,592,8.3,2023-05-29,Lisboa
+722,Swimming pool apartment with private parking,780,4.5,2023-05-29,Lisboa
+723,Ola Lisbon - Alfama II,1026,6.2,2023-05-29,Lisboa
+724,The ART INN Lisbon,1914,8.5,2023-05-29,Lisboa
+725,Santa Catarina Apartments by Les Deux Mariettes,1278,8.6,2023-05-29,Lisboa
+726,LV Premier AM2,1431,9.0,2023-05-29,Lisboa
+727,Nomad's Augusta Collection - Comfort,1134,8.9,2023-05-29,Lisboa
+728,GuestReady - Practical 1 BDR appt near the beach!,567,nan,2023-05-29,Lisboa
+729,"Alfama 88, By Home With a View",666,6.3,2023-05-29,Lisboa
+730,MY LX FLAT Bairro Alto Design Apartments,2009,8.5,2023-05-29,Lisboa
+731,Hotel ibis Lisboa Alfragide,497,7.8,2023-05-29,Lisboa
+732,Room I - Atalaia - Bairro Alto,333,6.6,2023-05-29,Lisboa
+733,Casa da Avenida Lisboa,1654,9.3,2023-05-29,Lisboa
+734,Verride Palácio Santa Catarina,4257,9.3,2023-05-29,Lisboa
+735,GuestReady - Fantastic Apt near Castelo de S Jorge,1043,5.8,2023-05-29,Lisboa
+736,Luzeiros Suites,864,8.2,2023-05-29,Lisboa
+737,WHome | Madalena Downtown Luxury Duplex,1979,9.5,2023-05-29,Lisboa
+738,Lisbon Five Stars Apartments Combro 77,1255,8.1,2023-05-29,Lisboa
+739,Downtown Chiado by Homing,1248,7.2,2023-05-29,Lisboa
+740,GuestReady - Forno do Sol 7 RC E,555,5.0,2023-05-29,Lisboa
+741,"Holiday Inn Lisbon-Continental, an IHG Hotel",1032,8.0,2023-05-29,Lisboa
+742,FLH Príncipe Real with View,975,9.0,2023-05-29,Lisboa
+743,We Love F Tourists,677,8.9,2023-05-29,Lisboa
+744,A Captivating Apartment close to River Tagus in Lisbon,1895,9.7,2023-05-29,Lisboa
+745,FLH S Bento Foldable Color Studio,592,8.3,2023-05-29,Lisboa
+746,Swimming pool apartment with private parking,780,4.5,2023-05-29,Lisboa
+747,Ola Lisbon - Alfama II,1026,6.2,2023-05-29,Lisboa
+748,The ART INN Lisbon,1914,8.5,2023-05-29,Lisboa
+749,Hotel Duas Nações,569,7.0,2023-05-29,Lisboa
+750,Four Seasons Hotel Ritz Lisbon,5874,8.8,2023-05-29,Lisboa
+751,São Lázaro Appartment by Demsimmo,1258,9.0,2023-05-29,Lisboa
+752,#Tram28_Cosy,861,9.0,2023-05-29,Lisboa
+753,Lovely 2 Bedroom Apartment in the Heart of Lisbon,1708,9.0,2023-05-29,Lisboa
+754,Embaixador Apartments&amp;Suites,908,8.8,2023-05-29,Lisboa
+755,This Is Lisbon Hostel,581,8.8,2023-05-29,Lisboa
+756,Duplex ap Best Location,1044,8.3,2023-05-29,Lisboa
+757,Vita Portucale ! Lisbon Design Apartment with Terrace,742,9.7,2023-05-29,Lisboa
+758,Classic and Comfortable Topfloor Apartment 13 by Lisbonne Collection,655,9.1,2023-05-29,Lisboa
+759,Hidden Gem in Principe Real,1650,9.9,2023-05-29,Lisboa
+760,Saudade Guest House,468,7.3,2023-05-29,Lisboa
+761,Vila Rosário in Graça,776,8.4,2023-05-29,Lisboa
+762,Hotel Dublin,474,7.5,2023-05-29,Lisboa
+763,Principe Real Patio House,1438,8.0,2023-05-29,Lisboa
+764,Barao Apartment by Trip2Portugal,645,8.1,2023-05-29,Lisboa
+765,BmyT - The Villa,692,7.5,2023-05-29,Lisboa
+766,Old Town Lx Suites,924,7.1,2023-05-29,Lisboa
+767,Beautiful apartment in Bairro Alto - Quite,1045,8.7,2023-05-29,Lisboa
+768,LX Hostel,529,9.1,2023-05-29,Lisboa
+769,WHome Central Minimalist 1-Bed Great to Explore Lisbon,794,10,2023-05-29,Lisboa
+770,HOME4U - Mouraria Typical Neighborhood,620,8.5,2023-05-29,Lisboa
+771,FLH Studio Alfama,588,7.0,2023-05-29,Lisboa
+772,Cozy Avenida Guesthouse,582,6.8,2023-05-29,Lisboa
+773,Ando Living - Augusta Townhouse,2229,9.2,2023-05-29,Lisboa
+774,Baixa Tile Blue Two-Bedroom Apartment - by LU Holidays,1807,9.4,2023-05-29,Lisboa
+775,Lusitano Apartment Top Floor,942,8.7,2023-05-29,Lisboa
+776,Mini Hostel in Lisbon,291,7.0,2023-05-29,Lisboa
+777,Lisbon Five Stars Apartments Combro 7,1441,8.1,2023-05-29,Lisboa
+778,Nice apartment in BAIRRO ALTO 6º,684,8.8,2023-05-29,Lisboa
+779,Nesha Guesthouse Lisbon,255,8.1,2023-05-29,Lisboa
+780,Casa da Praceta,777,8.2,2023-05-29,Lisboa
+781,8 Building Apartments,1242,8.9,2023-05-29,Lisboa
+782,The Tram 18 Space,272,8.0,2023-05-29,Lisboa
+783,Beautiful Studio in Historic Alfama,686,8.5,2023-05-29,Lisboa
+784,Oriente DNA Studios II,665,7.2,2023-05-29,Lisboa
+785,FLH Chiado Artsy Duplex,1301,8.9,2023-05-29,Lisboa
+786,OnJ S. Lazaro Lisboa,1216,9.0,2023-05-29,Lisboa
+787,Lisbon Poets Inn,372,7.7,2023-05-29,Lisboa
+788,Alcântara Lodge,799,9.4,2023-05-29,Lisboa
+789,Sweethome,972,9.8,2023-05-29,Lisboa
+790,WHome | CSA18 Luxury Design Apartment,1084,9.6,2023-05-29,Lisboa
+791,New and Central with free parking and 5min walk of subway station,994,8.5,2023-05-29,Lisboa
+792,Two Bedroom Apt in Historic location! Close to the River,920,7.0,2023-05-29,Lisboa
+793,Lisbon Chillout Apartments,885,8.4,2023-05-29,Lisboa
+794,Luxury Casal Ribeiro I by Innkeeper,1339,7.2,2023-05-29,Lisboa
+795,"Sunny Pink Street Historical Apt, By TimeCooler",1630,9.0,2023-05-29,Lisboa
+796,The Tile House 95,1111,9.4,2023-05-29,Lisboa
+797,Bairro Alto Aloja,999,8.2,2023-05-29,Lisboa
+798,In Amoreiras,984,9.5,2023-05-29,Lisboa
+799,Design Loft Belém -100m2,1404,8.6,2023-05-29,Lisboa
+800,Flora Chiado Apartments,2669,9.7,2023-05-29,Lisboa
+801,The Twenties,634,7.2,2023-05-29,Lisboa
+802,FLH Praça Rossio Elegant Flat,1293,9.0,2023-05-29,Lisboa
+803,FLH Baixa Contemporary Flat,1113,nan,2023-05-29,Lisboa
+804,EVOLUTION Lisboa Hotel,1064,8.5,2023-05-29,Lisboa
+805,Cardeal´s Nest,671,8.9,2023-05-29,Lisboa
+806,Large &amp; Relaxing loft in Alfama,1557,8.2,2023-05-29,Lisboa
+807,Downtown Madalena by Homing,1103,6.7,2023-05-29,Lisboa
+808,FLH Intendente Blue Flat with Balcony,1808,8.2,2023-05-29,Lisboa
+809,Norte Guest House,309,6.8,2023-05-29,Lisboa
+810,The 7 Hotel,1224,8.5,2023-05-29,Lisboa
+811,Lisboa - Belem1886 River View #2Brd #2bath,1446,9.2,2023-05-29,Lisboa
+812,Vita Portucale ! Charming Loft with Garage,632,7.4,2023-05-29,Lisboa
+813,Wallis Rato,409,7.0,2023-05-29,Lisboa
+814,Teatro Boutique Rooms &amp; Suites,1370,7.6,2023-05-29,Lisboa
+815,Home Sweet Apartments,1290,8.5,2023-05-29,Lisboa
+816,"Typical Alfama Apartment, by TimeCooler",770,10,2023-05-29,Lisboa
+817,Oriente DNA Studios X,636,nan,2023-05-29,Lisboa
+818,Graça Charming Apartment,914,9.2,2023-05-29,Lisboa
+819,Apartamento Pensamento 12B,564,7.9,2023-05-29,Lisboa
+820,OMID Saldanha Hotel,915,8.4,2023-05-29,Lisboa
+821,Hotel das Amoreiras - Small Luxury Hotels of the World,1487,9.5,2023-05-29,Lisboa
+822,Hotel Jeronimos 8,1407,7.7,2023-05-29,Lisboa
+823,The Postcard Lisbon,645,8.7,2023-05-29,Lisboa
+824,Principe Real Best Location,730,5.0,2023-05-29,Lisboa
+825,House Sao Bento,549,8.7,2023-05-29,Lisboa
+826,Severa Apartments,508,6.8,2023-05-29,Lisboa
+827,Palácio das Especiarias,1913,9.3,2023-05-29,Lisboa
+828,4U Lisbon VI Guesthouse,534,7.8,2023-05-29,Lisboa
+829,Chiado Camões Apartments | Lisbon Best Apartments,2046,9.5,2023-05-29,Lisboa
+830,Chic &amp; Classy Lisboa by GT House,1401,8.0,2023-05-29,Lisboa
+831,01 Nice Flat by Olivais,578,8.4,2023-05-29,Lisboa
+832,Memories of Lisbon,459,8.3,2023-05-29,Lisboa
+833,Alfama Patio Apartments,677,6.4,2023-05-29,Lisboa
+834,Lisbon Downtown Apartment Figueira,1556,9.1,2023-05-29,Lisboa
+835,Marino Lisboa,1324,8.6,2023-05-29,Lisboa
+836,Apartamento pensamento IV,579,6.6,2023-05-29,Lisboa
+837,Akicity Marques Star III,1254,nan,2023-05-29,Lisboa
+838,RomanticHome at Alfama's Heart,1278,8.6,2023-05-29,Lisboa
+839,Stylish Private Apartment » 3 bedrooms » A/C » Near Metro,1345,8.0,2023-05-29,Lisboa
+840,Almirante Concept by Homing,700,nan,2023-05-29,Lisboa
+841,Hotel Botanico,888,8.6,2023-05-29,Lisboa
+842,Hotel 3K Europa,1011,8.3,2023-05-29,Lisboa
+843,Conde 3BDR Luxury,1913,9.3,2023-05-29,Lisboa
+844,Moradia Clássica no Beato,1171,9.5,2023-05-29,Lisboa
+845,Chiado Deluxe Gem 4bdr Amazing apartment,3043,9.3,2023-05-29,Lisboa
+846,Sete Colinas Apartment,1104,8.7,2023-05-29,Lisboa
+847,Green Heart Hostel,420,7.9,2023-05-29,Lisboa
+848,Apartments in Historical Lisbon,1345,8.8,2023-05-29,Lisboa
+849,Largo da Sé Guest House - HOrigem,438,7.5,2023-05-29,Lisboa
+850,Largo da Sé Guest House - HOrigem,438,7.5,2023-05-29,Lisboa
+851,Casinha das Flores,833,8.3,2023-05-29,Lisboa
+852,Modern Apartment Bica dos Olhos,1358,8.9,2023-05-29,Lisboa
+853,Olissippo Marques de Sa,1104,8.4,2023-05-29,Lisboa
+854,Unknown Lisbon 2C - 1 BDR apt in NEW building,741,9.2,2023-05-29,Lisboa
+855,Lisbon Serviced Apartments - Principe Real,1239,8.7,2023-05-29,Lisboa
+856,Golden Apartment City Center,789,8.1,2023-05-29,Lisboa
+857,Restelo House Shared Appartment,354,6.2,2023-05-29,Lisboa
+858,Senna Apartment,924,8.8,2023-05-29,Lisboa
+859,Tram House @ Lx Factory!,632,8.0,2023-05-29,Lisboa
+860,Cruz Apartments,2712,9.1,2023-05-29,Lisboa
+861,The Slow,1220,8.0,2023-05-29,Lisboa
+862,Lisbon Luxury Flat,1357,9.4,2023-05-29,Lisboa
+863,Charming flat with 2 bedrooms on Lisbon's 7th hill,609,8.0,2023-05-29,Lisboa
+864,Hotel Excelsior,650,6.7,2023-05-29,Lisboa
+865,Casas da Baixa - Unique Chiado,1110,9.0,2023-05-29,Lisboa
+866,Boho Guesthouse - Rooms &amp; Apartments,931,8.4,2023-05-29,Lisboa
+867,Graca Elegant by Homing,973,7.3,2023-05-29,Lisboa
+868,Zurin Charm Hotel,894,9.0,2023-05-29,Lisboa
+869,Heart of Lisbon,618,6.9,2023-05-29,Lisboa
+870,Asian Everest House,402,7.6,2023-05-29,Lisboa
+871,NEW Lisbon Downtown Houses,780,8.3,2023-05-29,Lisboa
+872,GuestReady - Fantastic w Big Patio Bairro Alto,1281,5.3,2023-05-29,Lisboa
+873,Stylish Apartment near Av. Liberdade,1284,8.6,2023-05-29,Lisboa
+874,Lisboa Central Hostel,606,9.0,2023-05-29,Lisboa
+875,Timeout Market 2 bedrooms Be our Guest,1479,8.9,2023-05-29,Lisboa
+876,Belem Premium Duplex by Homing,1004,8.0,2023-05-29,Lisboa
+877,Vistas de Lisboa Hostel,456,7.1,2023-05-29,Lisboa
+878,FS Boutique Downtown,1182,9.0,2023-05-29,Lisboa
+879,Casa Balthazar,2030,9.5,2023-05-29,Lisboa
+880,1 bedroom apartment n02 - Rua da Palma,740,7.8,2023-05-29,Lisboa
+881,Santos Stylish by Homing,752,6.5,2023-05-29,Lisboa
+882,LX History Hotel,523,8.4,2023-05-29,Lisboa
+883,"Light Filled Apartment near Chiado, By TimeCooler",827,7.8,2023-05-29,Lisboa
+884,SALDANHA POMBALINE RESIDENCE,937,7.5,2023-05-29,Lisboa
+885,Olá Lisbon - Luxury Graça I,6214,9.6,2023-05-29,Lisboa
+886,The Local Guest House Lisbon,439,8.2,2023-05-29,Lisboa
+887,Lovely Private Suites in Central Lapa,715,7.3,2023-05-29,Lisboa
+888,Apartment2 with terrace and a view near Amoreiras,816,8.8,2023-05-29,Lisboa
+889,FLH Alfama Bright Apartment,742,7.9,2023-05-29,Lisboa
+890,Lisbon Liberdade Central Apartments,1374,7.8,2023-05-29,Lisboa
+891,Loft Mouraria,686,nan,2023-05-29,Lisboa
+892,Spacious Tailor Made Bairro Alto,1375,8.1,2023-05-29,Lisboa
+893,Belem Aloja,894,8.3,2023-05-29,Lisboa
+894,Breathtaking River View in Alfama,2434,7.4,2023-05-29,Lisboa
+895,Rooms in front of the Fado Museum in Alfama,1975,8.9,2023-05-29,Lisboa
+896,A casa do bairro,794,8.3,2023-05-29,Lisboa
+897,Lisbon Serviced Apartments - Estrela,1021,8.6,2023-05-29,Lisboa
+898,Zuni Guest House,406,8.1,2023-05-29,Lisboa
+899,Aposentos d'El Rei - Mouraria - Checkinhome,749,7.0,2023-05-29,Lisboa
+900,GuestReady - Beautiful Apartment in Intendente,632,6.3,2023-05-29,Lisboa
+901,Romantic Blue,842,9.5,2023-05-29,Lisboa
+902,"TP Maestro 74, Lisbon Luxury &amp; Swimming Pool",1994,9.2,2023-05-29,Lisboa
+903,Vita Portucale ! Deluxe 3 Br Apartment in Arroios,1433,8.5,2023-05-29,Lisboa
+904,Apartment Ajuda Tagus River View,645,nan,2023-05-29,Lisboa
+905,Mirabilis Apartments - AAA23,1041,9.3,2023-05-29,Lisboa
+906,Balcony Apartment in Lisbon Center,834,8.5,2023-05-29,Lisboa
+907,republica83-Lisbonhome,644,nan,2023-05-29,Lisboa
+908,FLH Augusta's Arch Bright Flat,1664,8.8,2023-05-29,Lisboa
+909,67 Rua São José,999,8.8,2023-05-29,Lisboa
+910,Portuguese Charm in Lisbon,774,7.8,2023-05-29,Lisboa
+911,Les Deux Mariettes São Bento,1582,9.4,2023-05-29,Lisboa
+912,apartamet in Bairro alto 1,699,7.1,2023-05-29,Lisboa
+913,1924,315,7.3,2023-05-29,Lisboa
+914,Belem Apartment with Terrace,763,6.8,2023-05-29,Lisboa
+915,Sweet Apartment with Terrace in Central,909,8.0,2023-05-29,Lisboa
+916,Lisboa Manaia Home,744,nan,2023-05-29,Lisboa
+917,Spacious Studio in Lisbon,1473,9.0,2023-05-29,Lisboa
+918,GuestReady - Figueira Guesthouse - Room 1,494,4.8,2023-05-29,Lisboa
+919,Entrecampos - Two bedroom apartment with Terrace,504,6.9,2023-05-29,Lisboa
+920,Sao Jorge Apartments &amp; Suites,1071,8.0,2023-05-29,Lisboa
+921,Mouraria Studios &amp; Flats by Lisbon Village Apartments,612,8.0,2023-05-29,Lisboa
+922,Cozy Lisbon Janelas Verdes,744,6.3,2023-05-29,Lisboa
+923,Akicity Benfica Arvin,1374,1.0,2023-05-29,Lisboa
+924,Dalma Flats - Castelo,958,7.8,2023-05-29,Lisboa
+925,Apartment Baixa/Chiado view Tagus,999,9.1,2023-05-29,Lisboa
+926,FLH Príncipe Real Bright Apartment,832,8.3,2023-05-29,Lisboa
+927,The Day Tripper at Chiado,867,6.0,2023-05-29,Lisboa
+928,City Center Martim Moniz,361,7.0,2023-05-29,Lisboa
+929,Ama Apartments,915,8.6,2023-05-29,Lisboa
+930,Fragrant Garden Apartment,2884,9.4,2023-05-29,Lisboa
+931,Lisbon Central Apartment with Terrace,614,7.0,2023-05-29,Lisboa
+932,Bica Apartment,1608,8.5,2023-05-29,Lisboa
+933,quarto suite em Belém,504,8.0,2023-05-29,Lisboa
+934,Mouraria Lisboa Hotel,933,8.7,2023-05-29,Lisboa
+935,GuestReady - Vibrant 2BR Apartment,1026,5.6,2023-05-29,Lisboa
+936,Alfama Fado Loft,779,9.1,2023-05-29,Lisboa
+937,Rainbow Guest House,444,7.5,2023-05-29,Lisboa
+938,Akicity Real Charm,1638,nan,2023-05-29,Lisboa
+939,Best of Principe Real Liberdade in the Heart of Lisbon with Private Parking,955,8.5,2023-05-29,Lisboa
+940,Charm Flats,1142,8.0,2023-05-29,Lisboa
+941,Hera 1 By Innkeeper,788,7.0,2023-05-29,Lisboa
+942,Inn Possible Lisbon Hostel,879,8.4,2023-05-29,Lisboa
+943,One bedroom apartment in the centre - Tv. da Madalena 01,668,7.9,2023-05-29,Lisboa
+944,Casa Boma Lisboa - Design Apartment with Private Vegetal Terrace - Lapa VII,1006,8.6,2023-05-29,Lisboa
+945,SRIINDO ARROiOS,360,6.6,2023-05-29,Lisboa
+946,Beato HUB Residences | Perfect for Digital Nomads &amp; Families,929,8.1,2023-05-29,Lisboa
+947,FLH Liberdade Terrace Apartment,809,7.2,2023-05-29,Lisboa
+948,Top floor Amazing View Apartment 63 by Lisbonne Collection,1054,9.4,2023-05-29,Lisboa
+949,Tagus Marina,1049,9.3,2023-05-29,Lisboa
+950,Cozy Apartment in historic center,776,8.2,2023-05-29,Lisboa
+951,Vila Olarias,789,8.8,2023-05-29,Lisboa
+952,Olá Lisbon - Bairro Alto II,913,7.3,2023-05-29,Lisboa
+953,A Treat in Belém,670,10,2023-05-29,Lisboa
+954,Residencial Roxi,324,7.5,2023-05-29,Lisboa
+955,Frutaria - Lisbon Suites,1054,6.9,2023-05-29,Lisboa
+956,Olá Lisbon - Graça II,1681,8.7,2023-05-29,Lisboa
+957,WHome | Casino Premium Apartment,948,8.5,2023-05-29,Lisboa
+958,Classy 2BDR Apartment in Downtown by LovelyStay,1244,7.9,2023-05-29,Lisboa
+959,FLH Liberdade Contemporary Flat,809,8.2,2023-05-29,Lisboa
+960,Starhouse,974,9.1,2023-05-29,Lisboa
+961,St. George Hills Studios,605,7.1,2023-05-29,Lisboa
+962,Suites Panoramic - River View,1392,8.3,2023-05-29,Lisboa
+963,Alojamento Batista,999,9.3,2023-05-29,Lisboa
+964,Light Green Apartments - Downtown Lisbon,968,7.8,2023-05-29,Lisboa
+965,Carmo Hideout at Chiado by Innkeeper,1099,8.6,2023-05-29,Lisboa
+966,Kalathos House 4 apartment by GT House,915,8.0,2023-05-29,Lisboa
+967,"3 Bedroom, 3 Bathroom apartment with Terrasse n22 - Martim Moniz",1688,7.9,2023-05-29,Lisboa
+968,Nesha Lucky nr. 23,400,7.8,2023-05-29,Lisboa
+969,All2gether Apartment,815,8.6,2023-05-29,Lisboa
+970,VIP Inn Berna Hotel,575,7.3,2023-05-29,Lisboa
+971,Studio &amp; Garden,646,8.7,2023-05-29,Lisboa
+972,NICE APARTMENTS IN PERFECT LISBON LOCATION,979,10,2023-05-29,Lisboa
+973,Chiado 4-Bedroom Flat,2571,8.8,2023-05-29,Lisboa
+974,Lisbon Center I,2195,9.0,2023-05-29,Lisboa
+975,Casinha Azul,776,7.6,2023-05-29,Lisboa
+976,Casa de Hospedes Boa Noite,354,6.9,2023-05-29,Lisboa
+977,Elegant S. Miguel Apartment,1063,8.8,2023-05-29,Lisboa
+978,Boutique Apartments Lisboa,940,7.2,2023-05-29,Lisboa
+979,Castilho 63 Hostel &amp; Suites,661,7.7,2023-05-29,Lisboa
+980,Akicity Benfica Cadet,990,nan,2023-05-29,Lisboa
+981,Lisbon Hill House - NO. 591,496,9.5,2023-05-29,Lisboa
+982,Santos Classic by Homing,638,5.1,2023-05-29,Lisboa
+983,Vila Queirós - Cozy&amp;Sweet,1149,8.0,2023-05-29,Lisboa
+984,Sunny &amp; Quiet in Historic Center,1347,8.1,2023-05-29,Lisboa
+985,Bairro Alto Studio Apartments - by LU Holidays,1012,7.8,2023-05-29,Lisboa
+986,Akicity Campolide Targa,1134,nan,2023-05-29,Lisboa
+987,Prestige Ajuda Apartment,1022,8.5,2023-05-29,Lisboa
+988,SANA Capitol Hotel,1070,8.4,2023-05-29,Lisboa
+989,The Albuquerque Suites,600,8.2,2023-05-29,Lisboa
+990,Elegant Apartment Santana,997,7.3,2023-05-29,Lisboa
+991,Vista Rio,564,nan,2023-05-29,Lisboa
+992,Baxia-Chiado Apartment with Incredible view,1926,7.7,2023-05-29,Lisboa
+993,Sao Lazaro Apartments,503,8.5,2023-05-29,Lisboa
+994,Akicity Ajuda Ciel,954,10,2023-05-29,Lisboa
+995,"TP AURA 19, Swimming Pool, Terrace &amp; View",1994,9.1,2023-05-29,Lisboa
+996,My Lisbon Home- Chiado,1252,9.3,2023-05-29,Lisboa
+997,Sunny Apartment with balcony!,1218,7.0,2023-05-29,Lisboa
+998,Palácio Ludovice Wine Experience Hotel,1937,9.3,2023-05-29,Lisboa
+999,FLH Madragoa Bright Place,852,7.3,2023-05-29,Lisboa

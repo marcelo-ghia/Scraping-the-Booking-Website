@@ -1,0 +1,152 @@
+,hotel,price,rating,start_date,city
+0,Protur Naisa Palma Hotel,1496,8.9,2023-05-29,Palma_de_Mallorca
+1,Catalonia Majórica,860,8.0,2023-05-29,Palma_de_Mallorca
+2,HM Jaime III,972,8.0,2023-05-29,Palma_de_Mallorca
+3,Abelux,638,7.8,2023-05-29,Palma_de_Mallorca
+4,HM Palma Blanc,1465,8.1,2023-05-29,Palma_de_Mallorca
+5,Hotel Colon,624,7.4,2023-05-29,Palma_de_Mallorca
+6,Hotel Araxa - Adults Only,956,8.5,2023-05-29,Palma_de_Mallorca
+7,HM Balanguera,978,8.3,2023-05-29,Palma_de_Mallorca
+8,Hotel Joan Miró Museum,854,8.2,2023-05-29,Palma_de_Mallorca
+9,Hotel Saratoga,2436,8.7,2023-05-29,Palma_de_Mallorca
+10,Sercotel Hotel Zurbarán,844,8.2,2023-05-29,Palma_de_Mallorca
+11,UR Palacio Avenida,995,7.1,2023-05-29,Palma_de_Mallorca
+12,Palma Suites,1478,8.9,2023-05-29,Palma_de_Mallorca
+13,Apuntadores 8,720,8.2,2023-05-29,Palma_de_Mallorca
+14,Mallorca Suites - Turismo de Interior,1340,8.9,2023-05-29,Palma_de_Mallorca
+15,ICON Rosetó,1813,8.8,2023-05-29,Palma_de_Mallorca
+16,Bordoy Continental Palma,879,8.8,2023-05-29,Palma_de_Mallorca
+17,GPRO Valparaiso Palace &amp; Spa,1640,7.9,2023-05-29,Palma_de_Mallorca
+18,Borne Suites - Turismo de Interior,1677,8.9,2023-05-29,Palma_de_Mallorca
+19,Hotel Can Alomar,2635,9.2,2023-05-29,Palma_de_Mallorca
+20,Hotel Calatrava,2529,9.1,2023-05-29,Palma_de_Mallorca
+21,Hotel Hostal Cuba,1615,8.6,2023-05-29,Palma_de_Mallorca
+22,L´Aguila Suites - Turismo de Interior,1341,9.2,2023-05-29,Palma_de_Mallorca
+23,"Hotel Palma Bellver , Affiliated by Meliá",1082,8.0,2023-05-29,Palma_de_Mallorca
+24,Hotel Palladium,833,8.1,2023-05-29,Palma_de_Mallorca
+25,INNSiDE by Meliá Palma Center,1106,8.4,2023-05-29,Palma_de_Mallorca
+26,Montmari - Turismo de Interior,1276,8.8,2023-05-29,Palma_de_Mallorca
+27,Can Bordoy Grand House &amp; Garden,3833,9.1,2023-05-29,Palma_de_Mallorca
+28,Sant Miquel Homes - Turismo de interior,1103,8.7,2023-05-29,Palma_de_Mallorca
+29,Eurostars Marivent,771,8.2,2023-05-29,Palma_de_Mallorca
+30,Isla Mallorca &amp; Spa,947,8.4,2023-05-29,Palma_de_Mallorca
+31,Meliá Palma Marina,1223,8.1,2023-05-29,Palma_de_Mallorca
+32,Palacio Ca Sa Galesa,3689,9.4,2023-05-29,Palma_de_Mallorca
+33,Hotel Born,1500,8.8,2023-05-29,Palma_de_Mallorca
+34,INNSiDE by Meliá Palma Bosque,1100,8.4,2023-05-29,Palma_de_Mallorca
+35,Sheraton Mallorca Arabella Golf Hotel,2213,8.5,2023-05-29,Palma_de_Mallorca
+36,Summum Prime Boutique Hotel,2523,9.4,2023-05-29,Palma_de_Mallorca
+37,Hotel Cappuccino - Palma,2846,9.3,2023-05-29,Palma_de_Mallorca
+38,Hotel Basilica,1853,9.4,2023-05-29,Palma_de_Mallorca
+39,Hesperia Ciudad de Mallorca,781,7.9,2023-05-29,Palma_de_Mallorca
+40,BQ Augusta Hotel,805,8.4,2023-05-29,Palma_de_Mallorca
+41,Nixe Palace,2213,8.4,2023-05-29,Palma_de_Mallorca
+42,M House Hotel,1618,8.4,2023-05-29,Palma_de_Mallorca
+43,Sant Jaume Design Hotel,2318,9.1,2023-05-29,Palma_de_Mallorca
+44,Fil Suites,961,9.1,2023-05-29,Palma_de_Mallorca
+45,Hotel Costa Azul,966,8.4,2023-05-29,Palma_de_Mallorca
+46,Purohotel Palma,1817,8.2,2023-05-29,Palma_de_Mallorca
+47,Hotel Can Cirera,1727,9.4,2023-05-29,Palma_de_Mallorca
+48,BO Hotel Palma,1377,9.1,2023-05-29,Palma_de_Mallorca
+49,Hotel Victoria Gran Meliá,1356,8.6,2023-05-29,Palma_de_Mallorca
+50,Hotel Gloria de Sant Jaume,2790,9.4,2023-05-29,Palma_de_Mallorca
+51,Hotel Be Live Adults Only Marivent,1172,7.4,2023-05-29,Palma_de_Mallorca
+52,Hotel Amic Horizonte,620,7.2,2023-05-29,Palma_de_Mallorca
+53,Hotel Ciutat Jardi,1220,8.4,2023-05-29,Palma_de_Mallorca
+54,Petit Palace Hotel Tres,1660,8.9,2023-05-29,Palma_de_Mallorca
+55,"Castillo Hotel Son Vida, a Luxury Collection Hotel, Mallorca - Adults Only",2699,8.9,2023-05-29,Palma_de_Mallorca
+56,The Boc Suites,1421,9.2,2023-05-29,Palma_de_Mallorca
+57,BQ Belvedere Hotel,730,8.1,2023-05-29,Palma_de_Mallorca
+58,Boutique Hotel Posada Terra Santa,1911,9.4,2023-05-29,Palma_de_Mallorca
+59,Hotel Cort,2287,9.3,2023-05-29,Palma_de_Mallorca
+60,Be Live Experience Costa Palma,992,7.7,2023-05-29,Palma_de_Mallorca
+61,El Llorenc Parc de la Mar - Adults Only (+16),3273,9.2,2023-05-29,Palma_de_Mallorca
+62,Portixol Hotel &amp; Restaurant,2723,9.1,2023-05-29,Palma_de_Mallorca
+63,Hotel Antigua Palma - Casa Noble,2259,9.2,2023-05-29,Palma_de_Mallorca
+64,Es Princep - The Leading Hotels of the World,2841,9.2,2023-05-29,Palma_de_Mallorca
+65,Santa Clara Urban Hotel &amp; Spa,1745,8.8,2023-05-29,Palma_de_Mallorca
+66,Samaritana Suites,1718,9.5,2023-05-29,Palma_de_Mallorca
+67,Casa Delmonte - Turismo de Interior,1916,9.8,2023-05-29,Palma_de_Mallorca
+68,MLL Blue Bay,519,7.5,2023-05-29,Palma_de_Mallorca
+69,Sant Francesc Hotel Singular,4326,9.4,2023-05-29,Palma_de_Mallorca
+70,Hotel Feliz,1135,8.8,2023-05-29,Palma_de_Mallorca
+71,Convent de la Missio - Adults Only,2544,9.2,2023-05-29,Palma_de_Mallorca
+72,Ars Magna Bleisure Hotel,1370,9.0,2023-05-29,Palma_de_Mallorca
+73,Hotel Can Cera,3796,9.5,2023-05-29,Palma_de_Mallorca
+74,Calanova Sports Residence,924,8.7,2023-05-29,Palma_de_Mallorca
+75,Be Live Adults Only La Cala Boutique Hotel,1355,7.7,2023-05-29,Palma_de_Mallorca
+76,Urban Hostel Palma - Albergue Juvenil - Youth Hostel,420,6.8,2023-05-29,Palma_de_Mallorca
+77,Palma Riad - Adults Only,3666,9.4,2023-05-29,Palma_de_Mallorca
+78,We Hostel Palma - Albergue Juvenil,450,8.2,2023-05-29,Palma_de_Mallorca
+79,Ocho Suites &amp; Kitchen,2042,9.1,2023-05-29,Palma_de_Mallorca
+80,Ca n'Alexandre,944,8.8,2023-05-29,Palma_de_Mallorca
+81,Turismo de Interior Ca Sa Padrina,636,7.4,2023-05-29,Palma_de_Mallorca
+82,Antiguo Brondo - Turismo de Interior,864,7.1,2023-05-29,Palma_de_Mallorca
+83,Hotel Artmadams,925,8.3,2023-05-29,Palma_de_Mallorca
+84,Hotel Bosch Boutique,1076,8.8,2023-05-29,Palma_de_Mallorca
+85,Que Sera,4275,6.3,2023-05-29,Palma_de_Mallorca
+86,Nou Baleares,1082,8.9,2023-05-29,Palma_de_Mallorca
+87,Palma Ciudad y playa,1547,7.4,2023-05-29,Palma_de_Mallorca
+88,Nivia Born Boutique Hotel,1662,8.9,2023-05-29,Palma_de_Mallorca
+89,New Art Hostel - Albergue Juvenil,559,7.0,2023-05-29,Palma_de_Mallorca
+90,Vila Damunt,1911,9.6,2023-05-29,Palma_de_Mallorca
+91,Can Savella - Turismo de Interior,1077,8.3,2023-05-29,Palma_de_Mallorca
+92,Vintage Palma Palace Apartments TI,1092,8.0,2023-05-29,Palma_de_Mallorca
+93,StayCatalina Boutique Hotel-Apartments,1043,9.3,2023-05-29,Palma_de_Mallorca
+94,Nakar Hotel,2563,9.0,2023-05-29,Palma_de_Mallorca
+95,Boutique Hotel Petit Montisión,1425,9.0,2023-05-29,Palma_de_Mallorca
+96,Hotel Lis Mallorca,1241,6.5,2023-05-29,Palma_de_Mallorca
+97,Can Boss - Turismo de Interior,1862,9.1,2023-05-29,Palma_de_Mallorca
+98,Casa Catalina,848,8.9,2023-05-29,Palma_de_Mallorca
+99,Hotel Mirador,1113,7.9,2023-05-29,Palma_de_Mallorca
+100,Bonanova 20,1567,9.6,2023-05-29,Palma_de_Mallorca
+101,Terreno Studios,2664,9.4,2023-05-29,Palma_de_Mallorca
+102,THE SAILOR HOUSE - Duplex Palma Center,1423,8.4,2023-05-29,Palma_de_Mallorca
+103,Urban Suites Palma - Turismo de Interior,1199,8.1,2023-05-29,Palma_de_Mallorca
+104,Hermanos Gallego ETV9492,1853,9.5,2023-05-29,Palma_de_Mallorca
+105,Puro Grand Hotel,2501,9.4,2023-05-29,Palma_de_Mallorca
+106,Modern Studio Apartment,1041,nan,2023-05-29,Palma_de_Mallorca
+107,"Ganzes Loft in Altstadt, Nähe Kathedrale",1653,7.7,2023-05-29,Palma_de_Mallorca
+108,The Boc Hostels - Palma Albergue Juvenil,587,8.3,2023-05-29,Palma_de_Mallorca
+109,Duplex Palma Apartment with garage,1228,7.9,2023-05-29,Palma_de_Mallorca
+110,Palma Ciudad,1255,6.7,2023-05-29,Palma_de_Mallorca
+111,Villa Del Mar Mondrago,2763,5.7,2023-05-29,Palma_de_Mallorca
+112,Confraria Singular Suites,1331,9.1,2023-05-29,Palma_de_Mallorca
+113,Can Marineta,1767,6.6,2023-05-29,Palma_de_Mallorca
+114,The Boc Hostels - City Albergue Juvenil,807,8.9,2023-05-29,Palma_de_Mallorca
+115,Villa El Terreno,2452,nan,2023-05-29,Palma_de_Mallorca
+116,Villas Cas Moliner,2328,7.8,2023-05-29,Palma_de_Mallorca
+117,Hotel Can Quetglas,1343,9.4,2023-05-29,Palma_de_Mallorca
+118,JOE'S GOMILA BOUTIQUE HOTEL,1080,8.6,2023-05-29,Palma_de_Mallorca
+119,Double New Rooms at the Center of Palma,527,7.5,2023-05-29,Palma_de_Mallorca
+120,Dog Admiral - Urban Guest House,1102,8.2,2023-05-29,Palma_de_Mallorca
+121,VILLA ALFABIA,4304,nan,2023-05-29,Palma_de_Mallorca
+122,Double Rooms At The Heart Of Palma,442,7.3,2023-05-29,Palma_de_Mallorca
+123,Holiday Palma Apartments - Turismo de Interior,1412,7.5,2023-05-29,Palma_de_Mallorca
+124,Palacio Can Marqués,4255,9.2,2023-05-29,Palma_de_Mallorca
+125,Y Hostel - Albergue Juvenil,1920,8.4,2023-05-29,Palma_de_Mallorca
+126,Residencia Mayol - Adults Only,803,6.5,2023-05-29,Palma_de_Mallorca
+127,"Casa Filipinas ,centro Ciudad",6023,9.7,2023-05-29,Palma_de_Mallorca
+128,Amilcar House,1602,7.5,2023-05-29,Palma_de_Mallorca
+129,Casa Borguny - House in the centre of Palma,1410,8.5,2023-05-29,Palma_de_Mallorca
+130,Casa Laura,1940,7.8,2023-05-29,Palma_de_Mallorca
+131,Céntrica y amplia casa,2019,3.3,2023-05-29,Palma_de_Mallorca
+132,Casita rosa,820,9.0,2023-05-29,Palma_de_Mallorca
+133,Villa Malen'S,1372,1.0,2023-05-29,Palma_de_Mallorca
+134,Villa Playa Felostal,6089,9.3,2023-05-29,Palma_de_Mallorca
+135,Can Reto,3355,7.3,2023-05-29,Palma_de_Mallorca
+136,Cas Fideuer,3183,6.3,2023-05-29,Palma_de_Mallorca
+137,Casa en centro,1842,5.7,2023-05-29,Palma_de_Mallorca
+138,Villa Laura,2494,nan,2023-05-29,Palma_de_Mallorca
+139,Caulls,2131,6.0,2023-05-29,Palma_de_Mallorca
+140,Villa Santa Lavinia,8550,9.9,2023-05-29,Palma_de_Mallorca
+141,Villa Son Armadans,7116,9.2,2023-05-29,Palma_de_Mallorca
+142,Villa Hasso Moli dels Reis,4366,nan,2023-05-29,Palma_de_Mallorca
+143,Villa Mar Felostal,3533,9.3,2023-05-29,Palma_de_Mallorca
+144,Casita Neptuno,2893,10,2023-05-29,Palma_de_Mallorca
+145,Casa de las Vistas,4286,7.7,2023-05-29,Palma_de_Mallorca
+146,3 bedrooms villa with private pool enclosed garden and wifi at Marratxi 9 km away from the beach,2679,6.0,2023-05-29,Palma_de_Mallorca
+147,Appartement,5167,nan,2023-05-29,Palma_de_Mallorca
+148,Natural,2257,nan,2023-05-29,Palma_de_Mallorca
+149,El Josemari Youth Hostel - Albergue Juvenil,450,8.2,2023-05-29,Palma_de_Mallorca
+150,Palma Port Hostel - Albergue Juvenil,378,8.0,2023-05-29,Palma_de_Mallorca
